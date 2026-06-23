@@ -10,7 +10,7 @@
     },
     "total_videos": 25,
     "video_size_mb": 2278,
-    "courseware_pdf_count": 2,
+    "courseware_pdf_count": 3,
     "notes_pdf_count": 1,
     "knowledge_point_images": 2,
     "official_sample_pdfs": 6,
@@ -39,9 +39,15 @@
         ]
       },
       "courseware": {
-        "count": 0,
-        "note": "网站未提供Paper 1讲义PDF",
-        "files": []
+        "count": 1,
+        "note": "全部9个章节共用此讲义",
+        "files": [
+          {
+            "name": "山海老师精讲讲义",
+            "file": "Paper 1_courseware_1.pdf",
+            "size_mb": 38.4
+          }
+        ]
       },
       "official_samples": [
         {"file": "Paper 1_中文样题.pdf", "size_mb": 0.82},
