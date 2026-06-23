@@ -44,7 +44,7 @@ def app_api_call(endpoint: str, params: dict = None, token: str = None) -> dict:
 
 
 PAPERS = {
-    "卷一": {
+    "Paper 1": {
         "subject_id": 7,
         "item_id": 1252,
         "chapters": [
@@ -55,7 +55,7 @@ PAPERS = {
             {"id": 32, "name": "第9章"},
         ]
     },
-    "卷二": {
+    "Paper 2": {
         "subject_id": 4,
         "item_id": 2417,
         "chapters": [
@@ -65,7 +65,7 @@ PAPERS = {
             {"id": 43, "name": "第7章"},
         ]
     },
-    "卷六": {
+    "Paper 6": {
         "subject_id": 3,
         "item_id": 2418,
         "chapters": [

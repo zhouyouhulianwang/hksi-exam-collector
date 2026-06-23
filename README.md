@@ -6,9 +6,9 @@ Collects question banks, videos, courseware, and exam papers for HKSI LE (Hong K
 
 | Paper | Chapters | Questions | Videos | Courseware |
 |-------|----------|-----------|--------|------------|
-| 卷一 (Paper 1) | 9 | 1,444 | 9 | 1 PDF |
-| 卷二 (Paper 2) | 7 | 636 | 11 | 1 PDF |
-| 卷六 (Paper 6) | 4 | 1,206 | 5 | 2 PDFs |
+| Paper 1 (Paper 1) | 9 | 1,444 | 9 | 1 PDF |
+| Paper 2 (Paper 2) | 7 | 636 | 11 | 1 PDF |
+| Paper 6 (Paper 6) | 4 | 1,206 | 5 | 2 PDFs |
 | **Total** | **20** | **3,286** | **25** | **4 PDFs** |
 
 - 11 preset exam papers + 2 auto-generated exam papers
@@ -25,15 +25,15 @@ Collects question banks, videos, courseware, and exam papers for HKSI LE (Hong K
 │   ├── collect_videos.py         # Video downloader
 │   └── utils.py                  # API utilities
 ├── data/                         # Collected question banks
-│   ├── 卷一_完整题库.json
-│   ├── 卷二_完整题库.json
-│   ├── 卷六_完整题库.json
+│   ├── Paper 1_完整题库.json
+│   ├── Paper 2_完整题库.json
+│   ├── Paper 6_完整题库.json
 │   ├── 全部题库.json
 │   ├── 资料对应表.json
 │   ├── 资料对应表.md
-│   ├── 卷一/预设模拟卷/
-│   ├── 卷二/预设模拟卷/
-│   └── 卷六/预设模拟卷/
+│   ├── Paper 1/预设模拟卷/
+│   ├── Paper 2/预设模拟卷/
+│   └── Paper 6/预设模拟卷/
 └── materials/                    # Courseware PDFs and video manifests
     ├── video_manifest.json
     ├── *_courseware.pdf
