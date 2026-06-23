@@ -1,0 +1,1256 @@
+{
+  "exam_id": "534",
+  "title": "香港证券从业考试卷六HKSI LE Paper 6 - 预设模拟卷 - 试卷1",
+  "short_title": "预设模拟卷 - 试卷1",
+  "question_count": 39,
+  "questions": [
+    {
+      "question_id": 2981,
+      "content": "<p style=\"text-align: left;\">Z法团为香港一间成立9个月的持牌法团，其每日为客户发出电子版户口日结单，该型单据包括以下哪些数据？</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">I. Z法团当日的盈利状况；</p><p style=\"text-align: left;\">II. 客户当日的盈利状况；</p><p style=\"text-align: left;\">III. 制备的日期；</p><p style=\"text-align: left;\">IV. 当日订立及平仓的每项交易。</p>",
+      "cht_content": "<p style=\"text-align: left;\">Z法團為香港一間成立9個月的持牌法團，其每日為客戶發出電子版戶口日結單，該型單據包括以下哪些數據？</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">I. Z法團當日的盈利狀況；</p><p style=\"text-align: left;\">II. 客戶當日的盈利狀況；</p><p style=\"text-align: left;\">III. 製備的日期；</p><p style=\"text-align: left;\">IV. 當日訂立及平倉的每項交易。</p>",
+      "en_content": "<p style=\"text-align: left;\">Z Corporation is a licensed corporation in Hong Kong that has been established for 9 months. It issues electronic daily account statements to its clients. Which of the following data are included in this type of statement?</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">I. Z Corporation's profit status for the day;</p><p style=\"text-align: left;\">II. The client's profit status for the day;</p><p style=\"text-align: left;\">III. The date of preparation;</p><p style=\"text-align: left;\">IV. Each transaction entered into and closed on the day.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有III，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p style=\"text-align: left;\">中介人须为每名客户制备及提供户口日结单，当中应包括以下数据︰</p><p style=\"text-align: left;\">(a) 中介人及有联系实体经营业务所用的名称；</p><p style=\"text-align: left;\">(b) 客户的姓名或名称、地址及帐户号码；</p><p style=\"text-align: left;\">(c) 制备结单的日期；</p><p style=\"text-align: left;\">(d) 于当日订立及平仓的每项交易；</p><p style=\"text-align: left;\">(e) 在交易当日开始及终结时该账户的尚待结算结余，以及该账户的结余在该日的所有变动；</p><p style=\"text-align: left;\">(f) 于当日记入贷项的所有收入及征收的所有收费等数据。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">中介人須為每名客戶製備及提供戶口日結單，當中應包括以下資料︰</p><p style=\"text-align: left;\">(a) 中介人及有聯繫實體經營業務所用的名稱；</p><p style=\"text-align: left;\">(b) 客戶的姓名或名稱、地址及帳戶號碼；</p><p style=\"text-align: left;\">(c) 製備結單的日期；</p><p style=\"text-align: left;\">(d) 於當日訂立及平倉的每項交易；</p><p style=\"text-align: left;\">(e) 在交易當日開始及結束時該帳戶的尚待結算結餘，以及該帳戶的結餘在該日的所有變動；</p><p style=\"text-align: left;\">(f) 於當日記入貸項的所有收入及徵收的所有收費等資料。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Intermediaries shall prepare and provide an account daily statement for each client, which shall include the following information:</p><p style=\"text-align: left;\">(a) the name under which the intermediary and its associated entities conduct business;</p><p style=\"text-align: left;\">(b) the client's name or designation, address, and account number;</p><p style=\"text-align: left;\">(c) the date on which the statement is prepared;</p><p style=\"text-align: left;\">(d) each transaction entered into and closed out on that day;</p><p style=\"text-align: left;\">(e) the outstanding settlement balance of the account at the beginning and end of the trading day, as well as all changes to the account balance during the day;</p><p style=\"text-align: left;\">(f) information on all income credited and all charges levied on that day.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 3404,
+      "content": "<p><span>根据《证券及期货条例》，以下哪一项不属于市场失当行为？</span></p>",
+      "cht_content": "<p><span>根據《證券及期貨條例》，以下哪一項不屬於市場失當行為？</span></p>",
+      "en_content": "<p><span>Under the Securities and Futures Ordinance, which of the following does not constitute market misconduct?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "内幕交易"
+        },
+        {
+          "key": "B",
+          "value": "虚假交易"
+        },
+        {
+          "key": "C",
+          "value": "操控价格"
+        },
+        {
+          "key": "D",
+          "value": "高压推销证券的活动"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p style=\"text-align: left;\">高压推销证券的活动不会被列作犯罪行为，此活动会被审査，以侦查其是否违法，然而是不道德行为。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">“不当”一般较轻微的犯法，但“失当”都比较严重。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">高壓推銷證券的活動不會被列作犯罪行為，此活動會被審查，以偵測其是否違法，然而是不道德行為。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">「不當」一般較輕微的犯法，但「失當」都比較嚴重。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">High-pressure selling of securities will not be classified as a criminal offence. Such activities will be examined to detect whether they are illegal, but they are considered unethical conduct.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">'Improper' generally refers to relatively minor offences, whereas 'misconduct' is more serious.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 2949,
+      "content": "<p style=\"text-align: left;\">以下几个公司，哪些可能符合《证券及期货条例》第IVA部成立的开放式基金型公司的要求？</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">I. A法团，根据《公司条例》注册成立，在公司注册处注册，专为开展投资业务设立；</p><p style=\"text-align: left;\">II. B法团，名为“天天赢开放式基金型公司”，根据《证券及期货条例》(第571章)注册成立；</p><p style=\"text-align: left;\">III. C法团，为一间私人公司，成员为10名富豪，拥有较好的投资经验，名为“卓越成长开放式公司”；</p><p style=\"text-align: left;\">IV. D法团，为某基金公司专为投资目的设立，根据《证券及期货条例》(第571章)注册成立，公司董事仅有两名，且全部为自然人，名为“Daluobo OFC”。</p>",
+      "cht_content": "<p style=\"text-align: left;\">以下幾間公司，哪些可能符合《證券及期貨條例》第IVA部成立的開放式基金型公司的要求？</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">I. A法團，根據《公司條例》註冊成立，在公司註冊處註冊，專為開展投資業務設立；</p><p style=\"text-align: left;\">II. B法團，名為「天天贏開放式基金型公司」，根據《證券及期貨條例》(第571章)註冊成立；</p><p style=\"text-align: left;\">III. C法團，為一間私人公司，成員為10名富豪，擁有較好的投資經驗，名為「卓越成長開放式公司」；</p><p style=\"text-align: left;\">IV. D法團，為某基金公司專為投資目的設立，根據《證券及期貨條例》(第571章)註冊成立，公司董事僅有兩名，且全部為自然人，名為「Daluobo OFC」。</p>",
+      "en_content": "<p style=\"text-align: left;\">Which of the following companies may meet the requirements for an open-ended fund company established under Part IVA of the Securities and Futures Ordinance?</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">I. A corporation, incorporated under the Companies Ordinance, registered with the Companies Registry, specifically established for conducting investment business;</p><p style=\"text-align: left;\">II. B corporation, named \"Daily Win Open-ended Fund Company,\" incorporated under the Securities and Futures Ordinance (Chapter 571);</p><p style=\"text-align: left;\">III. C corporation, a private company with 10 wealthy members possessing considerable investment experience, named \"Outstanding Growth Open-ended Company\";</p><p style=\"text-align: left;\">IV. D corporation, established by a fund company specifically for investment purposes, incorporated under the Securities and Futures Ordinance (Chapter 571), with only two directors, both of whom are natural persons, named \"Daluobo OFC.\"</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II"
+        },
+        {
+          "key": "B",
+          "value": "只有II，III"
+        },
+        {
+          "key": "C",
+          "value": "只有II，IV"
+        },
+        {
+          "key": "D",
+          "value": "只有I，II，IV"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p style=\"text-align: left;\">开放式基金型公司是根据香港《证券及期货条例》(第571章)注册成立；普通公司根据香港《公司条例》(第622章)注册成立。二者受规管法例不同。具体来说，开放式基金型公司由下述法规及守则规管：</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(a)《证券及期货条例》(第571章)第IVA部;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(b)《证券及期货(开放式基金型公司)规则》(第571AQ章);</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(c)《证券及期货(开放式基金型公司)(费用)规例》(第571AR章);</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(d)《开放式基金型公司守则》; 及</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(e)《证监会产品手册》。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">开放式基金型公司的名称，必须以 “Open-ended Fund Company” 或 “OFC” 作为公司英文名称的结尾，及以“开放式基金型公司＂作为公司中文名称的结尾。因此III不对。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">有私人OFC 的，一家私人OFC，获得香港证监会授权后，可变更为公众OFC。该等申请，须符合香港证监会产品手册之相关授权要求。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">開放式基金型公司是根據香港《證券及期貨條例》(第571章)註冊成立；普通公司根據香港《公司條例》(第622章)註冊成立。二者受規管法例不同。具體來說，開放式基金型公司由下述法規及守則規管：</p>\n\n<p style=\"text-align: left;\"><br></p>\n\n<p style=\"text-align: left;\">(a)《證券及期貨條例》(第571章)第IVA部;</p>\n\n<p style=\"text-align: left;\"><br></p>\n\n<p style=\"text-align: left;\">(b)《證券及期貨(開放式基金型公司)規則》(第571AQ章);</p>\n\n<p style=\"text-align: left;\"><br></p>\n\n<p style=\"text-align: left;\">(c)《證券及期貨(開放式基金型公司)(費用)規例》(第571AR章);</p>\n\n<p style=\"text-align: left;\"><br></p>\n\n<p style=\"text-align: left;\">(d)《開放式基金型公司守則》; 及</p>\n\n<p style=\"text-align: left;\"><br></p>\n\n<p style=\"text-align: left;\">(e)《證監會產品手冊》。</p>\n\n<p style=\"text-align: left;\"><br></p>\n\n<p style=\"text-align: left;\">開放式基金型公司的名稱，必須以 “Open-ended Fund Company” 或 “OFC” 作為公司英文名稱的結尾，及以「開放式基金型公司」作為公司中文名稱的結尾。因此III不對。</p>\n\n<p style=\"text-align: left;\"><br></p>\n\n<p style=\"text-align: left;\">有私人OFC 的，一家私人OFC，獲得香港證監會授權後，可變更為公眾OFC。該等申請，須符合香港證監會產品手冊之相關授權要求。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Open-ended Fund Companies are incorporated under the Hong Kong Securities and Futures Ordinance (Cap. 571); ordinary companies are incorporated under the Hong Kong Companies Ordinance (Cap. 622). The two are governed by different regulatory laws. Specifically, Open-ended Fund Companies are regulated by the following legislation and codes:</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(a) Part IVA of the Securities and Futures Ordinance (Cap. 571);</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(b) Securities and Futures (Open-ended Fund Companies) Rules (Cap. 571AQ);</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(c) Securities and Futures (Open-ended Fund Companies) (Fees) Regulation (Cap. 571AR);</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(d) Code on Open-ended Fund Companies; and</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(e) SFC Product Handbook.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">The name of an Open-ended Fund Company must end with \"Open-ended Fund Company\" or \"OFC\" for its English name, and \"开放式基金型公司\" for its Chinese name. Therefore, III is incorrect.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">There are private OFCs. A private OFC, upon authorization by the Hong Kong Securities and Futures Commission, may convert to a public OFC. Such applications must comply with the relevant authorization requirements in the SFC Product Handbook.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 2846,
+      "content": "<p style=\"text-align: left;\">根据《财政资源规则》，作为一间持牌法团，在半年申报表中需要包含什么内容？</p><p style=\"text-align: left;\">I.速动资金计算表；</p><p style=\"text-align: left;\">II.规定速动资金计算表；</p><p style=\"text-align: left;\">III.每名客户的财产情况；</p><p style=\"text-align: left;\">IV.客户的状况的分析。</p>",
+      "cht_content": "<p style=\"text-align: left;\">根據《財政資源規則》，作為一間持牌法團，在半年申報表中需要包含什麼內容？</p><p style=\"text-align: left;\">I. 速動資金計算表；</p><p style=\"text-align: left;\">II. 規定速動資金計算表；</p><p style=\"text-align: left;\">III. 每名客戶的財產情況；</p><p style=\"text-align: left;\">IV. 客戶的狀況的分析。</p>",
+      "en_content": "<p style=\"text-align: left;\">According to the Financial Resources Rules, what must be included in the semi-annual report of a licensed corporation?</p><p style=\"text-align: left;\">I. Statement of liquid capital calculation;</p><p style=\"text-align: left;\">II. Statement of required liquid capital calculation;</p><p style=\"text-align: left;\">III. Property status of each client;</p><p style=\"text-align: left;\">IV. Analysis of client conditions.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有II，III， IV"
+        },
+        {
+          "key": "B",
+          "value": "只有II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "D",
+          "value": "I， II， III， IV"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">客户的财产情况也是你要瞪大眼珠子去看的？ 这个不是客户的隐私？ 再者，你要向监管披露客户的财产？？？哪个还敢到你这里开展业务？？？</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">客戶嘅財產狀況亦係你要睜大眼睛睇清楚嘅？呢啲唔係客戶嘅私隱咩？再講，你仲要向監管機構披露客戶嘅財產？？？邊個仲敢嚟你度開戶做生意？？？</span></p>",
+      "en_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">Are you supposed to scrutinise the client's financial status with wide-open eyes? Isn't that the client's private matter? Moreover, are you required to disclose the client's assets to the regulators? Who would dare to conduct business with you then?</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 2782,
+      "content": "<p><span>某注册机构的主管人员Bob，被证监会要求协助调查一桩市场失当行为的案件，做市场失当失当行为的证人，以下哪个选项正确？</span></p>",
+      "cht_content": "<p><span>某註冊機構的主管人員Bob，被證監會要求協助調查一宗市場失當行為的案件，擔任市場失當行為的證人，以下哪個選項正確？</span></p>",
+      "en_content": "<p><span>Bob, a responsible officer of a registered institution, has been requested by the Securities and Futures Commission to assist in the investigation of a case involving market misconduct and to serve as a witness for market misconduct. Which of the following options is correct?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "Bob可以自由决定是否去，除非公司给出辩解禁止理由 ；"
+        },
+        {
+          "key": "B",
+          "value": "他有义务去，除非公司不让；"
+        },
+        {
+          "key": "C",
+          "value": "注册机构的前线监管是金管局，除非金管局书面同意去；"
+        },
+        {
+          "key": "D",
+          "value": "他属于适当人选，不能做证人。"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p style=\"text-align: left;\">金管局与证监会共同监管受《证券及期货条例》规管的活动。金管局作为前线监管机构，负责监督注册机构中进行受规管活动的人员遵守证监会的指引。同时，证监会有权对注册机构施行监督及调查权，并且金管局会通知证监会其对注册机构进行的调查。</p><p style=\"text-align: left;\"> </p><p style=\"text-align: left;\">在这个情况中，如果证监会要求某注册机构的主管人员去做市场失当行为的证人，该人员应当有义务配合证监会的调查，除非公司有正当理由不允许其去。因此，选项B是正确的：“他有义务去，除非公司不让。”</p><p style=\"text-align: left;\"> </p><p style=\"text-align: left;\">选项A错误，因为个人不可以自由决定是否配合证监会的要求，尤其是在涉及市场失当行为调查的情况下。</p><p style=\"text-align: left;\"> </p><p style=\"text-align: left;\">选项C错误，因为虽然金管局是注册机构的前线监管机构，但证监会在特定情况下仍有权要求相关人员配合调查，不需要金管局的书面同意。</p><p style=\"text-align: left;\"> </p><p style=\"text-align: left;\">选项D错误，因为适当人选的身份并不免除个人在法律程序中担任证人的义务。</p><p style=\"text-align: left;\"> </p><p style=\"text-align: left;\">综上所述，正确答案是：B、他有义务去，除非公司不让。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">金管局與證監會共同監管受《證券及期貨條例》規管的活動。金管局作為前線監管機構，負責監督註冊機構中進行受規管活動的人員遵守證監會的指引。同時，證監會有權對註冊機構施行監督及調查權，並且金管局會通知證監會其對註冊機構進行的調查。</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">在這個情況中，如果證監會要求某註冊機構的主管人員去做市場失當行為的證人，該人員應當有義務配合證監會的調查，除非公司有正當理由不允許其去。因此，選項B是正確的：「他有義務去，除非公司不讓。」</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">選項A錯誤，因為個人不可以自由決定是否配合證監會的要求，尤其是在涉及市場失當行為調查的情況下。</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">選項C錯誤，因為雖然金管局是註冊機構的前線監管機構，但證監會在特定情況下仍有權要求相關人員配合調查，不需要金管局的書面同意。</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">選項D錯誤，因為適當人選的身份並不免除個人在法律程序中擔任證人的義務。</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">綜上所述，正確答案是：B、他有義務去，除非公司不讓。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">The Hong Kong Monetary Authority (HKMA) and the Securities and Futures Commission (SFC) jointly regulate activities governed by the Securities and Futures Ordinance. As the frontline regulatory body, the HKMA is responsible for supervising personnel in registered institutions who conduct regulated activities to ensure compliance with the SFC's guidelines. At the same time, the SFC has the authority to exercise supervisory and investigative powers over registered institutions, and the HKMA will inform the SFC of any investigations it conducts on these institutions.</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">In this scenario, if the SFC requires a responsible officer of a registered institution to serve as a witness in a case involving market misconduct, the officer is obligated to cooperate with the SFC's investigation, unless the company has valid reasons to prevent them from doing so. Therefore, Option B is correct: \"He is obliged to go, unless the company does not allow it.\"</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">Option A is incorrect because an individual cannot freely decide whether to comply with the SFC's request, especially in investigations related to market misconduct.</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">Option C is incorrect because, although the HKMA is the frontline regulator for registered institutions, the SFC retains the authority to require relevant personnel to cooperate with investigations under specific circumstances without needing written consent from the HKMA.</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">Option D is incorrect because being a fit and proper person does not exempt an individual from the obligation to serve as a witness in legal proceedings.</p>\n\n<p style=\"text-align: left;\"> </p>\n\n<p style=\"text-align: left;\">In summary, the correct answer is: B. He is obliged to go, unless the company does not allow it.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 6
+    },
+    {
+      "question_id": 2983,
+      "content": "<p style=\"text-align: left;\">Z法团为香港一间成立9个月的持牌法团，经营保证金融资业务，其每日为客户发出电子版户口日结单，该型单据包括以下哪些数据？</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">I. Z法团的名称；</p><p style=\"text-align: left;\">II. 客户的姓名、地址及账户；</p><p style=\"text-align: left;\">III. 在交易当日开始及终结时该账户的尚待结算结余，以及该账户的结余在该日的所有变动；</p><p style=\"text-align: left;\">IV. 于当日记入贷项的所有收入及征收的所有收费等数据。</p>",
+      "cht_content": "<p style=\"text-align: left;\">Z法團為香港一間成立9個月的持牌法團，經營保證金融資業務，其每日為客戶發出電子版戶口日結單，該型單據包括以下哪些數據？</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">I. Z法團的名稱；</p><p style=\"text-align: left;\">II. 客戶的姓名、地址及賬戶；</p><p style=\"text-align: left;\">III. 在交易當日開始及終結時該賬戶的尚待結算結餘，以及該賬戶的結餘在該日的所有變動；</p><p style=\"text-align: left;\">IV. 於當日記入貸項的所有收入及徵收的所有收費等數據。</p>",
+      "en_content": "<p style=\"text-align: left;\">Corporation Z is a licensed corporation in Hong Kong that has been established for 9 months, operating a margin financing business. It issues electronic daily account statements to its clients, which include the following data:</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">I. The name of Corporation Z;</p><p style=\"text-align: left;\">II. The client's name, address, and account number;</p><p style=\"text-align: left;\">III. The unsettled balance at the beginning and end of the trading day, as well as all changes to the account balance during the day;</p><p style=\"text-align: left;\">IV. Data on all income credited and fees charged on the day.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p style=\"text-align: left;\">中介人须为每名客户制备及提供户口日结单，当中应包括以下数据︰</p><p style=\"text-align: left;\">(a) 中介人及有联系实体经营业务所用的名称；</p><p style=\"text-align: left;\">(b) 客户的姓名或名称、地址及帐户号码；</p><p style=\"text-align: left;\">(c) 制备结单的日期；</p><p style=\"text-align: left;\">(d) 于当日订立及平仓的每项交易；</p><p style=\"text-align: left;\">(e) 在交易当日开始及终结时该账户的尚待结算结余，以及该账户的结余在该日的所有变动；</p><p style=\"text-align: left;\">(f) 于当日记入贷项的所有收入及征收的所有收费等数据。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">中介人須為每位客戶編製及提供戶口日結單，當中應包含以下資料：</p><p style=\"text-align: left;\">(a) 中介人及有關聯實體經營業務時所使用的名稱；</p><p style=\"text-align: left;\">(b) 客戶的姓名或名稱、地址及帳戶號碼；</p><p style=\"text-align: left;\">(c) 編製結單的日期；</p><p style=\"text-align: left;\">(d) 當日訂立及平倉的每項交易；</p><p style=\"text-align: left;\">(e) 交易當日開始及結束時該帳戶的待結算餘額，以及該帳戶餘額在當日的所有變動；</p><p style=\"text-align: left;\">(f) 當日記入貸項的所有收入及收取的所有費用等資料。</p>",
+      "en_analysis": "Intermediaries are required to prepare and provide a daily account statement for each client, which must include the following information:  \n\n(a) The name under which the intermediary and its associated entities operate their business;  \n\n(b) The client’s name, address, and account number;  \n\n(c) The date on which the statement is prepared;  \n\n(d) Each transaction entered into and closed on that day;  \n\n(e) The unsettled balance at the beginning and end of the account on the transaction day, as well as all changes to the account balance during the day;  \n\n(f) Details of all income credited and fees charged on that day",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 10060,
+      "content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">一家开放式基金型公司（OFC）的董事会经审慎考虑后，决定终止该OFC的运作。根据《开放式基金型公司守则》及相关公司程序的规定，下列哪个流程是正确的？</span></p>",
+      "cht_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">一家開放式基金型公司（OFC）的董事會經審慎考慮後，決定終止該OFC的運作。根據《開放式基金型公司守則》及相關公司程序的規定，下列哪個流程是正確的？</span></p>",
+      "en_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">After careful consideration, the board of directors of an open-ended fund company (OFC) has decided to terminate the operation of the OFC. According to the Code on Open-ended Fund Companies and the relevant company procedures, which of the following processes is correct?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "董事会可直接委任清盘人进行清盘，并在清盘结束后通知证监会。"
+        },
+        {
+          "key": "B",
+          "value": "必须先获得证监会的事先批准，然后才可召开股东大会通过终止决议。"
+        },
+        {
+          "key": "C",
+          "value": "必须召开股东大会，通过一项特别决议案批准终止，然后委任清盘人处理，并在清盘完成后向公司注册处处长申请取消注册。"
+        },
+        {
+          "key": "D",
+          "value": "只须通知所有股东，并在所有资产变现并分配给股东后，即可自动解散。"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p style=\"text-align: left;\">山海老师分析，本题考察OFC作为一种“公司”的法律属性，其终止程序必须遵循公司法的清盘流程。</p><p style=\"text-align: left;\">选项A：不正确。终止公司的重大决定需要股东的批准，董事会不能单方面决定。</p><p style=\"text-align: left;\">选项B：不正确。终止程序的启动是由股东决定的，证监会的角色是监管整个过程符合规定并最终撤销其注册，而不是在股东决定前预先批准。</p><p style=\"text-align: left;\">选项C：正确。这是一个标准的公司清盘流程。首先，终止公司的决定权在股东，需要通过特别决议案（通常是75%或以上的票数）来批准。然后，公司须委任清盘人，负责变现资产、偿还债务、分配剩余财产。在整个清盘过程完成后，清盘人会向公司注册处申请将该公司取消注册。最后，证监会才会撤销该OFC的注册资格。</p><p style=\"text-align: left;\">选项D：不正确。公司不能“自动”解散，必须遵循法定的取消注册程序，否则在法律上它仍然存在。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">涉及知识点 (Knowledge Points Covered):</p><p style=\"text-align: left;\"> &nbsp; OFC的终止须经股东通过特别决议案批准。</p><p style=\"text-align: left;\"> &nbsp; 终止程序涉及委任清盘人进行清盘。</p><p style=\"text-align: left;\"> &nbsp; 清盘完成后，须向公司注册处申请取消注册。</p><p style=\"text-align: left;\"> &nbsp; 证监会在公司取消注册后，会撤销该OFC的注册。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">山海老師分析，本題考察OFC作為一種「公司」的法律屬性，其終止程序必須遵循公司法的清盤流程。</p>\n<p style=\"text-align: left;\">選項A：不正確。終止公司的重大決定需要股東的批准，董事會不能單方面決定。</p>\n<p style=\"text-align: left;\">選項B：不正確。終止程序的啟動是由股東決定的，證監會的角色是監管整個過程符合規定並最終撤銷其註冊，而不是在股東決定前預先批准。</p>\n<p style=\"text-align: left;\">選項C：正確。這是一個標準的公司清盤流程。首先，終止公司的決定權在股東，需要通過特別決議案（通常是75%或以上的票數）來批准。然後，公司須委任清盤人，負責變現資產、償還債務、分配剩餘財產。在整個清盤過程完成後，清盤人會向公司註冊處申請將該公司取消註冊。最後，證監會才會撤銷該OFC的註冊資格。</p>\n<p style=\"text-align: left;\">選項D：不正確。公司不能「自動」解散，必須遵循法定的取消註冊程序，否則在法律上它仍然存在。</p>\n<p style=\"text-align: left;\"><br></p>\n<p style=\"text-align: left;\">涉及知識點 (Knowledge Points Covered):</p>\n<p style=\"text-align: left;\"> &nbsp; OFC的終止須經股東通過特別決議案批准。</p>\n<p style=\"text-align: left;\"> &nbsp; 終止程序涉及委任清盤人進行清盤。</p>\n<p style=\"text-align: left;\"> &nbsp; 清盤完成後，須向公司註冊處申請取消註冊。</p>\n<p style=\"text-align: left;\"> &nbsp; 證監會在公司取消註冊後，會撤銷該OFC的註冊。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Teacher Shanhai analysed that this question examines the legal nature of an OFC as a \"company\", and its termination process must follow the winding-up procedures under the Companies Ordinance.</p>\n<p style=\"text-align: left;\">Option A: Incorrect. Major decisions regarding the termination of a company require shareholders' approval, and the board of directors cannot make such a decision unilaterally.</p>\n<p style=\"text-align: left;\">Option B: Incorrect. The initiation of the termination process is decided by the shareholders. The role of the Securities and Futures Commission (SFC) is to oversee the entire process to ensure compliance and ultimately deregister the company, rather than pre-approving the decision before shareholders have made it.</p>\n<p style=\"text-align: left;\">Option C: Correct. This is a standard company winding-up process. First, the decision to terminate the company lies with the shareholders, requiring approval through a special resolution (typically 75% or more of the votes). Then, the company must appoint a liquidator responsible for realising assets, repaying debts, and distributing any remaining property. After the entire winding-up process is completed, the liquidator will apply to the Companies Registry for the company's deregistration. Finally, the SFC will revoke the OFC's registration.</p>\n<p style=\"text-align: left;\">Option D: Incorrect. A company cannot be \"automatically\" dissolved; it must follow the statutory deregistration procedures; otherwise, it remains legally existent.</p>\n<p style=\"text-align: left;\"><br></p>\n<p style=\"text-align: left;\">Knowledge Points Covered:</p>\n<p style=\"text-align: left;\"> &nbsp; Termination of an OFC requires approval by shareholders through a special resolution.</p>\n<p style=\"text-align: left;\"> &nbsp; The termination process involves appointing a liquidator to carry out the winding-up.</p>\n<p style=\"text-align: left;\"> &nbsp; After the winding-up is completed, an application for deregistration must be submitted to the Companies Registry.</p>\n<p style=\"text-align: left;\"> &nbsp; The SFC will revoke the OFC's registration after the company has been deregistered.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    },
+    {
+      "question_id": 2915,
+      "content": "<p style=\"text-align: left;\">ABC法团是香港一间持牌法团，提供第1类受规管活动。</p><p style=\"text-align: left;\">ABC法团没有提供保证金融资。</p><p style=\"text-align: left;\">根据《财政资源规则》ABC法团必须维持多少的速动资金?</p>",
+      "cht_content": "<p style=\"text-align: left;\">ABC法團是香港一間持牌法團，提供第1類受規管活動。</p><p style=\"text-align: left;\">ABC法團沒有提供保證金融資。</p><p style=\"text-align: left;\">根據《財政資源規則》，ABC法團必須維持多少的速動資金？</p>",
+      "en_content": "<p style=\"text-align: left;\">ABC Corporation is a licensed corporation in Hong Kong, providing Type 1 regulated activities.</p><p style=\"text-align: left;\">ABC Corporation does not offer margin financing.</p><p style=\"text-align: left;\">According to the Financial Resources Rules, how much liquid capital must ABC Corporation maintain?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "10万"
+        },
+        {
+          "key": "B",
+          "value": "100万"
+        },
+        {
+          "key": "C",
+          "value": "300万"
+        },
+        {
+          "key": "D",
+          "value": "600万"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p style=\"text-align: left;\">持牌法团须就第1类、第4类或第8类受规管活动时刻维持充足的速动资金.</p><p style=\"text-align: left;\"><财政资源规则> 规定牌法团的速动资金，须高于规定速动资金上述3类受规管活动的规定速动资金是:</p><p style=\"text-align: left;\">证券交易（第1类受规管活动）（同时为香港联合交易所有限公司参与者的持牌法团须遵从香港嫌合交易所有限公司施加 的额外财务规定）： 3,000,000港元。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">持牌法團須就第1類、第4類或第8類受規管活動時刻維持充足的速動資金。</p><p style=\"text-align: left;\"><財政資源規則> 規定持牌法團的速動資金，須高於規定速動資金。上述3類受規管活動的規定速動資金是：</p><p style=\"text-align: left;\">證券交易（第1類受規管活動）（同時為香港聯合交易所有限公司參與者的持牌法團須遵從香港聯合交易所有限公司施加的額外財務規定）：3,000,000港元。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Licensed corporations are required to maintain adequate liquid capital at all times for Type 1, Type 4, or Type 8 regulated activities.</p><p style=\"text-align: left;\">The Financial Resources Rules stipulate that the liquid capital of licensed corporations must exceed the prescribed liquid capital. The prescribed liquid capital for the aforementioned three types of regulated activities is as follows:</p><p style=\"text-align: left;\">Securities trading (Type 1 regulated activity) (licensed corporations that are also participants of The Stock Exchange of Hong Kong Limited must comply with additional financial requirements imposed by The Stock Exchange of Hong Kong Limited): HK$3,000,000.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 2912,
+      "content": "<p><span>根据《财政资源规则》，如持牌法团从事一项以上的受规管活动，则对于缴足股本应如何计算？</span></p>",
+      "cht_content": "<p><span>根據《財政資源規則》，如持牌法團從事一項以上的受規管活動，則對於繳足股本應如何計算？</span></p>",
+      "en_content": "<p><span>According to the Financial Resources Rules, if a licensed corporation engages in more than one type of regulated activity, how should the paid-up share capital be calculated?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "不论从事多少项活动，缴足股本都是统一的金额"
+        },
+        {
+          "key": "B",
+          "value": "维持适用于个别活动的最高单一规定的缴足股本"
+        },
+        {
+          "key": "C",
+          "value": "把所有需要的缴足股本合计"
+        },
+        {
+          "key": "D",
+          "value": "证监会将按个别情况制订缴足股本要求"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">如持牌法团从事一项以上的受规管活动，则必须维持适用于个别活动的最高单一规定。例如两个活动，一个要1000万，另外一个500万，那么真正需要的就是1000万，不要累加。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">如持牌法團從事一項以上的受規管活動，則必須維持適用於個別活動的最高單一規定。例如兩個活動，一個要1000萬，另一個500萬，那麼真正需要的就是1000萬，毋須累加。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">If a licensed corporation engages in more than one type of regulated activity, it must maintain the highest single requirement applicable to each individual activity. For example, if one activity requires HK$10 million and another requires HK$5 million, the actual requirement would be HK$10 million, not the sum of both.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 2795,
+      "content": "<p style=\"text-align: left;\">DFXM公司为香港一间大型商业银行，稳健经营超逾20年，并开展了证券经纪活动。</p><p style=\"text-align: left;\">DFXM公司需要遵守以下哪一项条例？</p>",
+      "cht_content": "<p style=\"text-align: left;\">DFXM公司為香港一間大型商業銀行，穩健經營超過20年，並開展了證券經紀活動。</p><p style=\"text-align: left;\">DFXM公司需要遵守以下哪一項條例？</p>",
+      "en_content": "<p style=\"text-align: left;\">DFXM Company is a major commercial bank in Hong Kong, operating steadily for over 20 years and engaging in securities brokerage activities.</p><p style=\"text-align: left;\">Which of the following regulations must DFXM Company comply with?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "《财政资源规则》"
+        },
+        {
+          "key": "B",
+          "value": "《财政资源规则》的某些部分"
+        },
+        {
+          "key": "C",
+          "value": "符合金管局订定的资本规则"
+        },
+        {
+          "key": "D",
+          "value": "《客户款项规则》"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p style=\"text-align: left;\">高频考点，已经记住，注册机构是银行，其资本规定听从金管局的，不需要遵守《财政资源规则》</p><p style=\"text-align: left;\"><strong>注册机构不适用于：</strong></p><p style=\"text-align: left;\"><strong>客户款项规则</strong></p><p style=\"text-align: left;\"><strong>财政资源规则</strong></p><p style=\"text-align: left;\"><strong>账目及审计规则</strong></p>",
+      "cht_analysis": "<p style=\"text-align: left;\">高頻考點，已經記住，註冊機構是銀行，其資本規定聽從金管局的，不需要遵守《財政資源規則》</p><p style=\"text-align: left;\"><strong>註冊機構不適用於：</strong></p><p style=\"text-align: left;\"><strong>客戶款項規則</strong></p><p style=\"text-align: left;\"><strong>財政資源規則</strong></p><p style=\"text-align: left;\"><strong>賬目及審計規則</strong></p>",
+      "en_analysis": "<p style=\"text-align: left;\">High-frequency examination point, already memorized. The registered institution is a bank, and its capital requirements follow the HKMA's directives, without the need to comply with the Financial Resources Rules.</p><p style=\"text-align: left;\"><strong>The following do not apply to registered institutions:</strong></p><p style=\"text-align: left;\"><strong>Client Money Rules</strong></p><p style=\"text-align: left;\"><strong>Financial Resources Rules</strong></p><p style=\"text-align: left;\"><strong>Accounts and Audit Rules</strong></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 3043,
+      "content": "<p style=\"text-align: left;\">DFXM公司为香港一间持有第9类受规管活动牌照的基金公司。</p><p style=\"text-align: left;\">最近，有客户投诉指称该公司发行的基金产品存在虚假宣传。</p><p style=\"text-align: left;\">若以上投诉为真，DFXM公司该等行为可能有什么后果？</p>",
+      "cht_content": "<p style=\"text-align: left;\">DFXM公司為香港一間持有第9類受規管活動牌照的基金公司。</p><p style=\"text-align: left;\">最近，有客戶投訴指稱該公司發行的基金產品存在虛假宣傳。</p><p style=\"text-align: left;\">若以上投訴屬實，DFXM公司該等行為可能會有什麼後果？</p>",
+      "en_content": "<p style=\"text-align: left;\">DFXM Company is a Hong Kong-based fund company holding a Type 9 regulated activity license.</p><p style=\"text-align: left;\">Recently, a client has complained, alleging that the fund products issued by the company involve false advertising.</p><p style=\"text-align: left;\">If the above complaint is true, what potential consequences could DFXM Company face for such actions?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "DFXM公司的牌照会马上被停牌及吊销"
+        },
+        {
+          "key": "B",
+          "value": "对DFXM公司的适当人选资格有负面影响，这可能导致被停牌及吊销"
+        },
+        {
+          "key": "C",
+          "value": "该等行为已违反刑事罪行，DFXM公司的负责人员会被判处监禁，该公司的牌照也会马上被控牌及吊销"
+        },
+        {
+          "key": "D",
+          "value": "对DFXM公司的适当人选资格有负面影响，没有其他影响"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">肯定影响适当人选的资格，可能被证监会暂停或吊销牌照。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">肯定會影響適當人選的資格，可能被證監會暫停或吊銷牌照。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">It will definitely affect the qualification as a fit and proper person and may result in the Securities and Futures Commission suspending or revoking the licence.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    },
+    {
+      "question_id": 3059,
+      "content": "<p style=\"text-align: left;\">高先生是一所持牌法团ABC证券（持有1、4、6号牌照）的明星基金经理，管理多种偏固定收益型基金多年。</p><p style=\"text-align: left;\">黄先生是专业投资者，投资了高先生管理的基金多年，对高先生高度信任。</p><p style=\"text-align: left;\">最近黄先生致电高先生，希望高先生在新的基金分配中能够姶予黄先生优先处理，以及更多的分配额。</p><p style=\"text-align: left;\">如高先生能够如此安排，黄先生将会大幅度增加对高先生管理的基金的投资。</p><p style=\"text-align: left;\">请问高先生能否给予黄先生优待？</p>",
+      "cht_content": "<p style=\"text-align: left;\">高先生是一所持牌法團ABC證券（持有1、4、6號牌照）的明星基金經理，管理多種偏固定收益型基金多年。</p>\n<p style=\"text-align: left;\">黃先生是專業投資者，投資了高先生管理的基金多年，對高先生高度信任。</p>\n<p style=\"text-align: left;\">最近黃先生致電高先生，希望高先生在新的基金分配中能夠給予黃先生優先處理，以及更多的分配額。</p>\n<p style=\"text-align: left;\">如高先生能夠如此安排，黃先生將會大幅度增加對高先生管理的基金的投資。</p>\n<p style=\"text-align: left;\">請問高先生能否給予黃先生優待？</p>",
+      "en_content": "<p style=\"text-align: left;\">Mr. Ko is a star fund manager at a licensed corporation, ABC Securities (holding Type 1, 4, and 6 licenses), with years of experience managing various fixed-income-focused funds.</p><p style=\"text-align: left;\">Mr. Wong is a professional investor who has invested in Mr. Ko's funds for many years and holds a high level of trust in him.</p><p style=\"text-align: left;\">Recently, Mr. Wong called Mr. Ko, hoping that Mr. Ko would give him priority treatment and a larger allocation in the new fund distribution.</p><p style=\"text-align: left;\">If Mr. Ko can arrange this, Mr. Wong will significantly increase his investment in the funds managed by Mr. Ko.</p><p style=\"text-align: left;\">Can Mr. Ko grant preferential treatment to Mr. Wong?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "能，黄先生是专业投资者，能够获得优待"
+        },
+        {
+          "key": "B",
+          "value": "不能，因为优待会对客户的责任产生严重利益冲突"
+        },
+        {
+          "key": "C",
+          "value": "能，而且必需要优待，基金分派主要是按投资额的大少而定"
+        },
+        {
+          "key": "D",
+          "value": "能，因为《基金经理操守准则》表明如果利益是由公司收受，则是可以接受的"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p style=\"text-align: left;\">公平对待客户，这个是红线，记住！</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">基金经理应确保所有客户的买卖盘都得到公平分配，在输人买卖盘前记录分配意向并加以遵守，除非经修改后的分配方法不会使客户遭受损失，而里新分配的原因亦已清楚地以书面方式记录下来（公平分配罝买卖盘）。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">公平對待客戶，這條是紅線，記住！</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">基金經理應確保所有客戶的買賣盤都得到公平分配，在輸入買賣盤前記錄分配意向並加以遵守，除非經修改後的分配方法不會使客戶遭受損失，而重新分配的原因亦已清楚地以書面方式記錄下來（公平分配買賣盤）。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Fair treatment of clients is a red line, remember!</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Fund managers should ensure that all clients' orders are fairly allocated, record allocation intentions before inputting orders and adhere to them, unless the modified allocation method does not cause clients to suffer losses, and the reasons for the new allocation are clearly documented in writing (fair allocation of orders).</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    },
+    {
+      "question_id": 2998,
+      "content": "<p style=\"text-align: left;\">DFXM公司为香港一间大型商业银行，并获证监会授权开展第1类受规管活动。</p><p style=\"text-align: left;\">该公司以对手方身份所持有的未完结指明场外衍生工具交易名义总额超过4亿美元。</p><p style=\"text-align: left;\">DFXM公司与美国YZWL公司订立了货币互换协议，名义价值8000万美元。</p><p style=\"text-align: left;\">就该笔交易而言，根据《场外衍生工具汇报规则》，以下说法正确的是哪一项？</p>",
+      "cht_content": "<p style=\"text-align: left;\">DFXM公司為香港一間大型商業銀行，並獲證監會授權開展第1類受規管活動。</p><p style=\"text-align: left;\">該公司以對手方身份所持有的未完成指定場外衍生工具交易名義總額超過4億美元。</p><p style=\"text-align: left;\">DFXM公司與美國YZWL公司訂立了貨幣互換協議，名義價值8000萬美元。</p><p style=\"text-align: left;\">就該筆交易而言，根據《場外衍生工具匯報規則》，以下說法正確的是哪一項？</p>",
+      "en_content": "<p style=\"text-align: left;\">DFXM Company is a large commercial bank in Hong Kong and is authorised by the Securities and Futures Commission to carry out Type 1 regulated activities.</p><p style=\"text-align: left;\">The total notional amount of outstanding specified over-the-counter derivative transactions held by the company as a counterparty exceeds US$400 million.</p><p style=\"text-align: left;\">DFXM Company has entered into a currency swap agreement with US-based YZWL Company, with a notional value of US$80 million.</p><p style=\"text-align: left;\">Regarding this transaction, which of the following statements is correct according to the Over-the-Counter Derivatives Reporting Rules?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "倘该笔交易为DFXM公司为KJ公司代为交易，且KJ公司于DFXM公司隶属同一集团公司，DFXM公司已从KJ公司取得书面确认表明KJ公司已就该等交易作出汇报，则DFXM公司可无须就此交易汇报"
+        },
+        {
+          "key": "B",
+          "value": "DFXM公司持有的未完结指明场外工具交易的名义数额已远超3000万美元的门槛，因此该公司必须就每一笔指明场外交易作出汇报，即使该交易由DFXM公司代表联属公司进行，且联属公司已代为作出汇报"
+        },
+        {
+          "key": "C",
+          "value": "DFXM公司为银行，受金管局规管，因此被豁免申报场外交易"
+        },
+        {
+          "key": "D",
+          "value": "该交易对手方为美国公司，超出香港的法律规管范围，因此无须作出汇报"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<h4 style=\"text-align: justify;\"><strong>宽免待遇—如联属公司已汇报</strong></h4><p style=\"text-align: justify;\">持牌法团负起作出汇报的首要责任。但是，当有关交易由持牌法团代表联属公司进行（见上文第9.5节），便可以由该联属公司代为作出汇报。此情况下，持牌法团为显示已遵守其汇报责任，<span style=\"color: rgb(255, 0, 0);\">须从联属公司获得书面确认，确认已作出汇报</span>。</p><p style=\"text-align: left;\"><br></p><h4 style=\"text-align: justify;\"><span style=\"color: rgb(255, 0, 0);\"><strong>豁免待遇</strong></span></h4><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 0, 0);\">倘持牌法团以对手方身份所持的所有未完结的指明场外衍生工具交易的名义数额总和，不超过3,000万美元，该持牌法团可获豁免汇报责任。持牌法团须整体地考虑所有产品类别下的总持仓。</span></p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 0, 0);\">但是，一旦该持牌法团的持仓超过3,000万美元，将会于超过上述门槛当日失去豁免待遇—会永久失去豁免待遇。</span></p>",
+      "cht_analysis": "<h4 style=\"text-align: justify;\"><strong>寬免待遇—如聯屬公司已匯報</strong></h4><p style=\"text-align: justify;\">持牌法團負起作出匯報的首要責任。但是，當有關交易由持牌法團代表聯屬公司進行（見上文第9.5節），便可以由該聯屬公司代為作出匯報。此情況下，持牌法團為顯示已遵守其匯報責任，<span style=\"color: rgb(255, 0, 0);\">須從聯屬公司獲得書面確認，確認已作出匯報</span>。</p><p style=\"text-align: left;\"><br></p><h4 style=\"text-align: justify;\"><span style=\"color: rgb(255, 0, 0);\"><strong>豁免待遇</strong></span></h4><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 0, 0);\">倘持牌法團以對手方身份所持的所有未完結的指明場外衍生工具交易的名義數額總和，不超過3,000萬美元，該持牌法團可獲豁免匯報責任。持牌法團須整體地考慮所有產品類別下的總持倉。</span></p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 0, 0);\">但是，一旦該持牌法團的持倉超過3,000萬美元，將會於超過上述門檻當日失去豁免待遇—會永久失去豁免待遇。</span></p>",
+      "en_analysis": "<h4 style=\"text-align: justify;\"><strong>Exemption Treatment—If Affiliate Has Reported</strong></h4><p style=\"text-align: justify;\">The licensed corporation bears the primary responsibility for making reports. However, when the relevant transaction is conducted by the licensed corporation on behalf of an affiliate (refer to Section 9.5 above), the report may be submitted by that affiliate instead. In such cases, to demonstrate compliance with its reporting obligations, <span style=\"color: rgb(255, 0, 0);\">the licensed corporation must obtain written confirmation from the affiliate confirming that the report has been made</span>.</p><p style=\"text-align: left;\"><br></p><h4 style=\"text-align: justify;\"><span style=\"color: rgb(255, 0, 0);\"><strong>Exemption Treatment</strong></span></h4><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 0, 0);\">If the total notional amount of all outstanding specified over-the-counter derivative transactions held by a licensed corporation acting as a counterparty does not exceed US$30 million, the licensed corporation may be exempted from reporting obligations. The licensed corporation must consider the aggregate positions across all product categories as a whole.</span></p><p style=\"text-align: justify;\"><span style=\"color: rgb(255, 0, 0);\">However, once the licensed corporation's positions exceed US$30 million, it will lose the exemption treatment on the day the threshold is exceeded—the exemption will be permanently revoked.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 3383,
+      "content": "<p><span>哪项行为不属于市场失当行为？</span></p>",
+      "cht_content": "<p><span>哪項行為不屬於市場失當行為？</span></p>",
+      "en_content": "<p><span>Which of the following actions does not constitute market misconduct?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "老鼠仓交易"
+        },
+        {
+          "key": "B",
+          "value": "披露受禁交易资料"
+        },
+        {
+          "key": "C",
+          "value": "操控价格"
+        },
+        {
+          "key": "D",
+          "value": "虚假交易"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p style=\"text-align: left;\">《证券及期货条例》 内定义的市场失当行为是指：</p><p style=\"text-align: left;\">-内幕交易；</p><p style=\"text-align: left;\">-虚假交易：</p><p style=\"text-align: left;\">-操控价格：</p><p style=\"text-align: left;\">-披露关于受禁交易的数据；</p><p style=\"text-align: left;\">-披露虚假或具误导性的数据以诱使进行交易；</p><p style=\"text-align: left;\">-操纵证券市场.</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">《證券及期貨條例》內定義的市場失當行為是指：</p><p style=\"text-align: left;\">-內幕交易；</p><p style=\"text-align: left;\">-虛假交易；</p><p style=\"text-align: left;\">-操控價格；</p><p style=\"text-align: left;\">-披露關於受禁交易的資料；</p><p style=\"text-align: left;\">-披露虛假或具誤導性的資料以誘使進行交易；</p><p style=\"text-align: left;\">-操縱證券市場。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Market misconduct as defined in the Securities and Futures Ordinance refers to:</p><p style=\"text-align: left;\">- Insider dealing;</p><p style=\"text-align: left;\">- False trading;</p><p style=\"text-align: left;\">- Price rigging;</p><p style=\"text-align: left;\">- Disclosure of information concerning prohibited transactions;</p><p style=\"text-align: left;\">- Disclosure of false or misleading information inducing transactions;</p><p style=\"text-align: left;\">- Stock market manipulation.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 2559,
+      "content": "<p>根据《基金经理操守准则》，下列关于“有关人员”的私人账户交易之说法，哪一项最为准确？</p>",
+      "cht_content": "",
+      "en_content": "",
+      "options": [
+        {
+          "key": "A",
+          "value": "有关人员在事前获得合规主任或高级管理层指定人士的书面批准，可在30日内提早平仓；且预先批准的有效期不得超过5个交易日。"
+        },
+        {
+          "key": "B",
+          "value": "有关人员必须最少持有其私人投资项目30日，任何情况下均不得提前出售。"
+        },
+        {
+          "key": "C",
+          "value": "若已取得高级管理层或合规批准，有关人员可在基金当日有同一标的买卖盘待执行时同时交易。"
+        },
+        {
+          "key": "D",
+          "value": "有关人员可为对冲目的卖空基金经理推介买入的证券。"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">选项A：正确。FMCC明确两点：一是30日最少持有期可在事前获书面批准下缩短；二是任何私人交易的预先批准有效期不得超过5个交易日。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">选项B：不正确。FMCC允许在事前取得书面批准的情况下提早出售，不是绝对禁止提前出售。 &nbsp;</span></p><p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">选项C：不正确。FMCC规定如基金当日对同一投资有买卖盘在等待执行，有关人员不得买入或卖出该项投资，即使已获批准亦不可以。 &nbsp;</span></p><p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">选项D：不正确。FMCC明确禁止有关人员卖空由基金经理推介买入的证券，无论目的为何。</span></p>",
+      "cht_analysis": "",
+      "en_analysis": "",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    },
+    {
+      "question_id": 3368,
+      "content": "<p style=\"text-align: left;\">DF公司为香港一间持牌法团。</p><p style=\"text-align: left;\">高小姐为DF公司的持牌代表。</p><p style=\"text-align: left;\">她在DF公司的工作中，因擅自造访，与客户签订了协议导致客户的经济损失，正在被起诉。</p><p style=\"text-align: left;\">在以下哪个情况下，DF公司的董事尹先生会承担法律责任？</p>",
+      "cht_content": "<p style=\"text-align: left;\">DF公司為香港一間持牌法團。</p><p style=\"text-align: left;\">高小姐為DF公司的持牌代表。</p><p style=\"text-align: left;\">她在DF公司的工作中，因擅自造訪，與客戶簽訂了協議導致客戶的經濟損失，正在被起訴。</p><p style=\"text-align: left;\">在以下哪個情況下，DF公司的董事尹先生會承擔法律責任？</p>",
+      "en_content": "<p style=\"text-align: left;\">DF Company is a licensed corporation in Hong Kong.</p><p style=\"text-align: left;\">Miss Ko is a licensed representative of DF Company.</p><p style=\"text-align: left;\">In her work at DF Company, she is being sued for causing financial loss to a client by entering into an agreement through an unauthorised visit.</p><p style=\"text-align: left;\">Under which of the following circumstances would Mr. Wan, a director of DF Company, be held legally liable?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "如果尹先生是执行董事，并没有法律责任"
+        },
+        {
+          "key": "B",
+          "value": "如果尹先生违反职责行事并指示高小姐犯法，就个人而言有法律责任"
+        },
+        {
+          "key": "C",
+          "value": "尹先生已诚实及合理地行事，但身为董事必需负责"
+        },
+        {
+          "key": "D",
+          "value": "如果尹先生非执行董事，理论上需要监控公司，因此必需要负责"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">知法犯法，脱不了干系。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">明知故犯，難辭其咎。</span></p>",
+      "en_analysis": "<p><span style=\\\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\\\">Knowingly breaking the law, one cannot escape responsibility.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 3342,
+      "content": "<p><span>根据《证券及期货条例》，哪种行为属于犯罪？</span></p>",
+      "cht_content": "<p><span>根據《證券及期貨條例》，哪種行為屬於犯罪？</span></p>",
+      "en_content": "<p><span>Under the Securities and Futures Ordinance, which of the following acts constitutes an offence?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "过分频密的交易"
+        },
+        {
+          "key": "B",
+          "value": "扒头交易"
+        },
+        {
+          "key": "C",
+          "value": "“老鼠仓”交易"
+        },
+        {
+          "key": "D",
+          "value": "欺诈及欺骗"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p style=\"text-align: left;\"><strong>市场失当行为均属犯罪，包括：</strong></p><p style=\"text-align: left;\">内幕交易</p><p style=\"text-align: left;\">虚假交易</p><p style=\"text-align: left;\">操控价格</p><p style=\"text-align: left;\">操纵证券市场</p><p style=\"text-align: left;\">披露关于受禁交易的数据</p><p style=\"text-align: left;\">披露虚假或具误导性的资料以诱使进行交易</p><p style=\"text-align: left;\">国际性市场失当行为</p><p style=\"text-align: left;\">欺诈及欺骗</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><strong>不当交易手法不是犯罪，但影响适当人选资格，包括：</strong></p><p style=\"text-align: left;\">高压推销证券的活动</p><p style=\"text-align: left;\">过分频密的交易</p><p style=\"text-align: left;\">企业管治失当</p><p style=\"text-align: left;\">扒头交易</p><p style=\"text-align: left;\">“老鼠仓”交易</p><p style=\"text-align: left;\">提供不适当的意见</p><p style=\"text-align: left;\">未经授权的交易</p>",
+      "cht_analysis": "<p style=\"text-align: left;\"><strong>市場失當行為均屬犯罪，包括：</strong></p><p style=\"text-align: left;\">內幕交易</p><p style=\"text-align: left;\">虛假交易</p><p style=\"text-align: left;\">操控價格</p><p style=\"text-align: left;\">操縱證券市場</p><p style=\"text-align: left;\">披露關於受禁交易的資料</p><p style=\"text-align: left;\">披露虛假或具誤導性的資料以誘使進行交易</p><p style=\"text-align: left;\">國際性市場失當行為</p><p style=\"text-align: left;\">欺詐及欺騙</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><strong>不當交易手法不是犯罪，但影響適當人選資格，包括：</strong></p><p style=\"text-align: left;\">高壓推銷證券的活動</p><p style=\"text-align: left;\">過分頻密的交易</p><p style=\"text-align: left;\">企業管治失當</p><p style=\"text-align: left;\">扒頭交易</p><p style=\"text-align: left;\">「老鼠倉」交易</p><p style=\"text-align: left;\">提供不適當的意見</p><p style=\"text-align: left;\">未經授權的交易</p>",
+      "en_analysis": "<p style=\"text-align: left;\"><strong>All market misconduct constitutes a criminal offence, including:</strong></p><p style=\"text-align: left;\">Insider dealing</p><p style=\"text-align: left;\">False trading</p><p style=\"text-align: left;\">Price rigging</p><p style=\"text-align: left;\">Stock market manipulation</p><p style=\"text-align: left;\">Disclosure of information concerning prohibited transactions</p><p style=\"text-align: left;\">Disclosure of false or misleading information inducing transactions</p><p style=\"text-align: left;\">International market misconduct</p><p style=\"text-align: left;\">Fraud and deception</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><strong>Improper trading practices are not criminal offences but may affect the fit and proper person qualification, including:</strong></p><p style=\"text-align: left;\">High-pressure selling of securities</p><p style=\"text-align: left;\">Excessively frequent trading</p><p style=\"text-align: left;\">Corporate governance misconduct</p><p style=\"text-align: left;\">Front running</p><p style=\"text-align: left;\">\"Rat trading\"</p><p style=\"text-align: left;\">Providing inappropriate advice</p><p style=\"text-align: left;\">Unauthorized trading</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 9993,
+      "content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">DFXM Investment Ltd（一家持牌法团）在香港代表其新加坡联属公司进行了一项指明场外衍生工具交易。该新加坡联属公司已代为向香港事务数据储存库作出了汇报。为了使 DFXM Investment Ltd 被视为已遵守其汇报责任，它必须怎么做？</span></p>",
+      "cht_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">DFXM Investment Ltd（一家持牌法團）在香港代表其新加坡聯屬公司進行了一項指明場外衍生工具交易。該新加坡聯屬公司已代為向香港事務數據儲存庫作出了匯報。為了使 DFXM Investment Ltd 被視為已遵守其匯報責任，它必須怎麼做？</span></p>",
+      "en_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">DFXM Investment Ltd (a licensed corporation) conducted a specified over-the-counter derivatives transaction in Hong Kong on behalf of its Singapore affiliate. The Singapore affiliate has already reported the transaction to the Hong Kong Trade Repository on its behalf. In order for DFXM Investment Ltd to be considered as having fulfilled its reporting obligations, what must it do?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "无须采取任何行动，因为联属公司已作出汇报。"
+        },
+        {
+          "key": "B",
+          "value": "向证监会提交一份声明，确认其联属公司已作出汇报。"
+        },
+        {
+          "key": "C",
+          "value": "从其联属公司获得一份书面确认，确认已作出汇报。"
+        },
+        {
+          "key": "D",
+          "value": "确保其联属公司在作出汇报时，同时抄送一份副本予 DFXM Investment Ltd。"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p style=\"text-align: left;\">山海老师指出，本题是一个典型的案例题，考察当汇报责任被“转移”给联属公司时，持牌法团自身的合规凭证是什么。</p><p style=\"text-align: left;\">选项A：不正确。持牌法团负有首要责任，不能完全置身事外。它需要有证据证明责任已履行。</p><p style=\"text-align: left;\">选项B：不正确。规则要求的是从联属公司获取凭证，而非向证监会提交声明。</p><p style=\"text-align: left;\">选项C：正确。教材第9.11节明确规定，“持牌法团为显示已遵守其汇报责任，须从联属公司获得书面确认，确认已作出汇报。”</p><p style=\"text-align: left;\">选项D：不正确。虽然收到副本可能是一种好的做法，但规则明确要求的法律凭证是“书面确认”。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">涉及知识点 (Knowledge Points Covered):</p><p style=\"text-align: left;\"> &nbsp; 持牌法团对代表联属公司进行的交易负有首要汇报责任。</p><p style=\"text-align: left;\"> &nbsp; A licensed corporation has the primary reporting obligation for transactions conducted on behalf of its affiliates.</p><p style=\"text-align: left;\"> &nbsp; 若由联属公司代为汇报，持牌法团必须从该联属公司处获得“书面确认”，作为其已遵守汇报责任的凭证。</p><p style=\"text-align: left;\"> &nbsp; If the affiliate reports on its behalf, the licensed corporation must obtain a \"written confirmation\" from the affiliate as evidence of its compliance with the reporting obligation.</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">山海老師指出，本題係一個典型嘅案例題，考察當匯報責任被「轉移」畀聯屬公司時，持牌法團自身嘅合規憑證係乜嘢。</p><p style=\"text-align: left;\">選項A：唔正確。持牌法團負有首要責任，唔能夠完全置身事外。佢需要有證據證明責任已履行。</p><p style=\"text-align: left;\">選項B：唔正確。規則要求嘅係從聯屬公司獲取憑證，而唔係向證監會提交聲明。</p><p style=\"text-align: left;\">選項C：正確。教材第9.11節明確規定，「持牌法團為顯示已遵守其匯報責任，須從聯屬公司獲得書面確認，確認已作出匯報。」</p><p style=\"text-align: left;\">選項D：唔正確。雖然收到副本可能係一種好嘅做法，但規則明確要求嘅法律憑證係「書面確認」。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">涉及知識點 (Knowledge Points Covered):</p><p style=\"text-align: left;\"> &nbsp; 持牌法團對代表聯屬公司進行嘅交易負有首要匯報責任。</p><p style=\"text-align: left;\"> &nbsp; A licensed corporation has the primary reporting obligation for transactions conducted on behalf of its affiliates.</p><p style=\"text-align: left;\"> &nbsp; 若由聯屬公司代為匯報，持牌法團必須從該聯屬公司處獲得「書面確認」，作為其已遵守匯報責任嘅憑證。</p><p style=\"text-align: left;\"> &nbsp; If the affiliate reports on its behalf, the licensed corporation must obtain a \"written confirmation\" from the affiliate as evidence of its compliance with the reporting obligation.</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Teacher Shan Hai pointed out that this question is a typical case study, examining what the compliance evidence for a licensed corporation itself is when the reporting responsibility is \"transferred\" to an affiliate.</p>  \n<p style=\"text-align: left;\">Option A: Incorrect. The licensed corporation bears the primary responsibility and cannot completely distance itself. It needs evidence to prove that the responsibility has been fulfilled.</p>  \n<p style=\"text-align: left;\">Option B: Incorrect. The rules require obtaining evidence from the affiliate, not submitting a declaration to the Securities and Futures Commission.</p>  \n<p style=\"text-align: left;\">Option C: Correct. Section 9.11 of the textbook clearly states, \"To demonstrate compliance with its reporting obligations, a licensed corporation must obtain written confirmation from the affiliate confirming that the report has been made.\"</p>  \n<p style=\"text-align: left;\">Option D: Incorrect. While receiving a copy may be good practice, the legal evidence explicitly required by the rules is \"written confirmation.\"</p>  \n<p style=\"text-align: left;\"><br></p>  \n<p style=\"text-align: left;\">Knowledge Points Covered:</p>  \n<p style=\"text-align: left;\"> &nbsp; A licensed corporation has the primary reporting obligation for transactions conducted on behalf of its affiliates.</p>  \n<p style=\"text-align: left;\"> &nbsp; If the affiliate reports on its behalf, the licensed corporation must obtain a \"written confirmation\" from the affiliate as evidence of its compliance with the reporting obligation.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    },
+    {
+      "question_id": 2675,
+      "content": "<p style=\"text-align: left;\">根据《证券及期货条例》,香港现时有以下哪些认可交易所？</p><p style=\"text-align: left;\">l.\t联交所；</p><p style=\"text-align: left;\">II. 期交所；</p><p style=\"text-align: left;\">III. 木材交易所；</p><p style=\"text-align: left;\">IV. 黄金交易所。</p>",
+      "cht_content": "<p style=\"text-align: left;\">根據《證券及期貨條例》，香港現時有以下哪些認可交易所？</p><p style=\"text-align: left;\">I. 聯交所；</p><p style=\"text-align: left;\">II. 期交所；</p><p style=\"text-align: left;\">III. 木材交易所；</p><p style=\"text-align: left;\">IV. 黃金交易所。</p>",
+      "en_content": "<p style=\"text-align: left;\">According to the Securities and Futures Ordinance, which of the following are currently recognised exchanges in Hong Kong?</p><p style=\"text-align: left;\">I. The Stock Exchange;</p><p style=\"text-align: left;\">II. The Futures Exchange;</p><p style=\"text-align: left;\">III. The Timber Exchange;</p><p style=\"text-align: left;\">IV. The Gold Exchange.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "D",
+          "value": " I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p style=\"text-align: left;\">联交所及期交所均为根据〈证券及期货细〉第19条获认可的交易所公司，可分别在香港经营股票及期货市场。</p><p style=\"text-align: left;\">另外两个都是杜撰的，不存在的。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">聯交所及期交所均為根據〈證券及期貨細則〉第19條獲認可的交易所公司，可分別在香港經營股票及期貨市場。</p><p style=\"text-align: left;\">另外兩個都是虛構的，不存在的。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">The Stock Exchange and the Futures Exchange are both recognised exchange companies under Section 19 of the Securities and Futures Ordinance, authorised to operate the stock and futures markets in Hong Kong respectively.</p><p style=\"text-align: left;\">The other two are fabricated and do not exist.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 6
+    },
+    {
+      "question_id": 3322,
+      "content": "<p><span>以下哪位人士或哪个机构有权循简易程序，在裁判法院检控较轻的罪行？</span></p>",
+      "cht_content": "<p><span>以下哪位人士或哪個機構有權循簡易程序，在裁判法院檢控較輕的罪行？</span></p>",
+      "en_content": "<p><span>Which individual or institution has the authority to prosecute minor offences summarily in the Magistrates' Court?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "证监会"
+        },
+        {
+          "key": "B",
+          "value": "金管局"
+        },
+        {
+          "key": "C",
+          "value": "财政司"
+        },
+        {
+          "key": "D",
+          "value": "市场失当行为审裁处"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">根据《证券及期货条例》第388条，证监会有权循简易程序在裁判法院检控较轻的罪行，但律政司司长的检控权利凌驾于证监会之上。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">根據《證券及期貨條例》第388條，證監會有權循簡易程序在裁判法院檢控較輕的罪行，但律政司司長的檢控權利凌駕於證監會之上。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">Under Section 388 of the Securities and Futures Ordinance, the Securities and Futures Commission is empowered to prosecute less serious offences summarily in the Magistrates' Courts; however, the Secretary for Justice's prosecutorial authority takes precedence over that of the Securities and Futures Commission.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 3390,
+      "content": "<p><span>根据《证券及期货条例》，任何人意图，或罔顾后果地制造交投活跃的虚假或具误导性的表象，属于哪种市场失当行为？</span></p>",
+      "cht_content": "<p><span>根據《證券及期貨條例》，任何人意圖或罔顧後果地製造交投活躍的虛假或具誤導性表象，屬於哪種市場失當行為？</span></p>",
+      "en_content": "<p><span>Under the Securities and Futures Ordinance, what type of market misconduct is committed by a person who intentionally, or recklessly, creates a false or misleading appearance of active trading?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "未经授权交易"
+        },
+        {
+          "key": "B",
+          "value": "虚假交易"
+        },
+        {
+          "key": "C",
+          "value": "内幕交易"
+        },
+        {
+          "key": "D",
+          "value": "扒头交易"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p style=\"text-align: left;\">就证券及期货合约发生的虚假交易有以下各项：</p><p style=\"text-align: left;\">(a)\\t任何人意图或罔顾后果地制造交投活跃的虚假或具误导性的表象，或市场或价格方面的虚假或具误导性的表象：</p><p style=\"text-align: left;\">(b)\\t任何人意图或罔顾后果地直接或间接参与制造非真实的价格或维持非真实的价格水平的交易。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">就證券及期貨合約發生的虛假交易有以下各項：</p><p style=\"text-align: left;\">(a)\\t任何人意圖或罔顧後果地製造交投活躍的虛假或具誤導性的表象，或市場或價格方面的虛假或具誤導性的表象：</p><p style=\"text-align: left;\">(b)\\t任何人意圖或罔顧後果地直接或間接參與製造非真實的價格或維持非真實的價格水平的交易。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">False trading in securities and futures contracts includes the following:</p><p style=\"text-align: left;\">(a) Any person who, with intent or recklessness, creates a false or misleading appearance of active trading, or a false or misleading appearance with respect to the market or prices:</p><p style=\"text-align: left;\">(b) Any person who, with intent or recklessness, directly or indirectly engages in transactions that create or maintain a non-genuine price or a non-genuine price level.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 3233,
+      "content": "<p style=\"text-align: left;\">根据内地与香港基金互认计划，成功申请获认可的认可内地基金将须于获认可期间时刻遵守下列责任：</p><p style=\"text-align: left;\">I. 在中国内地，须维持受监管机构的持续监察及规管；</p><p style=\"text-align: left;\">II. 在中国香港，遵守适用于销售及分销基金的法律及规例；</p><p style=\"text-align: left;\">III. 如基金未能符合香港之规定，则必须通知香港的监管机构、终止市场推广活动及停止接受新申请；</p><p style=\"text-align: left;\">IV. 当原销售文件为简体中文时，香港所用的文件可以为简体中文。</p>",
+      "cht_content": "<p style=\"text-align: left;\">根據內地與香港基金互認計劃，成功申請獲認可的認可內地基金將須於獲認可期間時刻遵守下列責任：</p><p style=\"text-align: left;\">I. 在中國內地，須維持受監管機構的持續監察及規管；</p><p style=\"text-align: left;\">II. 在中國香港，遵守適用於銷售及分銷基金的法律及規例；</p><p style=\"text-align: left;\">III. 如基金未能符合香港之規定，則必須通知香港的監管機構、終止市場推廣活動及停止接受新申請；</p><p style=\"text-align: left;\">IV. 當原銷售文件為簡體中文時，香港所用的文件可以為簡體中文。</p>",
+      "en_content": "<p style=\"text-align: left;\">Under the Mainland-Hong Kong Mutual Recognition of Funds arrangement, successfully recognised Mainland funds must continuously comply with the following responsibilities during the recognition period:</p><p style=\"text-align: left;\">I. In Mainland China, maintain ongoing supervision and regulation by the regulatory authorities;</p><p style=\"text-align: left;\">II. In Hong Kong, China, adhere to the laws and regulations applicable to the sale and distribution of funds;</p><p style=\"text-align: left;\">III. If the fund fails to comply with Hong Kong's requirements, it must notify the regulatory authorities in Hong Kong, cease marketing activities, and stop accepting new applications;</p><p style=\"text-align: left;\">IV. When the original sales documents are in Simplified Chinese, the documents used in Hong Kong may be in Simplified Chinese.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有II，III"
+        },
+        {
+          "key": "C",
+          "value": "只有I，III"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<h6 style=\"text-align: left;\"><em>当原文件为简体中文时，香港所用的文件须为繁体中文。</em></h6><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(a)\\t<span style=\"background-color: rgb(255, 255, 0);\">确保基金持有人得到公平及平等的对待</span>，包括有关保障投资者、行使权力、赔偿及销售文件披露数据以及基金的任何变动；</p><p style=\"text-align: left;\">(b)\\t<span style=\"background-color: rgb(255, 255, 0);\">管理公司须采取合理措施确保某一个市场上的投资者及监管机构可同时取得另一个市场上的持续披露资料</span>；</p><p style=\"text-align: left;\">(c)\\t<span style=\"background-color: rgb(255, 255, 0);\">所属司法管辖区所须的通知，例如错误定价、交易更改或暂停或延迟，亦必须通知东道司法区之监管机构</span>；</p><p style=\"text-align: left;\">(d)\\t<span style=\"background-color: rgb(255, 255, 0);\">确保香港法院不被豁除受理基金引起的诉讼</span>；</p><p style=\"text-align: left;\">(e)\\t基金的变动应符合所属司法管辖区的法律及规例，而随后给予东道司法区之监管机构存档；</p><p style=\"text-align: left;\">(f)\\t 如违反适用的法律或规例，必须同时通知两地之监管机构及必须尽快纠正违规。</p>",
+      "cht_analysis": "<h6 style=\"text-align: left;\"><em>當原文檔為簡體中文時，香港所用文件須為繁體中文。</em></h6><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(a)\\t<span style=\"background-color: rgb(255, 255, 0);\">確保基金持有人得到公平及平等的對待</span>，包括有關保障投資者、行使權力、賠償及銷售文件披露資料以及基金的任何變動；</p><p style=\"text-align: left;\">(b)\\t<span style=\"background-color: rgb(255, 255, 0);\">管理公司須採取合理措施確保某一個市場上的投資者及監管機構可同時取得另一個市場上的持續披露資料</span>；</p><p style=\"text-align: left;\">(c)\\t<span style=\"background-color: rgb(255, 255, 0);\">所屬司法管轄區所須的通知，例如錯誤定價、交易更改或暫停或延遲，亦必須通知東道司法區之監管機構</span>；</p><p style=\"text-align: left;\">(d)\\t<span style=\"background-color: rgb(255, 255, 0);\">確保香港法院不被豁除受理基金引起的訴訟</span>；</p><p style=\"text-align: left;\">(e)\\t基金的變動應符合所屬司法管轄區的法律及規例，而隨後給予東道司法區之監管機構存檔；</p><p style=\"text-align: left;\">(f)\\t 如違反適用的法律或規例，必須同時通知兩地之監管機構及必須盡快糾正違規。</p>",
+      "en_analysis": "<h6 style=\"text-align: left;\"><em>When the original document is in Simplified Chinese, the document used in Hong Kong must be in Traditional Chinese.</em></h6><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">(a)\\t<span style=\"background-color: rgb(255, 255, 0);\">Ensure that fund holders receive fair and equal treatment</span>, including matters related to investor protection, exercise of powers, compensation, disclosure of information in sales documents, and any changes to the fund;</p><p style=\"text-align: left;\">(b)\\t<span style=\"background-color: rgb(255, 255, 0);\">The management company must take reasonable measures to ensure that investors and regulatory authorities in one market can simultaneously access ongoing disclosure materials from another market</span>;</p><p style=\"text-align: left;\">(c)\\t<span style=\"background-color: rgb(255, 255, 0);\">Notifications required by the home jurisdiction, such as mispricing, transaction amendments, suspensions, or delays, must also be communicated to the regulatory authorities of the host jurisdiction</span>;</p><p style=\"text-align: left;\">(d)\\t<span style=\"background-color: rgb(255, 255, 0);\">Ensure that Hong Kong courts are not excluded from handling litigation arising from the fund</span>;</p><p style=\"text-align: left;\">(e)\\tChanges to the fund must comply with the laws and regulations of the home jurisdiction and subsequently be filed with the regulatory authorities of the host jurisdiction;</p><p style=\"text-align: left;\">(f)\\tIn the event of a breach of applicable laws or regulations, both regulatory authorities must be notified, and the violation must be rectified as soon as possible.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    },
+    {
+      "question_id": 9858,
+      "content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">峰语公司正准备向公众推出一只新的环境、社会及管治（ESG）主题基金。在准备申请认可的过程中，公司的合规经理Elise向负责人员Leo解释审批流程。下列哪项是Elise最准确的解释？</span></p>",
+      "cht_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">峰語公司正準備向公眾推出一隻新的環境、社會及管治（ESG）主題基金。在準備申請認可的過程中，公司的合規經理Elise向負責人員Leo解釋審批流程。下列哪項是Elise最準確的解釋？</span></p>",
+      "en_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">Fengyu Company is preparing to launch a new Environmental, Social, and Governance (ESG) themed fund to the public. During the process of preparing the application for authorization, the company's compliance manager, Elise, explains the approval process to the responsible officer, Leo. Which of the following is the most accurate explanation provided by Elise?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "“Leo，我们必须先将申请提交给产品咨询委员会，获得他们的批准函后，再转交证监会的投资产品部。”"
+        },
+        {
+          "key": "B",
+          "value": "“Leo，我们的申请将由产品咨询委员会和投资产品部共同审批，双方都拥有一票否决权。”"
+        },
+        {
+          "key": "C",
+          "value": "“Leo，我们的申请由投资产品部全权审批。不过，对于我们这款创新的ESG基金，投资产品部可能会咨询产品咨询委员会的意见，以了解行业看法。”"
+        },
+        {
+          "key": "D",
+          "value": "“Leo，由于这是ESG基金，我们的申请将直接由法规执行部处理，以确保其符合所有披露规定。”"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p style=\"text-align: left;\">山海老师认为，此案例题将所有相关方放入一个真实的业务流程中，考察考生能否理清各方的正确关系和工作流程。</p><p style=\"text-align: left;\">选项A：不正确。申请流程是直接向证监会（投资产品部）提交，而非先经过咨询委员会。</p><p style=\"text-align: left;\">选项B：不正确。“共同审批”和“一票否-决权”的说法是错误的，混淆了决策与咨询的角色。</p><p style=\"text-align: left;\">选项C：正确。这准确描述了实际情况：投资产品部是决策者，但在需要时（尤其对新颖或复杂的产品），可以利用产品咨询委员会这个平台来收集行业专家意见。</p><p style=\"text-align: left;\">选项D：不正确。法规执行部负责事后调查执法，不负责产品的事前审批。产品审批是投资产品部的职责。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">山海老師認為，此案例題將所有相關方放入一個真實的業務流程中，考察考生能否理清各方的正確關係和工作流程。</p>\n\n<p style=\"text-align: left;\">選項A：不正確。申請流程是直接向證監會（投資產品部）提交，而非先經過諮詢委員會。</p>\n\n<p style=\"text-align: left;\">選項B：不正確。「共同審批」和「一票否決權」的說法是錯誤的，混淆了決策與諮詢的角色。</p>\n\n<p style=\"text-align: left;\">選項C：正確。這準確描述了實際情況：投資產品部是決策者，但在需要時（尤其對新穎或複雜的產品），可以利用產品諮詢委員會這個平台來收集行業專家意見。</p>\n\n<p style=\"text-align: left;\">選項D：不正確。法規執行部負責事後調查執法，不負責產品的事前審批。產品審批是投資產品部的職責。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Teacher Shan Hai believes that this case study places all relevant parties within an authentic business process, testing whether candidates can clarify the correct relationships and workflow among the parties.</p><p style=\"text-align: left;\">Option A: Incorrect. The application process involves submitting directly to the Securities and Futures Commission (Investment Products Division), rather than first going through the Advisory Committee.</p><p style=\"text-align: left;\">Option B: Incorrect. The notions of 'joint approval' and 'veto power' are incorrect, as they confuse the roles of decision-making and advisory functions.</p><p style=\"text-align: left;\">Option C: Correct. This accurately describes the actual situation: the Investment Products Division is the decision-maker, but when necessary (especially for novel or complex products), it can utilize the Product Advisory Committee platform to gather opinions from industry experts.</p><p style=\"text-align: left;\">Option D: Incorrect. The Enforcement Division is responsible for post-event investigation and enforcement, not the pre-approval of products. Product approval falls under the responsibilities of the Investment Products Division.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 6
+    },
+    {
+      "question_id": 3397,
+      "content": "<p style=\"text-align: left;\">根据 《证券及期货条例》第174条之规定，未获邀约的造访通常称为“擅自造访\"，这包括下列哪些方式的通讯？</p><p style=\"text-align: left;\">I. 亲身探访；</p><p style=\"text-align: left;\">II. 电话谈话；</p><p style=\"text-align: left;\">III. 对客户发放硬碟，包含公司投资产品的介绍；</p><p style=\"text-align: left;\">IV. 通过即时聊天工具介绍公司最新投资产品。</p>",
+      "cht_content": "<p style=\"text-align: left;\">根據《證券及期貨條例》第174條之規定，未獲邀約的造訪通常稱為「擅自造訪」，這包括下列哪些方式的通訊？</p><p style=\"text-align: left;\">I. 親身探訪；</p><p style=\"text-align: left;\">II. 電話談話；</p><p style=\"text-align: left;\">III. 對客戶發放硬碟，包含公司投資產品的介紹；</p><p style=\"text-align: left;\">IV. 透過即時聊天工具介紹公司最新投資產品。</p>",
+      "en_content": "<p style=\"text-align: left;\">According to Section 174 of the Securities and Futures Ordinance, uninvited visits are commonly referred to as \"cold calling,\" which includes communications through which of the following methods?</p><p style=\"text-align: left;\">I. In-person visits;</p><p style=\"text-align: left;\">II. Telephone conversations;</p><p style=\"text-align: left;\">III. Distributing hard copies to clients containing introductions to the company's investment products;</p><p style=\"text-align: left;\">IV. Introducing the company's latest investment products through instant messaging tools.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有I，III，IV"
+        },
+        {
+          "key": "C",
+          "value": "I，II，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "只有I， II，IV"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p style=\"text-align: left;\">就上述规则而言，获准许的通讯是不在下列过程中作出的通讯：</p><p style=\"text-align: left;\">(a)亲身探访：</p><p style=\"text-align: left;\">(b)电话谈话；或</p><p style=\"text-align: left;\">(C) 任何其他交互式对话，而在对话过程中会实时交换陈述及对该等陈述的回应。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">总之，强调一个互动性，“交流”和推介的性质。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">就上述規則而言，獲准許的通訊是不在下列過程中作出的通訊：</p><p style=\"text-align: left;\">(a)親身探訪：</p><p style=\"text-align: left;\">(b)電話談話；或</p><p style=\"text-align: left;\">(c) 任何其他互動式對話，而在對話過程中會實時交換陳述及對該等陳述的回應。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">總之，強調一個互動性，「交流」和推介的性質。</p>",
+      "en_analysis": "For the purposes of the above rules, permitted communications are those not made in the course of the following processes:  \n(a) in-person visits;  \n(b) telephone conversations; or  \n(c) any other interactive dialogue where statements and responses to such statements are exchanged in real time.  \n\nIn summary, the emphasis is on interactivity, the nature of \"exchange,\" and referral",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 3352,
+      "content": "<p><span>干犯市场失当行为并一经公诉程序定罪，失当行为的刑事制裁为？</span></p>",
+      "cht_content": "<p><span>觸犯市場失當行為並經公訴程序定罪後，該失當行為的刑事制裁為何？</span></p>",
+      "en_content": "<p><span>What are the criminal sanctions for market misconduct upon conviction on indictment?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "监禁3年及罚款100万港元"
+        },
+        {
+          "key": "B",
+          "value": "监禁5年及罚款100万港元"
+        },
+        {
+          "key": "C",
+          "value": "监禁7年及罚款100万港元"
+        },
+        {
+          "key": "D",
+          "value": "监禁10年及罚款1000万港元"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p style=\"text-align: left;\">《证券及期货条例》规定的刑事制裁包括：</p><p style=\"text-align: left;\">1. 一经循公诉程序定罪，可监禁10年及罚款1000万港元：或</p><p style=\"text-align: left;\">2. 一经循简易程序定罪，可监禁3年及罚款100万港元。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">《證券及期貨條例》規定的刑事制裁包括：</p><p style=\"text-align: left;\">1. 一經循公訴程序定罪，可監禁10年及罰款1000萬港元；或</p><p style=\"text-align: left;\">2. 一經循簡易程序定罪，可監禁3年及罰款100萬港元。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Criminal sanctions under the Securities and Futures Ordinance include:</p><p style=\"text-align: left;\">1. Upon conviction on indictment, imprisonment for 10 years and a fine of HK$10 million; or</p><p style=\"text-align: left;\">2. Upon summary conviction, imprisonment for 3 years and a fine of HK$1 million.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 2826,
+      "content": "<p><span>根据《财政资源规则》。在计算速动资金的价值时，可随时动用的现金及近似现金项目将如何计算？</span></p>",
+      "cht_content": "<p><span>根據《財政資源規則》，在計算速動資金價值時，可隨時動用的現金及近似現金項目將如何計算？</span></p>",
+      "en_content": "<p><span>According to the Financial Resources Rules, how are readily available cash and near-cash items calculated when determining the value of liquid capital?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "100%计算"
+        },
+        {
+          "key": "B",
+          "value": "根据核数师的意见来计算"
+        },
+        {
+          "key": "C",
+          "value": "0%计算"
+        },
+        {
+          "key": "D",
+          "value": "由证监会评估断定"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">因此，在计算速动资产的价值时，可随时动用的现金及近似现金项目会以全值100%计算，换言之，计算这些资产的速动价值时须扣减的价值为0%[DFXM-CMB]。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">因此，在計算速動資產的價值時，可隨時動用的現金及近似現金項目會以全值100%計算，換言之，計算這些資產的速動價值時須扣減的價值為0%[DFXM-CMB]。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">Therefore, when calculating the value of quick assets, cash and near-cash items that are readily available are accounted for at their full value of 100%. In other words, the deduction required for the quick value calculation of these assets is 0% [DFXM-CMB].</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 9910,
+      "content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">与海外个人客户进行遥距开户时，持牌人应采取下列哪项措施？</span></p>",
+      "cht_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">與海外個人客戶進行遙距開戶時，持牌人應採取下列哪項措施？</span></p>",
+      "en_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">When conducting remote account opening for overseas individual customers, which of the following measures should the licensee take?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "接受由当地律师事务所普通职员见证的身份文件副本。"
+        },
+        {
+          "key": "B",
+          "value": "依赖客户提供的自拍照片及身份证件照片。"
+        },
+        {
+          "key": "C",
+          "value": "采用容貌辨识技术，并将客户容貌与可信赖政府机关数据库进行核对。"
+        },
+        {
+          "key": "D",
+          "value": "获取一份由海外认可的验证服务提供者（如海外公证人）发出的证明书。"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">与海外客户遥距开户时，身份验证的标准更为严格，通常需要依赖合资格的海外专业人士（如公证人）或使用经认证的科技手段，并配合其他措施。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">與海外客戶遙距開戶時，身份驗證的標準更為嚴格，通常需要依賴合資格的海外專業人士（如公證人）或使用經認證的科技手段，並配合其他措施。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">When conducting remote account opening for overseas clients, the standards for identity verification are more stringent. It typically requires reliance on qualified overseas professionals (such as notaries) or the use of certified technological means, supplemented by other measures.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 6
+    },
+    {
+      "question_id": 3245,
+      "content": "<p><span>根据《证券及期货条例》附表5，以下哪项不是被定义为“资产管理”服务的一部分？</span></p>",
+      "cht_content": "<p><span>根據《證券及期貨條例》附表5，以下哪項並非被定義為「資產管理」服務的一部分？</span></p>",
+      "en_content": "<p><span>According to Schedule 5 of the Securities and Futures Ordinance, which of the following is not defined as part of 'asset management' services?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "提供房地产投资计划管理服务"
+        },
+        {
+          "key": "B",
+          "value": "提供证券投资组合管理服务"
+        },
+        {
+          "key": "C",
+          "value": "提供期货合约管理服务"
+        },
+        {
+          "key": "D",
+          "value": "提供银行储蓄账户管理服务"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">《证券及期货条例》附表5明确将“资产管理”定义为提供“房地产投资计划管理”或“证券或期货合约管理”服务。银行储蓄账户管理服务并不包括在资产管理的定义范围内。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">《證券及期貨條例》附表5明確將「資產管理」定義為提供「房地產投資計劃管理」或「證券或期貨合約管理」服務。銀行儲蓄戶口管理服務並不包括在資產管理的定義範圍內。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">Schedule 5 of the Securities and Futures Ordinance clearly defines 'asset management' as providing services for 'real estate investment scheme management' or 'securities or futures contract management'. The management of bank savings accounts is not included within the definition of asset management.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    },
+    {
+      "question_id": 9923,
+      "content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">下列哪类人士会受到《操守准则》中有关“非中央结算场外衍生工具交易”的风险纾减规定所规管？</span></p>",
+      "cht_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">以下哪類人士會受到《操守準則》中有關「非中央結算場外衍生工具交易」的風險緩解規定所規管？</span></p>",
+      "en_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">Which of the following individuals would be subject to the risk mitigation requirements for \"non-centrally cleared OTC derivative transactions\" under the Code of Conduct?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "所有进行股票买卖的持牌代表。"
+        },
+        {
+          "key": "B",
+          "value": "身为该类交易订约方的持牌法团。"
+        },
+        {
+          "key": "C",
+          "value": "只为客户提供有关场外衍生工具意见的投资顾问。"
+        },
+        {
+          "key": "D",
+          "value": "所有注册机构。"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">风险纾减规定直接规管作为交易“订约方”的持牌法团，以及管理相关投资组合的第9类持牌法团。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">風險紓減規定直接規管作為交易「訂約方」的持牌法團，以及管理相關投資組合的第9類持牌法團。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">Risk mitigation requirements directly regulate licensed corporations acting as \"contracting parties\" in transactions, as well as Type 9 licensed corporations managing relevant investment portfolios.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 6
+    },
+    {
+      "question_id": 9823,
+      "content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">就强制性公积金（强积金）计划下的核准成分基金而言，获得强制性公积金计划管理局（积金局）的“核准”，其主要涵义是什么？</span></p>",
+      "cht_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">就強制性公積金（強積金）計劃下的核准成分基金而言，獲得強制性公積金計劃管理局（積金局）的「核准」，其主要涵義是什麼？</span></p>",
+      "en_content": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">Regarding the approved constituent funds under the Mandatory Provident Fund (MPF) schemes, what is the primary implication of obtaining \"approval\" from the Mandatory Provident Fund Schemes Authority (MPFA)?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "该基金向计划成员保证了某一最低水平的投资回报。"
+        },
+        {
+          "key": "B",
+          "value": "该基金的结构、营运及受托人符合《强制性公积金计划条例》的规定。"
+        },
+        {
+          "key": "C",
+          "value": "证券及期货事务监察委员会（证监会）已向公众推荐该基金为一项卓越的投资产品。"
+        },
+        {
+          "key": "D",
+          "value": "积金局确认投资于该基金的所有市场风险均已被完全对冲。"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p style=\"text-align: left;\">山海老师认为，这道题的核心是考察考生对积金局法定角色的理解。</p><p style=\"text-align: left;\">选项A：不正确。积金局明确表示其职能不包括保证任何基金的投资表现或回报水平。核准不等于为基金的收益背书。</p><p style=\"text-align: left;\">选项B：正确。积金局的“核准”是指一个强积金计划及其成分基金在法律结构、受托人资格、保管人安排及整体运作上，均符合《强制性公积金计划条例》所订立的监管要求。它是一个合规性的认证，而非表现的保证。</p><p style=\"text-align: left;\">选项C：不正确。这混淆了积金局与证监会的角色。证监会负责认可（authorize）强积金基金的销售文件及市场推广资料，但这不等同于“推荐”。同时，强积金基金的“核准”主体是积金局，而非证监会。</p><p style=\"text-align: left;\">选项D：不正确。任何投资，包括强积金基金，都伴随着市场风险，积金局或任何监管机构均不会也无法确认风险被完全消除。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">山海老師認為，這道題的核心是考察考生對積金局法定角色的理解。</p><p style=\"text-align: left;\">選項A：不正確。積金局明確表示其職能不包括保證任何基金的投資表現或回報水平。核准不等於為基金的收益背書。</p><p style=\"text-align: left;\">選項B：正確。積金局的「核准」是指一個強積金計劃及其成分基金在法律結構、受託人資格、保管人安排及整體運作上，均符合《強制性公積金計劃條例》所訂立的監管要求。它是一個合規性的認證，而非表現的保證。</p><p style=\"text-align: left;\">選項C：不正確。這混淆了積金局與證監會的角色。證監會負責認可（authorize）強積金基金的銷售文件及市場推廣資料，但這不等同於「推薦」。同時，強積金基金的「核准」主體是積金局，而非證監會。</p><p style=\"text-align: left;\">選項D：不正確。任何投資，包括強積金基金，都伴隨著市場風險，積金局或任何監管機構均不會也無法確認風險被完全消除。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Mr. Shan Hai believes that the core of this question is to test candidates' understanding of the statutory role of the Mandatory Provident Fund Schemes Authority (MPFA).</p><p style=\"text-align: left;\">Option A: Incorrect. The MPFA explicitly states that its functions do not include guaranteeing the investment performance or return levels of any fund. Approval does not equate to endorsing the fund's returns.</p><p style=\"text-align: left;\">Option B: Correct. The MPFA's 'approval' refers to the fact that a Mandatory Provident Fund (MPF) scheme and its constituent funds comply with the regulatory requirements set out in the Mandatory Provident Fund Schemes Ordinance in terms of legal structure, trustee qualifications, custodian arrangements, and overall operations. It is a certification of compliance, not a guarantee of performance.</p><p style=\"text-align: left;\">Option C: Incorrect. This confuses the roles of the MPFA and the Securities and Futures Commission (SFC). The SFC is responsible for authorizing the sales documents and marketing materials of MPF funds, but this does not equate to 'recommendation.' Meanwhile, the 'approval' of MPF funds falls under the purview of the MPFA, not the SFC.</p><p style=\"text-align: left;\">Option D: Incorrect. Any investment, including MPF funds, carries market risks. The MPFA or any regulatory body will not and cannot confirm that risks are entirely eliminated.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 6
+    },
+    {
+      "question_id": 3261,
+      "content": "<p><span>根据《房地产基金守则》规定，管理公司退任时，受托人必须尽快委任新的管理公司，但必须经过什么程序？</span></p>",
+      "cht_content": "<p><span>根據《房地產基金守則》規定，管理公司退任時，受託人必須盡快委任新的管理公司，但必須經過什麼程序？</span></p>",
+      "en_content": "<p><span>According to the Code on Real Estate Investment Trusts, when a management company retires, the trustee must appoint a new management company as soon as possible, but what procedure must be followed?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "经过联交所批准"
+        },
+        {
+          "key": "B",
+          "value": "经过持有人批准及获得证监会事先批准"
+        },
+        {
+          "key": "C",
+          "value": "经过核数师审计"
+        },
+        {
+          "key": "D",
+          "value": "经过总估值师评估"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">根据教材内容，当管理公司退任时，受托人必须尽快委任新的管理公司，但必须经持有人批准及获得证监会事先批准。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">根據教材內容，當管理公司退任時，受託人必須盡快委任新的管理公司，但必須經持有人批准及獲得證監會事先批准。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">According to the textbook content, when the management company retires, the trustee must appoint a new management company as soon as possible, but this must be approved by the holders and obtain prior approval from the Securities and Futures Commission.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    },
+    {
+      "question_id": 3135,
+      "content": "<p style=\"text-align: left;\">ABC法团为香港一间稳健经营超逾10年的资产管理公司，拥有证监会授权的9号牌照。</p><p style=\"text-align: left;\">ABC法团最近计划发行“Z基金”，为一支货币市场基金，规模3亿，期限不足1年。</p><p style=\"text-align: left;\">根据《单位信托及互惠基金守则》，下列哪些规定适用“Z基金”？</p><p style=\"text-align: left;\">I. 销售文件必须注明，基金不受香港金融管理局的监督；</p><p style=\"text-align: left;\">II. 投资组合约的平均届满期不可超逾180天；</p><p style=\"text-align: left;\">III. 销售文件必须注明，基金无责任按要约价值购回股份；</p><p style=\"text-align: left;\">IV. 只可持有最多60%的政府证券。</p>",
+      "cht_content": "<p style=\"text-align: left;\">ABC法團為香港一間穩健經營超過10年的資產管理公司，擁有證監會授權的9號牌照。</p><p style=\"text-align: left;\">ABC法團最近計劃發行「Z基金」，為一支貨幣市場基金，規模3億，期限不足1年。</p><p style=\"text-align: left;\">根據《單位信託及互惠基金守則》，下列哪些規定適用於「Z基金」？</p><p style=\"text-align: left;\">I. 銷售文件必須註明，基金不受香港金融管理局的監督；</p><p style=\"text-align: left;\">II. 投資組合的平均屆滿期不可超過180天；</p><p style=\"text-align: left;\">III. 銷售文件必須註明，基金無責任按要約價值購回股份；</p><p style=\"text-align: left;\">IV. 只可持有最多60%的政府證券。</p>",
+      "en_content": "<p style=\"text-align: left;\">ABC Corporation is a Hong Kong-based asset management company with a solid operational history of over 10 years, holding a Type 9 license authorized by the Securities and Futures Commission.</p><p style=\"text-align: left;\">ABC Corporation recently plans to launch the \"Z Fund,\" a money market fund with a size of HKD 300 million and a term of less than one year.</p><p style=\"text-align: left;\">According to the Code on Unit Trusts and Mutual Funds, which of the following provisions apply to the \"Z Fund\"?</p><p style=\"text-align: left;\">I. The offering document must state that the fund is not supervised by the Hong Kong Monetary Authority;</p><p style=\"text-align: left;\">II. The average maturity of the investment portfolio must not exceed 180 days;</p><p style=\"text-align: left;\">III. The offering document must state that the fund has no obligation to repurchase shares at the offer value;</p><p style=\"text-align: left;\">IV. It may hold a maximum of 60% in government securities.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，III"
+        },
+        {
+          "key": "B",
+          "value": "只有 I，II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p style=\"text-align: left;\">没有II和IV的规定。</p><p style=\"text-align: left;\"><span style=\"background-color: rgb(255, 255, 0);\">货币市场／现金管理基金是只投资于短期存款及债务证券的集体投资计划。为避免误导准投资者，在销售文件内必须将集体投资计划的名称及内容，与于认可财务机构的存款清楚区分，及表明该计划并不受金管局监督，而管理公司亦无责任按发售价赎回股份。</span></p>",
+      "cht_analysis": "<p style=\"text-align: left;\">沒有II和IV的規定。</p><p style=\"text-align: left;\"><span style=\"background-color: rgb(255, 255, 0);\">貨幣市場／現金管理基金是只投資於短期存款及債務證券的集體投資計劃。為避免誤導準投資者，在銷售文件內必須將集體投資計劃的名稱及內容，與於認可財務機構的存款清楚區分，及表明該計劃並不受金管局監督，而管理公司亦無責任按發售價贖回股份。</span></p>",
+      "en_analysis": "<p style=\"text-align: left;\">There are no provisions for II and IV.</p><p style=\"text-align: left;\"><span style=\"background-color: rgb(255, 255, 0);\">A money market/cash management fund is a collective investment scheme that invests solely in short-term deposits and debt securities. To avoid misleading potential investors, the name and content of the collective investment scheme in the offering documents must be clearly distinguished from deposits with authorized financial institutions, and it must be stated that the scheme is not supervised by the HKMA, nor is the management company obliged to redeem shares at the issue price.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    },
+    {
+      "question_id": 2502,
+      "content": "<p style=\"text-align: left;\">《私隐条例》旨在保护有关个人资料的私隐。</p><p style=\"text-align: left;\">以下对该条例的认知，错误的是哪一项？</p>",
+      "cht_content": "<p style=\"text-align: left;\">《私隱條例》旨在保障有關個人資料的私隱。</p><p style=\"text-align: left;\">以下對該條例的認知，錯誤的是哪一項？</p>",
+      "en_content": "<p style=\"text-align: left;\">The Personal Data (Privacy) Ordinance aims to protect the privacy of personal data.</p><p style=\"text-align: left;\">Which of the following statements regarding this Ordinance is incorrect?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "适用于在持牌法团或注册机构控制范围内的个人资料的收集、持有、处理或使用"
+        },
+        {
+          "key": "B",
+          "value": "资料当事人无权要求改正该等资料"
+        },
+        {
+          "key": "C",
+          "value": "个人资料应准确及最新，须采取所有切实可行的步骤，以确保个人资料的保留时间不得超过使用该等资料所需的合理时间，而当知悉个人资料是不准确时，应加以更正"
+        },
+        {
+          "key": "D",
+          "value": "资料当事人有权要求在合理时间内，在支付合理费用下，查阅采用清楚易明的形式记录的个人资料"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p style=\"text-align: left;\">资料当事人当然有权改正该等资料，比如你去银行修改下手机号码，修改下联系地址，婚姻状况？？？谁还敢说个“不”字？？？</p><p style=\"text-align: left;\">资料当事人有权确定资料使用者是否持有他属其资料当事人的个人资料；</p><p style=\"text-align: left;\">要求在合理时间内，在支付合理费用下，查阅采用清楚易明的形式记录的个人资料；</p><p style=\"text-align: left;\">以及要求改正该等资料，并在上述要求被拒绝时获提供理由及就此向个人资料私隠专员提出反对。</p><p style=\"text-align: left;\">当然是有权改正的，比如你到银行去更新你的手机号码、联系地址等等，都是合理、合法的。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">資料當事人當然有權改正該等資料，例如你去銀行修改手機號碼、更新聯絡地址、婚姻狀況等等，誰敢說個「不」字呢？</p>\n<p style=\"text-align: left;\">資料當事人有權確定資料使用者是否持有其作為資料當事人的個人資料；</p>\n<p style=\"text-align: left;\">要求在合理時間內，支付合理費用下，查閱以清晰易懂形式記錄的個人資料；</p>\n<p style=\"text-align: left;\">以及要求改正該等資料，並在上述要求被拒絕時獲提供理由，就此向個人資料私隱專員提出反對。</p>\n<p style=\"text-align: left;\">當然是有權改正的，例如你到銀行更新手機號碼、聯絡地址等等，都是合理、合法的。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Data subjects certainly have the right to amend such information. For instance, when you go to the bank to update your mobile number, change your contact address, or update your marital status—who would dare say 'no'???</p><p style=\"text-align: left;\">Data subjects have the right to ascertain whether the data user holds personal data of which they are the data subject;</p><p style=\"text-align: left;\">To request access to personal data recorded in a clear and understandable form within a reasonable time and at a reasonable cost;</p><p style=\"text-align: left;\">And to request the correction of such data, and if such a request is refused, to be provided with reasons and to lodge an objection with the Privacy Commissioner for Personal Data.</p><p style=\"text-align: left;\">Of course, there is the right to amend. For example, when you go to the bank to update your mobile number, contact address, etc., it is entirely reasonable and lawful.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 6
+    },
+    {
+      "question_id": 3415,
+      "content": "<p style=\"text-align: left;\">香港某资产管理公司H法团为联交所上市公司，稳健经营超逾15年。</p><p style=\"text-align: left;\">H法团最近透过内幕交易海外市场证券，以影响香港市场相关证券的价格走势。</p><p style=\"text-align: left;\">H法团是否干犯市场失当行为？</p>",
+      "cht_content": "<p style=\"text-align: left;\">香港某資產管理公司H法團為聯交所上市公司，穩健經營超過15年。</p><p style=\"text-align: left;\">H法團最近透過內幕交易海外市場證券，以影響香港市場相關證券的價格走勢。</p><p style=\"text-align: left;\">H法團是否干犯市場失當行為？</p>",
+      "en_content": "<p style=\"text-align: left;\">Hong Kong asset management company H Corporation is a listed company on the Stock Exchange and has been operating steadily for over 15 years.</p><p style=\"text-align: left;\">H Corporation recently engaged in insider trading of overseas market securities to influence the price trends of related securities in the Hong Kong market.</p><p style=\"text-align: left;\">Has H Corporation committed market misconduct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "否，除非该相关证券的发行方为在香港注册成立的法团"
+        },
+        {
+          "key": "B",
+          "value": "是"
+        },
+        {
+          "key": "C",
+          "value": "否，除非该受影响证券的发行方为在港交所双重上市"
+        },
+        {
+          "key": "D",
+          "value": "无法判断"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p style=\"text-align: left;\">山海老师20190212YZDFXMWLKJ提醒考生关注下这个题目和考点。</p><p style=\"text-align: left;\">注意，这里涉及到的是操纵价格或者操纵市场的行为，你玩外面的证券，反过来影响香港的市场，也是要受到处罚的！</p><p style=\"text-align: left;\">---操控价格-----如在下列地方进行所述交易，即可能干犯操控价格的行为：</p><p style=\"text-align: left;\">(a)在香港或其他地方进行（就在认可证券市场或透过认可自动化交易系统买卖的金融工具而言）；或</p><p style=\"text-align: left;\">(b)在香港进行（就在境外市场买卖的金融工具而言）。</p><p style=\"text-align: left;\">附注：操控价格仅适用于在交易所或透过认可自动化交易服务进行的交易。</p><p style=\"text-align: left;\">--操纵证券市场-----如在下列地方进行所述交易，即可能干犯操纵证券市场的行为：</p><p style=\"text-align: left;\">(a)在香港或其他地方进行（就在认可证券市场或透过认可自动化交易服务买卖的证券而言）；或</p><p style=\"text-align: left;\">(b)在香港进行（就在境外市场买卖的证券而言）。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">山海老師20190212YZDFXMWLKJ提醒考生關注下這個題目和考點。</p><p style=\"text-align: left;\">注意，這裡涉及到的是操縱價格或者操縱市場的行為，你玩外面的證券，反過來影響香港的市場，也是要受到處罰的！</p><p style=\"text-align: left;\">---操控價格-----如在下列地方進行所述交易，即可能干犯操控價格的行為：</p><p style=\"text-align: left;\">(a)在香港或其他地方進行（就在認可證券市場或透過認可自動化交易系統買賣的金融工具而言）；或</p><p style=\"text-align: left;\">(b)在香港進行（就在境外市場買賣的金融工具而言）。</p><p style=\"text-align: left;\">附註：操控價格僅適用於在交易所或透過認可自動化交易服務進行的交易。</p><p style=\"text-align: left;\">--操縱證券市場-----如在下列地方進行所述交易，即可能干犯操縱證券市場的行為：</p><p style=\"text-align: left;\">(a)在香港或其他地方進行（就在認可證券市場或透過認可自動化交易服務買賣的證券而言）；或</p><p style=\"text-align: left;\">(b)在香港進行（就在境外市場買賣的證券而言）。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Teacher Shanhai 20190212YZDFXMWLKJ reminds candidates to pay attention to this question and the key point.</p><p style=\"text-align: left;\">Note, this involves price manipulation or market manipulation; if you trade securities outside, which in turn affects the Hong Kong market, you may also be penalized!</p><p style=\"text-align: left;\">---Price Manipulation-----Engaging in the described transactions in the following locations may constitute price manipulation:</p><p style=\"text-align: left;\">(a) Conducted in Hong Kong or elsewhere (in relation to financial instruments traded on a recognized securities market or through a recognized automated trading system); or</p><p style=\"text-align: left;\">(b) Conducted in Hong Kong (in relation to financial instruments traded on an overseas market).</p><p style=\"text-align: left;\">Note: Price manipulation only applies to transactions conducted on an exchange or through a recognized automated trading service.</p><p style=\"text-align: left;\">--Securities Market Manipulation-----Engaging in the described transactions in the following locations may constitute securities market manipulation:</p><p style=\"text-align: left;\">(a) Conducted in Hong Kong or elsewhere (in relation to securities traded on a recognized securities market or through a recognized automated trading service); or</p><p style=\"text-align: left;\">(b) Conducted in Hong Kong (in relation to securities traded on an overseas market).</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 3421,
+      "content": "<p style=\"text-align: left;\">市场失当行为审裁处，对干犯市场失当行为的人士可以做出哪些命令？</p><p style=\"text-align: left;\">I. 某董事被查明参与内幕交易，被裁定监禁两年；</p><p style=\"text-align: left;\">II. 某法人专业投资者ABC法团干犯操纵市场，被裁定禁止在香港市场进行投资或交易，为期长达3年；</p><p style=\"text-align: left;\">III. 某法团的大股东干犯虚假交易，被裁定向政府缴交所获取的任何利润或避免的损失，另加复利；</p><p style=\"text-align: left;\">IV. 某上市法团的董事会秘书（香港特许秘书公会会员）被裁定参与披露虚假信息，导致投资者损失惨重，被下达纪律转介令，建议香港特许秘书公会对其采取纪律行动。</p>",
+      "cht_content": "<p style=\"text-align: left;\">市場失當行為審裁處，對干犯市場失當行為的人士可以做出哪些命令？</p><p style=\"text-align: left;\">I. 某董事被查明參與內幕交易，被裁定監禁兩年；</p><p style=\"text-align: left;\">II. 某法人專業投資者ABC法團干犯操縱市場，被裁定禁止在香港市場進行投資或交易，為期長達3年；</p><p style=\"text-align: left;\">III. 某法團的大股東干犯虛假交易，被裁定向政府繳交所獲取的任何利潤或避免的損失，另加複利；</p><p style=\"text-align: left;\">IV. 某上市法團的董事會秘書（香港特許秘書公會會員）被裁定參與披露虛假信息，導致投資者損失慘重，被下達紀律轉介令，建議香港特許秘書公會對其採取紀律行動。</p>",
+      "en_content": "<p style=\"text-align: left;\">What orders can the Market Misconduct Tribunal impose on individuals who commit market misconduct?</p><p style=\"text-align: left;\">I. A director found to have engaged in insider trading was sentenced to two years of imprisonment;</p><p style=\"text-align: left;\">II. A corporate professional investor, ABC Corporation, found to have committed market manipulation, was prohibited from investing or trading in the Hong Kong market for a period of up to three years;</p><p style=\"text-align: left;\">III. A major shareholder of a corporation found to have engaged in false trading was ordered to pay the government any profits gained or losses avoided, plus compound interest;</p><p style=\"text-align: left;\">IV. The board secretary (a member of the Hong Kong Institute of Chartered Secretaries) of a listed corporation was found to have participated in disclosing false information, causing significant losses to investors, and was issued a disciplinary referral order, recommending that the Hong Kong Institute of Chartered Secretaries take disciplinary action against them.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "C",
+          "value": "只有I，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p style=\"text-align: left;\">市场失当行为审裁处不能判人家坐牢，因此选项I不要选，这个是法院才能做出的权利。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">市场失当行为审裁处可对被裁定干犯市场失当行为人士作出命令，其中包括：</p><p style=\"text-align: left;\">(a)取消担任董事、清盘人或接管人等职务，或参与法团管理的资格，为期最长5年；</p><p style=\"text-align: left;\">(b)禁止在香港市场进行投资或交易（“冷淡对待令”），为期最长5年；</p><p style=\"text-align: left;\">(c)禁止进行构成该命令指明的市场失当行为的任何行为；</p><p style=\"text-align: left;\">(d)向政府缴交所获取的任何利润或避免的损失，另加复利；</p><p style=\"text-align: left;\">(e)支付政府及证监会招致的合理讼费及开支；及</p><p style=\"text-align: left;\">(f)如该等人士属于专业团体的成员，则下达纪律转介令，建议该团体对他们采取纪律行动。（此举会使持牌人或注册人的适当人选资格受到质疑，对他的持牌或注册身份亦有潜在后果）。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">市場失當行為審裁處無權判處監禁，因此選項I不應選擇，此為法院專屬權力。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">市場失當行為審裁處可對裁定觸犯市場失當行為人士作出以下命令：</p><p style=\"text-align: left;\">(a) 取消擔任董事、清盤人或接管人等職務資格，或禁止參與法團管理，最長為期5年；</p><p style=\"text-align: left;\">(b) 禁止於香港市場進行投資或交易（「冷淡對待令」），最長為期5年；</p><p style=\"text-align: left;\">(c) 禁止從事構成該命令指明之市場失當行為的任何活動；</p><p style=\"text-align: left;\">(d) 向政府繳付因相關行為獲取的全部利潤或避免的損失，另加複利計算；</p><p style=\"text-align: left;\">(e) 支付政府及證監會因訴訟產生的合理費用及開支；及</p><p style=\"text-align: left;\">(f) 若該人士屬專業團體成員，可下達紀律轉介令，建議所屬團體對其採取紀律行動（此舉可能影響持牌人或註冊人作為適當人選的資格，並對其持牌或註冊身份產生潛在後果）。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">The Market Misconduct Tribunal cannot sentence anyone to imprisonment, so Option I should not be selected, as this is a power only the court can exercise.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">The Market Misconduct Tribunal may issue orders against individuals found to have engaged in market misconduct, including:</p><p style=\"text-align: left;\">(a) Disqualification from serving as a director, liquidator, or receiver, or from participating in the management of a corporation, for a maximum period of 5 years;</p><p style=\"text-align: left;\">(b) Prohibition from making investments or conducting transactions in the Hong Kong market (commonly referred to as a \"cold-shoulder order\"), for a maximum period of 5 years;</p><p style=\"text-align: left;\">(c) Prohibition from engaging in any conduct constituting the market misconduct specified in the order;</p><p style=\"text-align: left;\">(d) Payment to the government of any profits gained or losses avoided, plus compound interest;</p><p style=\"text-align: left;\">(e) Payment of reasonable legal costs and expenses incurred by the government and the Securities and Futures Commission; and</p><p style=\"text-align: left;\">(f) If the individual is a member of a professional body, issuance of a disciplinary referral order, recommending the body to take disciplinary action against them. (This may call into question the fitness and propriety of a licensed or registered person and could have potential implications for their licensed or registered status).</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 47
+    },
+    {
+      "question_id": 9868,
+      "content": "<p style=\"text-align: left;\">关于在香港设立的家族办公室（Family Office）的发牌要求，下列哪些陈述是正确的？</p><p style=\"text-align: left;\">I. 只要服务对象是“家族成员”，任何形式的家族办公室都无须申领牌照。</p><p style=\"text-align: left;\">II. 一个为多个无关联的家族提供全权委托资产管理服务的“多家族办公室”，通常需要申领第9类牌照。</p><p style=\"text-align: left;\">III. 如果家族办公室的架构使其仅为持有该办公室的公司的“全资附属公司”管理资产，它可能因集团内部豁除情况而无须领牌。</p><p style=\"text-align: left;\">IV. 家族办公室的唯一发牌类别是第9类（提供资产管理）牌照。</p>",
+      "cht_content": "<p style=\"text-align: left;\">關於在香港設立的家族辦公室（Family Office）的發牌要求，下列哪些陳述是正確的？</p><p style=\"text-align: left;\">I. 只要服務對象是「家族成員」，任何形式的家族辦公室都無須申領牌照。</p><p style=\"text-align: left;\">II. 一個為多個無關聯的家族提供全權委託資產管理服務的「多家族辦公室」，通常需要申領第9類牌照。</p><p style=\"text-align: left;\">III. 如果家族辦公室的架構使其僅為持有該辦公室的公司之「全資附屬公司」管理資產，它可能因集團內部豁除情況而無須領牌。</p><p style=\"text-align: left;\">IV. 家族辦公室的唯一發牌類別是第9類（提供資產管理）牌照。</p>",
+      "en_content": "Regarding the licensing requirements for Family Offices established in Hong Kong, which of the following statements are correct?  \n\nI. As long as the clients are \"family members,\" any form of family office is exempt from applying for a license.  \n\nII. A \"multi-family office\" that provides discretionary asset management services to multiple unrelated families generally requires a Type 9 license.  \n\nIII. If the structure of a family office is such that it only manages assets for the \"wholly-owned subsidiary\" of the company that owns the office, it may be exempt from licensing due to the intra-group exclusion.  \n\nIV. The only licensing category applicable to family offices is the Type 9 (asset management) license",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I, IV"
+        },
+        {
+          "key": "B",
+          "value": "只有II, III"
+        },
+        {
+          "key": "C",
+          "value": "只有I, II, III"
+        },
+        {
+          "key": "D",
+          "value": "只有II, III, IV"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p style=\"text-align: left;\">山海老师分析道，本题全面考察了家族办公室发牌的核心原则、适用牌照类型及豁免情景。</p><p style=\"text-align: left;\">I：不正确。“家族成员”这个标签没有法律效力。关键在于法律结构上是否构成向“第三方”提供服务。一个多家族办公室服务的客户，在法律上就是第三方。</p><p style=\"text-align: left;\">II：正确。根据教材4.11节，向第三方提供具有全面投资酌情权的服务，是典型的第9类活动。多家族办公室正属此列。</p><p style=\"text-align: left;\">III：正确。根据教材4.12节，这种为集团内部公司提供服务的安排，正是“集团内部豁除”的典型应用场景，可能因此无须申领牌照。</p><p style=\"text-align: left;\">IV：不正确。根据教材4.11节，如果家族办公室不具备全权酌情权，但提供证券买卖或投资意见等服务，也可能需要申领第1类、第4类或第5类等其他牌照。</p><p style=\"text-align: left;\">因此，正确的陈述组合是 II 和 III。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">山海老師分析道，本題全面考察了家族辦公室發牌的核心原則、適用牌照類型及豁免情景。</p>\n\n<p style=\"text-align: left;\">I：不正確。「家族成員」這個標籤沒有法律效力。關鍵在於法律結構上是否構成向「第三方」提供服務。一個多家族辦公室服務的客戶，在法律上就是第三方。</p>\n\n<p style=\"text-align: left;\">II：正確。根據教材4.11節，向第三方提供具有全面投資酌情權的服務，是典型的第9類活動。多家族辦公室正屬此列。</p>\n\n<p style=\"text-align: left;\">III：正確。根據教材4.12節，這種為集團內部公司提供服務的安排，正是「集團內部豁除」的典型應用場景，可能因此無須申領牌照。</p>\n\n<p style=\"text-align: left;\">IV：不正確。根據教材4.11節，如果家族辦公室不具備全權酌情權，但提供證券買賣或投資意見等服務，也可能需要申領第1類、第4類或第5類等其他牌照。</p>\n\n<p style=\"text-align: left;\">因此，正確的陳述組合是 II 和 III。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Teacher Shanhai analysed that this question comprehensively examines the core principles of licensing for family offices, the applicable types of licences, and exemption scenarios.</p><p style=\"text-align: left;\">I: Incorrect. The label 'family member' holds no legal effect. The key lies in whether, from a legal structural perspective, services are provided to a 'third party'. A multi-family office serves clients who are legally considered third parties.</p><p style=\"text-align: left;\">II: Correct. According to Section 4.11 of the textbook, providing services with full investment discretion to third parties is a typical Type 9 activity. Multi-family offices fall precisely into this category.</p><p style=\"text-align: left;\">III: Correct. According to Section 4.12 of the textbook, such arrangements involving services provided to companies within the group are typical applications of the 'intra-group exclusion' and may therefore not require a licence.</p><p style=\"text-align: left;\">IV: Incorrect. According to Section 4.11 of the textbook, if a family office does not possess full discretion but provides services such as securities trading or investment advice, it may still require other types of licences, such as Type 1, Type 4, or Type 5.</p><p style=\"text-align: left;\">Therefore, the correct combination of statements is II and III.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 6
+    },
+    {
+      "question_id": 2851,
+      "content": "<p style=\"text-align: left;\">以下哪些机构需要遵守《客户证券规则》?</p><p style=\"text-align: left;\">l. ABC法团，获证监会授权开展第1类受规管业务；</p><p style=\"text-align: left;\">II. DFXM公司，为香港一间受限制牌照银行；</p><p style=\"text-align: left;\">III. YZWL公司，为香港一间注册机构；</p><p style=\"text-align: left;\">IV. KJ公司，为香港市场一名法团专业投资者。</p>",
+      "cht_content": "<p style=\"text-align: left;\">以下哪些機構需要遵守《客戶證券規則》？</p><p style=\"text-align: left;\">I. ABC法團，獲證監會授權開展第1類受規管業務；</p><p style=\"text-align: left;\">II. DFXM公司，為香港一間受限制牌照銀行；</p><p style=\"text-align: left;\">III. YZWL公司，為香港一間註冊機構；</p><p style=\"text-align: left;\">IV. KJ公司，為香港市場一名法團專業投資者。</p>",
+      "en_content": "<p style=\"text-align: left;\">Which of the following institutions are required to comply with the Client Securities Rules?</p><p style=\"text-align: left;\">I. ABC Corporation, authorised by the Securities and Futures Commission to carry out Type 1 regulated activities;</p><p style=\"text-align: left;\">II. DFXM Company, a restricted licence bank in Hong Kong;</p><p style=\"text-align: left;\">III. YZWL Company, a registered institution in Hong Kong;</p><p style=\"text-align: left;\">IV. KJ Company, a corporate professional investor in the Hong Kong market.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，III"
+        },
+        {
+          "key": "B",
+          "value": "只有III，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I， II， III， IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">谁开展这个受规管的业务，谁就要遵守，那就是持牌法团和注册机构了。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">邊個開展呢個受規管嘅業務，邊個就要遵守，咁就係持牌法團同註冊機構啦。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 255); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">Whoever carries out this regulated business must comply, that is, licensed corporations and registered institutions.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 10
+    },
+    {
+      "question_id": 9829,
+      "content": "<p style=\"text-align: left;\">Leo是持牌法团YZWL公司的代表。他的一位长期零售客户山海先生，对近期市场热议的虚拟资产投资非常感兴趣。山海先生主动询问能否购买一款由海外著名基金公司管理的、直接投资于一篮子加密货币（包括比特币及多种新兴代币）的基金。</p><p style=\"text-align: left;\">根据证监会的相关指引，Leo应如何回应山海先生的查询？</p>",
+      "cht_content": "<p style=\"text-align: left;\">Leo係持牌法團YZWL公司嘅代表。佢有一位長期零售客戶山海先生，對近期市場熱議嘅虛擬資產投資好有興趣。山海先生主動查詢可否購買一款由海外著名基金公司管理、直接投資於一籃子加密貨幣（包括比特幣同多種新興代幣）嘅基金。</p><p style=\"text-align: left;\">根據證監會嘅相關指引，Leo應該點樣回應山海先生嘅查詢？</p>",
+      "en_content": "<p style=\"text-align: left;\">Leo is a representative of the licensed corporation YZWL Company. One of his long-term retail clients, Mr. Shan Hai, is very interested in the recent hot topic of virtual asset investments. Mr. Shan Hai proactively inquired about the possibility of purchasing a fund managed by a well-known overseas fund company that directly invests in a basket of cryptocurrencies (including Bitcoin and various emerging tokens).</p><p style=\"text-align: left;\">According to the relevant guidelines of the Securities and Futures Commission, how should Leo respond to Mr. Shan Hai's inquiry?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "“可以的，只要您签署一份额外的风险披露声明，确认明白当中的风险即可。”"
+        },
+        {
+          "key": "B",
+          "value": "“很抱歉，根据香港的规定，这类直接投资于多种虚拟资产的基金通常不被允许向零售投资者发售。”"
+        },
+        {
+          "key": "C",
+          "value": "“这类产品在香港是完全非法的，任何推广或销售行为都属刑事罪行。”"
+        },
+        {
+          "key": "D",
+          "value": "“我可以为您申请一个专业投资者资格，只要获得批准，您就可以投资该基金了。”"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p style=\"text-align: left;\">山海老师认为，这是一个非常实际的案例，考察从业员在面对客户咨询时，是否能准确传达有关虚拟资产基金的销售合规要求。</p><p style=\"text-align: left;\">选项A：不正确。对于被限制只能售予专业投资者的产品，单靠签署风险披露声明并不能豁免对零售客户的销售限制。</p><p style=\"text-align: left;\">选项B：正确。这准确地反映了证监会的核心监管立场。为了保护投资者，具有高风险性质的虚拟资产基金（尤其是直接投资现货的产品）的销售对象被严格限定于专业投资者。</p><p style=\"text-align: left;\">选项C：不正确。该陈述过于绝对。这类基金本身并非“非法”，它们可以在符合规定的情况下（例如在海外注册并仅售予当地合资格投资者，或在香港仅售予专业投资者）合法存在。问题在于其“分销渠道”而非“合法性”。</p><p style=\"text-align: left;\">选项D：不正确。专业投资者资格有严格的资产或知识经验门槛，不能为了购买某个产品而随意申请。而且，作为持牌人，Leo不应主动诱导客户改变其投资者类别以规避销售限制。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">山海老師認為，這是一個非常實際的案例，考察從業員在面對客戶咨詢時，能否準確傳達有關虛擬資產基金的銷售合規要求。</p>\n\n<p style=\"text-align: left;\">選項A：不正確。對於被限制只能售予專業投資者的產品，單靠簽署風險披露聲明並不能豁免對零售客戶的銷售限制。</p>\n\n<p style=\"text-align: left;\">選項B：正確。這準確地反映了證監會的核心監管立場。為了保護投資者，具有高風險性質的虛擬資產基金（尤其是直接投資現貨的產品）的銷售對象被嚴格限定於專業投資者。</p>\n\n<p style=\"text-align: left;\">選項C：不正確。該陳述過於絕對。這類基金本身並非「非法」，它們可以在符合規定的情況下（例如在海外註冊並僅售予當地合資格投資者，或在香港僅售予專業投資者）合法存在。問題在於其「分銷渠道」而非「合法性」。</p>\n\n<p style=\"text-align: left;\">選項D：不正確。專業投資者資格有嚴格的資產或知識經驗門檻，不能為了購買某個產品而隨意申請。而且，作為持牌人，Leo不應主動誘導客戶改變其投資者類別以規避銷售限制。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Mr. Shan Hai considers this a highly practical case that examines whether practitioners can accurately convey the sales compliance requirements for virtual asset funds when facing client inquiries.</p><p style=\"text-align: left;\">Option A: Incorrect. For products restricted to professional investors only, merely signing a risk disclosure statement does not exempt the sales restrictions for retail clients.</p><p style=\"text-align: left;\">Option B: Correct. This accurately reflects the core regulatory stance of the Securities and Futures Commission. To protect investors, the sale of virtual asset funds with high-risk characteristics (especially those directly investing in spot products) is strictly limited to professional investors.</p><p style=\"text-align: left;\">Option C: Incorrect. The statement is overly absolute. Such funds are not inherently \"illegal\"; they can legally exist under compliant circumstances (e.g., registered overseas and sold only to local qualified investors, or sold in Hong Kong exclusively to professional investors). The issue lies in their \"distribution channels\" rather than their \"legality.\"</p><p style=\"text-align: left;\">Option D: Incorrect. Professional investor status requires strict asset or knowledge and experience thresholds and cannot be arbitrarily applied for the purpose of purchasing a specific product. Moreover, as a licensed person, Leo should not actively induce clients to change their investor category to circumvent sales restrictions.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 6
+    },
+    {
+      "question_id": 3156,
+      "content": "<p><span>根据《单位信托守则》的相关规定，关于“对冲基金”的表述，错误的是哪一项？</span></p>",
+      "cht_content": "<p><span>根據《單位信託守則》的相關規定，關於「對沖基金」的表述，錯誤的是哪一項？</span></p>",
+      "en_content": "<p><span>According to the relevant provisions of the Code on Unit Trusts, which of the following statements regarding 'hedge funds' is incorrect?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "对冲基金一般具有最低首次认购金额的限制"
+        },
+        {
+          "key": "B",
+          "value": "对冲基金在购入资产时强调有限责任，确保计划的资产与其他成分基金的负债的分隔清楚"
+        },
+        {
+          "key": "C",
+          "value": "对冲基金应每月最少有一个交易日"
+        },
+        {
+          "key": "D",
+          "value": "对冲基金销售文件的最后一页应载有特定的警告"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 0); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">销售文件的</span><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 0); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\"><strong>封面</strong></span><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 0); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">须载有特定的警告。</span></p>",
+      "cht_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 0); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">銷售文件的</span><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 0); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\"><strong>封面</strong></span><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 0); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">必須載有特定的警告。</span></p>",
+      "en_analysis": "<p><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 0); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">The cover of the sales document</span><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 0); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\"><strong> must contain specific warnings</strong></span><span style=\"color: rgba(0, 0, 0, 0.65); background-color: rgb(255, 255, 0); font-size: 13px; font-family: Helvetica, Arial, sans-serif;\">.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 46
+    }
+  ]
+}

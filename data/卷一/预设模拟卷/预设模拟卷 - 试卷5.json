@@ -1,0 +1,1928 @@
+{
+  "exam_id": "3148",
+  "title": "香港证券从业考试卷一HKSI LE Paper 1 - 预设模拟卷 - 试卷5",
+  "short_title": "预设模拟卷 - 试卷5",
+  "question_count": 60,
+  "questions": [
+    {
+      "question_id": 963,
+      "content": "<p>根据《适用于证监会的注册人和持牌人的管理、监督及内部监控指引》，中介人采取内部监控的目标是甚么？</p><p>I. 完全杜绝不法和欺诈行为；</p><p>II. 令中介人能有秩序及具效率地经营业务；</p><p>III. 保障其客户及中介人本身的资产；</p><p>IV. 提升中介人的经营溢利。</p>",
+      "cht_content": "<p>根據《適用於證監會的註冊人和持牌人的管理、監督及內部監控指引》，中介人採取內部監控的目標是甚麼？</p><p>I. 完全杜絕不法和欺詐行為；</p><p>II. 令中介人能有秩序及具效率地經營業務；</p><p>III. 保障其客戶及中介人本身的資產；</p><p>IV. 提升中介人的經營溢利。</p>",
+      "en_content": "<p>According to the 'Guidelines on Management, Supervision and Internal Control for SFC Registered Persons and Licensed Persons', what are the objectives for intermediaries to implement internal controls?</p><p>I. To completely eliminate illegal and fraudulent activities;</p><p>II. To enable intermediaries to operate their business in an orderly and efficient manner;</p><p>III. To protect the assets of their clients and the intermediaries themselves;</p><p>IV. To enhance the operating profit of intermediaries</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II"
+        },
+        {
+          "key": "B",
+          "value": "只有II，III"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>不能完全杜绝不法行为，也不是为了挣钱更多设立。</p><p>内部监控是指持牌人或注册人营运业务所实施的整套有关政策、程序、查核、监控及责任划分的制度。持牌人或注册人采取内部监控以合理保证其：</p><p>(a)能有秩序及具效率地经营业务；</p><p>(b)能保障其客户及该业务本身的资产；</p><p>(c)能保存完备的纪录，以及确保所制备的财务及其他资料都是可靠的；及</p><p>(d)能遵守所有适用的法规和监管规定。</p>",
+      "cht_analysis": "<p>不能完全杜絕不法行為，也不是為了賺取更多利潤而設立。</p><p>內部監控是指持牌人或註冊人在營運業務時所實施的一整套相關政策、程序、核查、監控及責任劃分的制度。持牌人或註冊人採取內部監控，以合理保證其：</p><p>(a)能夠有秩序且有效率地經營業務；</p><p>(b)能夠保障其客戶及業務本身的資產；</p><p>(c)能夠保存完備的紀錄，並確保所製備的財務及其他資料都是可靠的；及</p><p>(d)能夠遵守所有適用的法規和監管規定。</p>",
+      "en_analysis": "<p>It is not entirely capable of preventing illegal activities, nor is it established for the purpose of making more money.</p><p>Internal controls refer to the comprehensive system of policies, procedures, checks, monitoring, and division of responsibilities implemented by licensed persons or registered persons in the operation of their businesses. Licensed persons or registered persons adopt internal controls to reasonably ensure that:</p><p>(a) their business operations are conducted in an orderly and efficient manner;</p><p>(b) the assets of their clients and the business itself are safeguarded;</p><p>(c) complete records are maintained, and the financial and other information prepared is reliable; and</p><p>(d) all applicable laws and regulatory requirements are complied with</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第6章",
+      "chapter_id": 29
+    },
+    {
+      "question_id": 1269,
+      "content": "<p>以下哪一间为联交所主板的上市公司？</p>",
+      "cht_content": "<p>以下哪一間為聯交所主板的上市公司？</p>",
+      "en_content": "<p>Which of the following is a listed company on the Main Board of the Stock Exchange?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "香港交易及结算所有限公司"
+        },
+        {
+          "key": "B",
+          "value": "香港联合交易所有限公司"
+        },
+        {
+          "key": "C",
+          "value": "香港中央结算有限公司"
+        },
+        {
+          "key": "D",
+          "value": "香港期货交易所有限公司"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>只有老子（“香港交易及结算所有限公司”）是上市公司，儿子都不是上市公司。</p>",
+      "cht_analysis": "<p>只有老子（「香港交易及結算所有限公司」）是上市公司，兒子都不是上市公司。</p>",
+      "en_analysis": "<p>Only the parent company ('Hong Kong Exchanges and Clearing Limited') is a listed company, while its subsidiaries are not listed companies</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第7章",
+      "chapter_id": 30
+    },
+    {
+      "question_id": 1496,
+      "content": "<p>根据《证券及期货条例》及其附属法例，以下哪些属于不当交易手法？</p><p>I. 过分频密交易；</p><p>II. 老鼠仓交易；</p><p>III. 未获邀约的造访；</p><p>IV. 有抵押卖空活动。</p>",
+      "cht_content": "<p>根據《證券及期貨條例》及其附屬法例，以下哪些屬於不當交易手法？</p><p>I. 過分頻密交易；</p><p>II. 老鼠倉交易；</p><p>III. 未獲邀約的造訪；</p><p>IV. 有抵押賣空活動。</p>",
+      "en_content": "<p>According to the Securities and Futures Ordinance and its subsidiary legislation, which of the following are considered improper trading practices?</p><p>I. Excessive trading;</p><p>II. Rat trading;</p><p>III. Unsolicited calls;</p><p>IV. Covered short selling activities</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II"
+        },
+        {
+          "key": "B",
+          "value": "只有II，III"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>有抵押卖空是正常的卖空行为，不涉及不当交易. III不在温习手册不当交易手法的范围内，不选； 不当交易手法:1.高压推销证券的活动 2过分频密的交易 3. 企业管治失当（企业管治失当一词涵盖公司董事局或管理层对公司及其股东的各种失当行为，包括：欺诈、不当行为及未能履行披露职责。国际监管机构对企业管治失当日益关注。） 4. 扒头交易 5. “老鼠仓”交易 6. 提供不适当的意见 7. 未经授权的交易。</p>",
+      "cht_analysis": "<p>有抵押賣空是正常的賣空行為，不涉及不當交易。III不在溫習手冊不當交易手法的範圍內，不選；不當交易手法：1.高壓推銷證券的活動 2.過分頻密的交易 3. 企業管治失當（企業管治失當一詞涵蓋公司董事局或管理層對公司及其股東的各種失當行為，包括：欺詐、不當行為及未能履行披露職責。國際監管機構對企業管治失當日益關注。） 4. 扒頭交易 5. 「老鼠倉」交易 6. 提供不適當的意見 7. 未經授權的交易。</p>",
+      "en_analysis": "<p>Secured short selling is a normal short selling activity and does not involve improper trading. III is not within the scope of improper trading practices in the revision manual and should not be selected; Improper trading practices: 1. High-pressure selling of securities activities 2. Excessively frequent trading 3. Corporate governance misconduct (The term 'corporate governance misconduct' covers various improper behaviors by a company's board of directors or management towards the company and its shareholders, including: fraud, misconduct, and failure to fulfill disclosure duties. International regulatory bodies are increasingly concerned about corporate governance misconduct.) 4. Front running 5. 'Rat trading' 6. Providing inappropriate advice 7. Unauthorized trading</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第9章",
+      "chapter_id": 32
+    },
+    {
+      "question_id": 1307,
+      "content": "<p>有关北向交易的前端监控，错误的说法是哪一项？</p>",
+      "cht_content": "<p>有關北向交易的前端監控，錯誤的說法是哪一項？</p>",
+      "en_content": "<p>Which of the following statements regarding the front-end monitoring of Northbound Trading is incorrect?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "若要透过北向交易通出售合资格证券，前提是该等证券须在不迟于拟出售日期前一个交易日收市之前已存放于相关的交易所参与者（即作为卖盘经纪行事的参与者）。"
+        },
+        {
+          "key": "B",
+          "value": "若该等股份乃存放于托管商或其他非拟定作卖盘经纪的交易所参与者的帐户中，则投资者必须在拟出售日期前将股份转移至该作为卖盘经纪的交易所参与者。"
+        },
+        {
+          "key": "C",
+          "value": "香港及海外投资者透过沪深港通获得的合资格A股将存放于中央结算公司于中国结算开立的综合股票帐户中。"
+        },
+        {
+          "key": "D",
+          "value": "上交所／深交所会把透过相关的沪深港通收到的合资格A股卖盘，与交易日当天结束时于中央结算公司的帐户结余进行核对。卖盘若超过相关股票在中央结算公司帐户所记录的持股量，则会被拒绝操作。"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>香港及海外投资者透过沪深港通获得的合资格A股将存放于中央结算公司于中国结算开立的综合股票帐户中。上交所／深交所会把透过相关的沪深港通收到的合资格A股卖盘，与上一个交易日结束时（不是“交易日当天结束时”，山海老师觉得很好理解，你白天做交易呢，那个如何知道当天结束后的持仓情况啊？ 你是先知啊？肯定是拿昨天的做比较啊。）于中央结算公司的帐户结余进行核对。卖盘若超过相关股票在中央结算公司帐户所记录的持股量，则会被拒绝操作。</p>",
+      "cht_analysis": "<p>香港及海外投資者透過滬深港通獲得的合資格A股將存放於中央結算公司於中國結算開立的綜合股票帳戶中。上交所／深交所會把透過相關的滬深港通收到的合資格A股賣盤，與上一個交易日結束時（不是「交易日當天結束時」，山海老師覺得很好理解，你白天做交易呢，那個如何知道當天結束後的持倉情況啊？ 你是先知啊？肯定是拿昨天的做比較啊。）於中央結算公司的帳戶結餘進行核對。賣盤若超過相關股票在中央結算公司帳戶所記錄的持股量，則會被拒絕操作。</p>",
+      "en_analysis": "<p>Hong Kong and overseas investors will hold eligible A-shares acquired through the Shanghai-Hong Kong Stock Connect and Shenzhen-Hong Kong Stock Connect in the omnibus securities account opened by the Central Clearing and Settlement Company with China Securities Depository and Clearing Corporation Limited. The Shanghai Stock Exchange / Shenzhen Stock Exchange will verify the eligible A-share sell orders received through the relevant Stock Connect programs against the account balance held with the Central Clearing and Settlement Company at the end of the previous trading day (not 'at the end of the current trading day'—Teacher Shanhai finds this quite straightforward: you are trading during the day, so how could you possibly know the holding status after the day ends? Are you a prophet? It must be compared with yesterday's data). If a sell order exceeds the recorded shareholding in the Central Clearing and Settlement Company's account for the relevant stock, the transaction will be rejected</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第7章",
+      "chapter_id": 30
+    },
+    {
+      "question_id": 415,
+      "content": "<p>XM公司为香港一间资产管理公司，获得证监会授权开展第9类受规管业务。</p><p>根据《证券及期货条例》及其附属法例，XM公司纯粹为从事第9类牌照业务可以豁免发牌从事以下哪些活动？</p><p>I. 第1类：证券交易；</p><p>II. 第2类：期货合约交易；</p><p>III. 第8类：提供证券保证金融资；</p><p>IV. 第10类：提供信贷评级服务。</p>",
+      "cht_content": "<p>XM公司為香港一間資產管理公司，獲證監會授權開展第9類受規管業務。</p><p>根據《證券及期貨條例》及其附屬法例，XM公司純粹為從事第9類牌照業務可以豁免發牌從事以下哪些活動？</p><p>I. 第1類：證券交易；</p><p>II. 第2類：期貨合約交易；</p><p>III. 第8類：提供證券保證金融資；</p><p>IV. 第10類：提供信貸評級服務。</p>",
+      "en_content": "<p>XM Company is a Hong Kong-based asset management company authorised by the Securities and Futures Commission to carry out Type 9 regulated activities.</p><p>Under the Securities and Futures Ordinance and its subsidiary legislation, which of the following activities can XM Company be exempted from licensing if it is solely engaged in Type 9 licensed business?</p><p>I. Type 1: Dealing in securities;</p><p>II. Type 2: Dealing in futures contracts;</p><p>III. Type 8: Providing securities margin financing;</p><p>IV. Type 10: Providing credit rating services</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II"
+        },
+        {
+          "key": "B",
+          "value": "只有I，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>豁免政策之一：获发牌或注册从事第9类受规管活动的人士纯粹为从事第9类受规管活动而进行第1类、第2类、第4类及第5类受规管活动。III和IV都是不能豁免的，I和II可以。</p>",
+      "cht_analysis": "<p>豁免政策之一：獲發牌或註冊從事第9類受規管活動的人士，純粹為從事第9類受規管活動而進行第1類、第2類、第4類及第5類受規管活動。III和IV均不能豁免，I和II則可以。</p>",
+      "en_analysis": "<p>Exemption Policy One: Individuals licensed or registered to carry on Type 9 regulated activities are exempted when they solely conduct Type 1, Type 2, Type 4, and Type 5 regulated activities for the purpose of carrying on Type 9 regulated activities. III and IV are not eligible for exemption, while I and II are permissible</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 27
+    },
+    {
+      "question_id": 1165,
+      "content": "<p>WL公司为香港期交所的商户交易商，以下推断正确的是哪一项？</p>",
+      "cht_content": "<p>WL公司為香港期交所的商戶交易商，以下推斷正確的是哪一項？</p>",
+      "en_content": "<p>WL Company is a merchant trader of the Hong Kong Futures Exchange. Which of the following inferences is correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "WL公司是期交所的股东，持有期交所的股份"
+        },
+        {
+          "key": "B",
+          "value": "WL公司是期交所的参与者，仅有权在其本身账户买卖期货合约或期权合约，该等期货期权业务必须从属于该商户交易商或其控股公司的主要业务"
+        },
+        {
+          "key": "C",
+          "value": "WL公司是期交所的参与者，有权在其本身账户、就其他期交所参与者的账户及就任何其他人士的帐户买卖期货合约及／或期权合约"
+        },
+        {
+          "key": "D",
+          "value": "WL公司是期货结算所参与者"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>期交所参与者可以是交易员、经纪、期货交易商或商户交易商，各类别的权利及责任载于《期交所规则》中；</p><p>商户交易商仅有权在其本身账户买卖期货合约及／或期权合约，该等期货期权业务必须从属于该商户交易商或其控股公司的主要业务。</p><p>不一定是结算所参与者，因为WL公司可以通过全面结算参与者去做结算，自己则无须具备结算参与者资格。</p>",
+      "cht_analysis": "<p>期交所參與者可以是交易員、經紀、期貨交易商或商戶交易商，各類別的權利及責任載於《期交所規則》中；</p><p>商戶交易商僅有權在其本身帳戶買賣期貨合約及／或期權合約，該等期權期貨業務必須從屬於該商戶交易商或其控股公司的主要業務。</p><p>不一定是結算所參與者，因為WL公司可以透過全面結算參與者進行結算，自身則無需具備結算參與者資格。</p>",
+      "en_analysis": "<p>An Exchange Participant may be a trader, broker, futures trader, or merchant trader. The rights and responsibilities of each category are stipulated in the Rules of the Exchange;\"</p><p>\"Merchant traders are only authorized to trade futures contracts and/or options contracts on their own accounts. Such futures and options businesses must be ancillary to the primary business of the merchant trader or its holding company.\"</p><p>\"It is not mandatory to be a Clearing House Participant, as WL Company may conduct clearing through a General Clearing Participant, thereby not requiring its own qualification as a Clearing Participant</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第7章",
+      "chapter_id": 30
+    },
+    {
+      "question_id": 620,
+      "content": "<p>DF公司为香港一间证券公司，获得证监会授权开展第1类受规管业务。</p><p>Helen为DF公司的客户，但她一直没有做过保证金交易。</p><p>最近忽然打电话到DF公司，声称要做涉及保证金业务。</p><p>请问DF公司应该怎么做？</p>",
+      "cht_content": "<p>DF公司為香港一間證券公司，獲得證監會授權開展第1類受規管業務。</p><p>Helen為DF公司的客戶，但她一直沒有做過保證金交易。</p><p>最近忽然打電話到DF公司，聲稱要做涉及保證金業務。</p><p>請問DF公司應該怎麼做？</p>",
+      "en_content": "<p>DF Company is a securities firm in Hong Kong, authorised by the Securities and Futures Commission to conduct Type 1 regulated activities.</p><p>Helen is a client of DF Company, but she has never engaged in margin trading.</p><p>Recently, she suddenly called DF Company, claiming that she wishes to undertake business involving margin transactions.</p><p>What should DF Company do?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "必须等到客户签订协议才可以开通保证金业务"
+        },
+        {
+          "key": "B",
+          "value": "只要记录客户的变更即可，不需要等到签订协议"
+        },
+        {
+          "key": "C",
+          "value": "只要客户Helen已经有足够的证券做抵押，就可以开展保证金业务"
+        },
+        {
+          "key": "D",
+          "value": "只要做好客户协议的附加条款，做好充分的风险披露，Helen即可操作保证金交易"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>协议都不签就想玩杠杆？利息都不知道多少，谁给你的胆子？</p><p>##############################################</p><p>#保证金贷款协议#</p><p>8.50持牌法团在与客户订立明确的书面保证金客户协议前，不得为客户作出保证金买卖。客户协议须以客户理解的语言制备，并附有明确的风险披露声明。持牌人应确保客户理解保证金帐户的条款及条件，例如：</p><p>(a)如何计算保证金贷款的利息；</p><p>(b)贷款的还款时间及方式；</p><p>(c)客户授权容许的抵押品用途；</p><p>(d)获准贷款限额、贷款比率，以及不同类别的证券是否使用不同的贷款比率；</p><p>(e)追缴保证金的程序，例如何时发出追缴保证金通知及未能按通知缴款的后果；及</p><p>(f)证券保证金融资人为弥补保证金不足而出售客户证券抵押品前，应向客户发出的通知（如有）。</p><p>2022/7/6更新</p>",
+      "cht_analysis": "<p>協議都不簽就想玩槓桿？利息都不知道多少，誰給你的膽子？</p><p>##############################################</p><p>#保證金貸款協議#</p><p>8.50 持牌法團在與客戶訂立明確的書面保證金客戶協議前，不得為客戶作出保證金買賣。客戶協議須以客戶理解的語言製備，並附有明確的風險披露聲明。持牌人應確保客戶理解保證金帳戶的條款及條件，例如：</p><p>(a) 如何計算保證金貸款的利息；</p><p>(b) 貸款的還款時間及方式；</p><p>(c) 客戶授權容許的抵押品用途；</p><p>(d) 獲准貸款限額、貸款比率，以及不同類別的證券是否使用不同的貸款比率；</p><p>(e) 追繳保證金的程序，例如何時發出追繳保證金通知及未能按通知繳款的後果；及</p><p>(f) 證券保證金融資人為彌補保證金不足而出售客戶證券抵押品前，應向客戶發出的通知（如有）。</p><p>2022/7/6更新</p>",
+      "en_analysis": "<p>You want to play with leverage without even signing an agreement? You don't even know the interest rate, who gave you the courage?\"</p><p>##############################################</p><p>#Margin Loan Agreement#</p><p>8.50 A licensed corporation shall not carry out margin trading for a client before entering into a clear written margin client agreement with the client. The client agreement must be prepared in a language understandable by the client and accompanied by a clear risk disclosure statement. The licensee should ensure that the client understands the terms and conditions of the margin account, such as:</p><p>(a) How the interest on the margin loan is calculated;</p><p>(b) The timing and method of loan repayment;</p><p>(c) The authorized use of collateral by the client;</p><p>(d) The permitted loan limit, loan-to-value ratio, and whether different types of securities are subject to different loan ratios;</p><p>(e) The margin call procedures, such as when a margin call is issued and the consequences of failing to meet the call; and</p><p>(f) The notice (if any) that the securities margin financier should provide to the client before selling the client's securities collateral to cover a margin shortfall.</p><p>Updated on 2022/7/6</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 27
+    },
+    {
+      "question_id": 104,
+      "content": "<p>以下关于公司注册处的职能，理解正确的包括哪些？</p><p>I. 公司注册处处长执行《打击洗钱及恐怖分子资金筹集条例》、新《公司条例》、《有限责任合伙条例》；</p><p>II. 公司注册处保存各间公司的财务及其他申报表及公司的押记记录，供公众查阅；</p><p>III. 公司注册处处长将直接监管公司，对违反相关条例的公司可能要求其暂停业务甚至注销该公司；</p><p>IV. 公司注册处已和证监会签订合作备忘录，在监管方面展开合作。</p>",
+      "cht_content": "<p>以下關於公司註冊處的職能，理解正確的包括哪些？</p><p>I. 公司註冊處處長執行《打擊洗錢及恐怖分子資金籌集條例》、新《公司條例》、《有限責任合夥條例》；</p><p>II. 公司註冊處保存各間公司的財務及其他申報表及公司的押記記錄，供公眾查閱；</p><p>III. 公司註冊處處長將直接監管公司，對違反相關條例的公司可能要求其暫停業務甚至註銷該公司；</p><p>IV. 公司註冊處已和證監會簽訂合作備忘錄，在監管方面展開合作。</p>",
+      "en_content": "<p>Which of the following statements correctly describe the functions of the Companies Registry?</p><p>I. The Registrar of Companies enforces the Anti-Money Laundering and Counter-Terrorist Financing Ordinance, the new Companies Ordinance, and the Limited Partnership Ordinance;</p><p>II. The Companies Registry maintains financial and other returns of companies, as well as records of company charges, for public inspection;</p><p>III. The Registrar of Companies directly supervises companies and may require companies that violate relevant ordinances to suspend operations or even be deregistered;</p><p>IV. The Companies Registry has signed a Memorandum of Understanding with the Securities and Futures Commission to cooperate in regulatory matters.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，III"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II"
+        },
+        {
+          "key": "C",
+          "value": "只有I，,IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>III错误，公司注册处处长不会直接监管公司、有限责任合伙、受托人或放债人，这些职能由不同的机构承担。公司注册处处长作为公司法改革常务委员会的委员，积极参与企业管治事宜，并可提出建议。</p><p>IV错误，尽管证监会与公司注册处在共同关注的问题上保持密切联系，但这两间机构在监管方面并无直接连系。</p><p>山海老师提示考生注意公司注册处的职能，总结如下：</p><p>公司注册处处长执行以下条例：</p><p>(a)新《公司条例》；</p><p>(b)《公司（清盘及杂项条文）条例》；</p><p>(c)《有限责任合伙条例》；</p><p>(d)《受托人条例》；</p><p>(e)《注册受托人法团条例》；</p><p>(f)《放债人条例》；</p><p>(g)《打击洗钱及恐怖分子资金筹集条例》（有关信托及公司服务提供者）；及</p><p>(h)其他的法团条例。</p><p>公司注册处保存各间公司的财务及其他申报表以及公司的押记登记等，以供公众查阅。公司注册处会追究这些实体未能提交上述条例规定的申报表的行为，并可因公司未能提交申报表或未能开展业务而将其登记注销。</p><p>公司注册处处长不会直接监管公司、有限责任合伙、受托人或放债人，这些职能由不同的机构承担。公司注册处处长作为公司法改革常务委员会的委员，积极参与企业管治事宜，并可提出建议。</p><p>尽管证监会与公司注册处在共同关注的问题上保持密切联系，但这两间机构在监管方面并无直接连系。</p>",
+      "cht_analysis": "<p>III錯誤，公司註冊處處長不會直接監管公司、有限責任合夥、受託人或放債人，這些職能由不同的機構承擔。公司註冊處處長作為公司法改革常務委員會的委員，積極參與企業管治事宜，並可提出建議。</p><p>IV錯誤，儘管證監會與公司註冊處在共同關注的問題上保持密切聯繫，但這兩間機構在監管方面並無直接連繫。</p><p>山海老師提示考生注意公司註冊處的職能，總結如下：</p><p>公司註冊處處長執行以下條例：</p><p>(a)新《公司條例》；</p><p>(b)《公司（清盤及雜項條文）條例》；</p><p>(c)《有限責任合夥條例》；</p><p>(d)《受託人條例》；</p><p>(e)《註冊受託人法團條例》；</p><p>(f)《放債人條例》；</p><p>(g)《打擊洗錢及恐怖分子資金籌集條例》（有關信託及公司服務提供者）；及</p><p>(h)其他的法團條例。</p><p>公司註冊處保存各間公司的財務及其他申報表以及公司的押記登記等，以供公眾查閱。公司註冊處會追究這些實體未能提交上述條例規定的申報表的行為，並可因公司未能提交申報表或未能開展業務而將其登記註銷。</p><p>公司註冊處處長不會直接監管公司、有限責任合夥、受託人或放債人，這些職能由不同的機構承擔。公司註冊處處長作為公司法改革常務委員會的委員，積極參與企業管治事宜，並可提出建議。</p><p>儘管證監會與公司註冊處在共同關注的問題上保持密切聯繫，但這兩間機構在監管方面並無直接連繫。</p>",
+      "en_analysis": "<p>III is incorrect. The Registrar of Companies does not directly supervise companies, limited liability partnerships, trustees, or money lenders. These functions are undertaken by different authorities. As a member of the Standing Committee on Company Law Reform, the Registrar of Companies actively participates in corporate governance matters and may put forward recommendations.</p><p>IV is incorrect. Although the Securities and Futures Commission and the Companies Registry maintain close contact on issues of mutual concern, there is no direct regulatory linkage between these two institutions.</p><p>Shanhai Teacher reminds candidates to pay attention to the functions of the Companies Registry, summarised as follows:</p><p>The Registrar of Companies administers the following ordinances:</p><p>(a) the new Companies Ordinance;</p><p>(b) the Companies (Winding Up and Miscellaneous Provisions) Ordinance;</p><p>(c) the Limited Partnerships Ordinance;</p><p>(d) the Trustee Ordinance;</p><p>(e) the Registered Trustees Incorporation Ordinance;</p><p>(f) the Money Lenders Ordinance;</p><p>(g) the Anti-Money Laundering and Counter-Terrorist Financing Ordinance (in relation to trust or company service providers); and</p><p>(h) other incorporation ordinances.</p><p>The Companies Registry maintains financial and other returns of companies, as well as the register of company charges, etc., for public inspection. The Companies Registry will pursue entities that fail to submit returns as required by the aforementioned ordinances and may strike off the registration of a company for failure to submit returns or to carry on business.</p><p>The Registrar of Companies does not directly supervise companies, limited liability partnerships, trustees, or money lenders. These functions are undertaken by different authorities. As a member of the Standing Committee on Company Law Reform, the Registrar of Companies actively participates in corporate governance matters and may put forward recommendations.</p><p>Although the Securities and Futures Commission and the Companies Registry maintain close contact on issues of mutual concern, there is no direct regulatory linkage between these two institutions.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 24
+    },
+    {
+      "question_id": 1498,
+      "content": "<p>以下哪些关于市场失当行为审裁处的描述是正确的？</p><p>I. 审裁处是由一名法官任主席；</p><p>II. 研讯程序应用“无合理疑点”的举证准则；</p><p>III. 审裁处可强制取得任何与研讯程序有关的证据；</p><p>IV. 审裁处所有成员都是由财政司司长委任。</p>",
+      "cht_content": "<p>以下哪些關於市場失當行為審裁處的描述是正確的？</p><p>I. 審裁處是由一名法官任主席；</p><p>II. 研訊程序應用「無合理疑點」的舉證準則；</p><p>III. 審裁處可強制取得任何與研訊程序有關的證據；</p><p>IV. 審裁處所有成員都是由財政司司長委任。</p>",
+      "en_content": "<p>Which of the following descriptions about the Market Misconduct Tribunal are correct?</p><p>I. The Tribunal is chaired by a judge;</p><p>II. The inquiry proceedings apply the 'beyond reasonable doubt' standard of proof;</p><p>III. The Tribunal can compel the production of any evidence relevant to the inquiry proceedings;</p><p>IV. All members of the Tribunal are appointed by the Financial Secretary</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，III"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>II中是刑事案件的证据举证原则，非审裁处的举证原则； IV明显错误。</p><p>审裁处的主席是由行政长官根据终审法院首席法官的建议委任。在研讯时，审裁处主席由两名成员协助，他们均为本港商界或专业团体的杰出人士，并由财政司司长在行政长官转授的权力下委任。除非审裁处为维护司法公正起见，认为研讯(或其中一部分)应闭门进行，否则所有研讯均应公开进行。</p>",
+      "cht_analysis": "<p>II 中涉及的是刑事案件的證據舉證原則，並非審裁處的舉證原則；IV 明顯錯誤。</p><p>審裁處的主席是由行政長官根據終審法院首席法官的建議委任。在研訊時，審裁處主席由兩名成員協助，他們均為本港商界或專業團體的傑出人士，並由財政司司長在行政長官轉授的權力下委任。除非審裁處為維護司法公正起見，認為研訊（或其中一部分）應閉門進行，否則所有研訊均應公開進行。</p>",
+      "en_analysis": "<p>II refers to the principle of evidence presentation in criminal cases, not the principle applicable to the tribunal; IV is clearly incorrect.</p><p>The Chairman of the tribunal is appointed by the Chief Executive based on the recommendation of the Chief Justice of the Court of Final Appeal. During an inquiry, the Chairman is assisted by two members, both of whom are distinguished individuals from the local business or professional community and are appointed by the Financial Secretary under the authority delegated by the Chief Executive. Unless the tribunal deems it necessary for the sake of justice to conduct the inquiry (or any part of it) in private, all inquiries must be held in public</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第9章",
+      "chapter_id": 32
+    },
+    {
+      "question_id": 501,
+      "content": "<p>以下各项关于证监会收购上诉委员会的认识正确的是？</p>",
+      "cht_content": "<p>以下各項關於證監會收購上訴委員會的認識正確的是？</p>",
+      "en_content": "<p>Which of the following statements regarding the Securities and Futures Commission's Takeovers Appeal Committee is correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "负责执行《公司收购、合并及股份回购守则》"
+        },
+        {
+          "key": "B",
+          "value": "因应受委屈的一方提出的要求，复核收购及合并委员会的纪律裁决，目的只在于裁定由该委员会施加的任何制裁是否不公平或过分严苛"
+        },
+        {
+          "key": "C",
+          "value": "由一名法官出任主席，两名其他成员须为非公职人员"
+        },
+        {
+          "key": "D",
+          "value": "可对被裁定干犯市场失当行为人士作出命令"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>负责执行《公司收购、合并及股份回购守则》的是收购及合并委员会；</p><p>市场失当行为审裁处由一名法官出任主席，两名其他成员须为非公职人员；</p><p>市场失当行为审裁处可对被裁定干犯市场失当行为人士作出命令。</p><p>证监会成立了各种监管委员会，并授予其部分职能，</p><p>收购上诉委员会－因应受委屈的一方提出的要求，复核收购及合并委员会的纪律裁决，目的只在于裁定由该委员会施加的任何制裁是否不公平或过分严苛。</p><p>###</p><p>市场失当行为审裁处根据《证券及期货条例》第XIII部成立，由一名法官出任主席，两名其他成员须为非公职人员。市场失当行为审裁处的3名成员均由香港特别行政区行政长官委任，而行政长官可根据《证券及期货条例》附表9列明的理由将任何一名成员免职。市场失当行为审裁处可对被裁定干犯市场失当行为人士作出命令。</p>",
+      "cht_analysis": "<p>負責執行《公司收購、合併及股份回購守則》的是收購及合併委員會；</p><p>市場失當行為審裁處由一名法官出任主席，兩名其他成員須為非公職人員；</p><p>市場失當行為審裁處可對被裁定干犯市場失當行為人士作出命令。</p><p>證監會成立了各種監管委員會，並授予其部分職能，</p><p>收購上訴委員會－因應受委屈的一方提出的要求，覆核收購及合併委員會的紀律裁決，目的只在於裁定由該委員會施加的任何制裁是否不公平或過分嚴苛。</p><p>###</p><p>市場失當行為審裁處根據《證券及期貨條例》第XIII部成立，由一名法官出任主席，兩名其他成員須為非公職人員。市場失當行為審裁處的3名成員均由香港特別行政區行政長官委任，而行政長官可根據《證券及期貨條例》附表9列明的理由將任何一名成員免職。市場失當行為審裁處可對被裁定干犯市場失當行為人士作出命令。</p>",
+      "en_analysis": "<p>The body responsible for enforcing the Codes on Takeovers and Mergers and Share Repurchases is the Takeovers and Mergers Committee;</p><p>The Market Misconduct Tribunal is chaired by a judge, with two other members required to be non-public officers;</p><p>The Market Misconduct Tribunal may issue orders against individuals found to have engaged in market misconduct.</p><p>The Securities and Futures Commission has established various regulatory committees and delegated some of its functions to them.</p><p>The Takeovers Appeal Committee—upon request by an aggrieved party, reviews disciplinary decisions made by the Takeovers and Mergers Committee, with the sole purpose of determining whether any sanctions imposed by the committee are unfair or excessively harsh.</p><p>###</p><p>The Market Misconduct Tribunal is established under Part XIII of the Securities and Futures Ordinance, chaired by a judge, with two other members required to be non-public officers. All three members of the Market Misconduct Tribunal are appointed by the Chief Executive of the Hong Kong Special Administrative Region, who may also remove any member based on the grounds specified in Schedule 9 of the Securities and Futures Ordinance. The Market Misconduct Tribunal may issue orders against individuals found to have engaged in market misconduct</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 24
+    },
+    {
+      "question_id": 1216,
+      "content": "<p>以下哪些人士或机构可以直接使用期交所的设施？</p><p>I. YZ法团，为一间投资公司，符合法团专业投资者资格；</p><p>II. WL公司，为一间保险公司；</p><p>III. XM公司，为香港一间期货公司，获得证监会授权开展第2类受规管业务，为期交所参与者；</p><p>IV. DF公司，为一间外国期货交易商，在香港设立的分理处，但尚未获得证监会发牌。</p>",
+      "cht_content": "<p>以下哪些人士或機構可以直接使用期交所的設施？</p><p>I. YZ法團，為一間投資公司，符合法團專業投資者資格；</p><p>II. WL公司，為一間保險公司；</p><p>III. XM公司，為香港一間期貨公司，獲得證監會授權開展第2類受規管業務，為期交所參與者；</p><p>IV. DF公司，為一間外國期貨交易商，在香港設立的分理處，但尚未獲得證監會發牌。</p>",
+      "en_content": "<p>Which of the following individuals or institutions can directly use the facilities of the Futures Exchange?</p><p>I. YZ Corporation, an investment company that qualifies as a corporate professional investor;</p><p>II. WL Company, an insurance company;</p><p>III. XM Company, a futures company in Hong Kong, authorized by the Securities and Futures Commission to carry out Type 2 regulated activities and is a participant of the Futures Exchange;</p><p>IV. DF Company, a foreign futures trader with a representative office established in Hong Kong but has not yet been licensed by the Securities and Futures Commission</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有III"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>需要获得证监会发牌或注册的人士/机构，方可直接或间接使用期交所的交易系统及设施，以从事受规管活动，即期货合约交易。</p>",
+      "cht_analysis": "<p>需要獲得證監會發牌或註冊的人士/機構，方可直接或間接使用期交所的交易系統及設施，以從事受規管活動，即期貨合約交易。</p>",
+      "en_analysis": "<p>Only individuals/institutions that have obtained a licence or registration from the Securities and Futures Commission are permitted to directly or indirectly use the trading system and facilities of the Futures Exchange to engage in regulated activities, namely futures contract trading</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第7章",
+      "chapter_id": 30
+    },
+    {
+      "question_id": 1453,
+      "content": "<p>就认可非上市结构性投资产品的产品安排人而言，以下哪一项陈述是不正确的?</p>",
+      "cht_content": "<p>就認可非上市結構性投資產品的產品安排人而言，以下哪一項陳述是不正確的？</p>",
+      "en_content": "<p>For the product arranger of authorized unlisted structured investment products, which of the following statements is incorrect?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "主要产品对手不能担任产品安排人。"
+        },
+        {
+          "key": "B",
+          "value": "产品安排人必须持有第4类牌照(就证券提供意见)。"
+        },
+        {
+          "key": "C",
+          "value": "发行人可委任多于一名产品安排人。"
+        },
+        {
+          "key": "D",
+          "value": "产品安排人必须持有第1类牌照(证券交易)"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>产品安排人</p><p>凡(i)发行人是特别目的投资公司，或(ii)发行人及任何保证人均非受金管局规管的银行或获证监会发牌的法团，非上市结构性投资产品的发行人须就寻求认可的产品委任一名产品安排人。[山*海.老.师!]</p><p>如要符合资格，产品安排人必须就第1类（证券交易）受规管活动获发牌或注册，并且在发行认可非上市结构性投资产品时，没有就其进行受规管活动的牌照或注册而接受任何可能对其财政状况、作为持牌或受规管实体的地位或进行其持牌或受规管活动的能力构成重大影响的纪律处分程序，及没有因违反任何适用规则而被任何交易所、受规管市场或自律监管组织采取任何可能对其财政状况、作为持牌或受规管实体的地位或进行其持牌或受规管活动的能力构成重大影响的行动。</p><p>发行人可委任多于一名产品安排人，但必须指定其中一名产品安排人主要负责与证监会聯络。</p><p>产品安排人亦应独立于任何受托人／保管人或任何主要产品对手。</p><p>根据《非上市结构性投资产品守则》，产品安排人的首要责任是确保《手册》中的适用规定获得遵从。产品安排人有责任维持适当系统、监控、政策及程序，包括有关风险管理、结构性投资产品的估值及（如适用）抵押品的估值及行政事宜。</p><p>产品安排人须以证监会不时要求的形式向证监会提供资料及承諾。</p><p>《非上市结构性投资产品守则》亦明确指出，产品安排人无须因其委任而对发行人或任何保证人负有的财务责任承担法律责任。</p>",
+      "cht_analysis": "<p>產品安排人</p><p>凡(i)發行人是特別目的投資公司，或(ii)發行人及任何保證人均非受金管局規管的銀行或獲證監會發牌的法團，非上市結構性投資產品的發行人須就尋求認可的產品委任一名產品安排人。[山*海.老.師!]</p><p>如要符合資格，產品安排人必須就第1類（證券交易）受規管活動獲發牌或註冊，並且在發行認可非上市結構性投資產品時，沒有就其進行受規管活動的牌照或註冊而接受任何可能對其財政狀況、作為持牌或受規管實體的地位或進行其持牌或受規管活動的能力構成重大影響的紀律處分程序，及沒有因違反任何適用規則而被任何交易所、受規管市場或自律監管組織採取任何可能對其財政狀況、作為持牌或受規管實體的地位或進行其持牌或受規管活動的能力構成重大影響的行動。</p><p>發行人可委任多於一名產品安排人，但必須指定其中一名產品安排人主要負責與證監會聯絡。</p><p>產品安排人亦應獨立於任何受託人／保管人或任何主要產品對手。</p><p>根據《非上市結構性投資產品守則》，產品安排人的首要責任是確保《手冊》中的適用規定獲得遵從。產品安排人有責任維持適當系統、監控、政策及程序，包括有關風險管理、結構性投資產品的估值及（如適用）抵押品的估值及行政事宜。</p><p>產品安排人須以證監會不時要求的形式向證監會提供資料及承諾。</p><p>《非上市結構性投資產品守則》亦明確指出，產品安排人無須因其委任而對發行人或任何保證人負有的財務責任承擔法律責任。</p>",
+      "en_analysis": "<p>Product Arranger</p><p>Where (i) the issuer is a special purpose investment company, or (ii) neither the issuer nor any guarantor is a bank regulated by the HKMA or a corporation licensed by the SFC, the issuer of unlisted structured investment products must appoint a product arranger for the product seeking authorization. [Shan*Hai.Lao.Shi!]</p><p>To be eligible, the product arranger must be licensed or registered for Type 1 (dealing in securities) regulated activity and, at the time of issuing the authorized unlisted structured investment product, must not be subject to any disciplinary proceedings that could materially affect its financial condition, status as a licensed or regulated entity, or ability to conduct its licensed or regulated activities, nor have any action taken against it by any exchange, regulated market, or self-regulatory organization for violating any applicable rules that could materially impact its financial condition, status as a licensed or regulated entity, or ability to conduct its licensed or regulated activities.</p><p>The issuer may appoint more than one product arranger but must designate one of them as the primary contact with the SFC.</p><p>The product arranger should also be independent of any trustee/custodian or any major product counterparty.</p><p>According to the Code for Unlisted Structured Investment Products, the primary responsibility of the product arranger is to ensure compliance with the applicable provisions in the Handbook. The product arranger is responsible for maintaining appropriate systems, monitoring, policies, and procedures, including those related to risk management, valuation of structured investment products, and (if applicable) valuation and administration of collateral.</p><p>The product arranger must provide information and undertakings to the SFC in such form as the SFC may require from time to time.</p><p>The Code for Unlisted Structured Investment Products also explicitly states that the product arranger shall not assume legal liability for the financial obligations of the issuer or any guarantor by virtue of its appointment</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第8章",
+      "chapter_id": 31
+    },
+    {
+      "question_id": 390,
+      "content": "<p>根据《证券及期货条例》，以下哪些关于“常设授权”的描述是正确的？</p><p>I. 除非是授权时出现问题，否则该授权是不可撤销的；</p><p>II. 一般而言，“常设授权”有效期不可超过12个月；</p><p>III. “常设授权”须以书面方式订立；</p><p>IV. “常设授权”不可续期，有效期届满时须重新以书面授权。</p>",
+      "cht_content": "<p>根據《證券及期貨條例》，以下哪些關於「常設授權」的描述是正確的？</p><p>I. 除非是授權時出現問題，否則該授權是不可撤銷的；</p><p>II. 一般而言，「常設授權」有效期不可超過12個月；</p><p>III. 「常設授權」須以書面方式訂立；</p><p>IV. 「常設授權」不可續期，有效期屆滿時須重新以書面授權。</p>",
+      "en_content": "<p>According to the Securities and Futures Ordinance, which of the following descriptions regarding 'standing authorization' are correct?</p><p>I. Unless there is an issue at the time of authorization, the authorization is irrevocable;</p><p>II. Generally, the validity period of a 'standing authorization' must not exceed 12 months;</p><p>III. A 'standing authorization' must be established in writing;</p><p>IV. A 'standing authorization' cannot be renewed and must be reauthorized in writing upon expiry of the validity period</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II"
+        },
+        {
+          "key": "B",
+          "value": "只有II，III"
+        },
+        {
+          "key": "C",
+          "value": "只有I，IV"
+        },
+        {
+          "key": "D",
+          "value": "只有II，III， IV"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>授权可以撤销， 常设授权可于有效期满前续期或当作已续期，每次续期不得超过12个月（专业投资者除外）：</p><p>应客户书面要求；或</p><p>有效期届满前14日前，向客户发出通知，提醒客户该授权的有效期即将届满（除非提出反对，否则该授权会按照原条款及期限续期；及</p><p>在授权届满后1个星期内，提供续期确认书予有关客户。</p>",
+      "cht_analysis": "<p>授權可以撤銷，常設授權可於有效期屆滿前續期或視作已續期，每次續期不得超過12個月（專業投資者除外）：</p><p>應客戶書面要求；或</p><p>有效期屆滿前14日前，向客戶發出通知，提醒客戶該授權的有效期即將屆滿（除非提出反對，否則該授權會按照原有條款及期限續期；及</p><p>在授權屆滿後1個星期內，提供續期確認書予有關客戶。</p>",
+      "en_analysis": "<p>Authorization can be revoked. A standing authorization may be renewed or deemed renewed before its expiry date, with each renewal not exceeding 12 months (except for professional investors):</p><p>Upon the client's written request; or</p><p>By providing a notice to the client 14 days before the expiry date, reminding the client that the authorization is about to expire (unless an objection is raised, the authorization will be renewed under the original terms and duration); and</p><p>By providing a renewal confirmation to the relevant client within one week after the authorization expires</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 27
+    },
+    {
+      "question_id": 1540,
+      "content": "<p>根据《证券及期货条例》而言，下列哪一项不属于虚假交易这种市场失当行为？</p>",
+      "cht_content": "<p>根據《證券及期貨條例》而言，下列哪一項不屬於虛假交易這種市場失當行為？</p>",
+      "en_content": "<p>According to the Securities and Futures Ordinance, which of the following does not fall under the category of false trading as a type of market misconduct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "叶先生，一位持牌代表，故意制造联交所上市公司XYZ法团交投活跃的虚假或具误导性的表象"
+        },
+        {
+          "key": "B",
+          "value": "高先生， 一位投资者，故意制造上市公司Z法团股票交投活跃的虚假或具误导性的表象"
+        },
+        {
+          "key": "C",
+          "value": "尹先生，一位持牌代表，故意制造联交所上市公司T法团股票比真实的价格低的买卖活动"
+        },
+        {
+          "key": "D",
+          "value": "陈先生，一位持牌代表，故意向投资者销售一种不存在的原始股股票"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>显然不是，捏造证券了，不是虚假交易的定义内容。</p>",
+      "cht_analysis": "<p>顯然不是，捏造證券了，這不屬於虛假交易的定義內容。</p>",
+      "en_analysis": "<p>Clearly not, fabricating securities does not fall under the definition of false trading</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第9章",
+      "chapter_id": 32
+    },
+    {
+      "question_id": 1463,
+      "content": "<p>根据《上市规则》，下列哪一项并非获香港联合交易所有限公司认可的上市方式？</p>",
+      "cht_content": "<p>根據《上市規則》，下列哪一項並非獲香港聯合交易所有限公司認可的上市方式？</p>",
+      "en_content": "<p>According to the Listing Rules, which of the following is not a method of listing recognised by The Stock Exchange of Hong Kong Limited?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "配售"
+        },
+        {
+          "key": "B",
+          "value": "由GEM转往主板上市"
+        },
+        {
+          "key": "C",
+          "value": "机构化发行"
+        },
+        {
+          "key": "D",
+          "value": "介绍"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>上市方式的总结如下：</p><p>为使股份获纳入上市，新上市申请人一般采用以下一种或多种方法：</p><p>(a)发售以供认购；</p><p>(b)发售现有证券；</p><p>(c)配售；</p><p>(d)介绍。</p><p>发行人一旦上市，新股份亦可透过下列任何方法上市，而部分方法会涉及增加发行人的股本：</p><p>(a)供股；</p><p>(b)公开招股；</p><p>(c)资本化发行；</p><p>(d)代价发行；</p><p>(e)交换证券或取代原证券；</p><p>(f)由GEM转往主板上市；</p><p>(g)其他方式。</p><p>因此，山>海>老|师提醒你，注意上市方式只有这些，记不住就看临场发挥了。</p>",
+      "cht_analysis": "<p>上市方式的總結如下：</p><p>為使股份獲納入上市，新上市申請人一般採用以下一種或多種方法：</p><p>(a) 發售以供認購；</p><p>(b) 發售現有證券；</p><p>(c) 配售；</p><p>(d) 介紹。</p><p>發行人一旦上市，新股份亦可透過下列任何方法上市，而部分方法會涉及增加發行人的股本：</p><p>(a) 供股；</p><p>(b) 公開招股；</p><p>(c) 資本化發行；</p><p>(d) 代價發行；</p><p>(e) 交換證券或取代原證券；</p><p>(f) 由GEM轉往主板上市；</p><p>(g) 其他方式。</p><p>因此，山>海>老|師提醒你，注意上市方式只有這些，記不住就看臨場發揮了。</p>",
+      "en_analysis": "<p>A summary of the listing methods is as follows:</p><p>To have shares admitted to listing, new listing applicants generally adopt one or more of the following methods:</p><p>(a) Offer for subscription;</p><p>(b) Offer of existing securities;</p><p>(c) Placing;</p><p>(d) Introduction.</p><p>Once an issuer is listed, new shares may also be listed through any of the following methods, some of which may involve an increase in the issuer's share capital:</p><p>(a) Rights issue;</p><p>(b) Open offer;</p><p>(c) Capitalization issue;</p><p>(d) Consideration issue;</p><p>(e) Exchange or substitution of securities;</p><p>(f) Transfer from GEM to the Main Board;</p><p>(g) Other methods.</p><p>Therefore, Shan|Hai reminds you to note that these are the only listing methods available. If you cannot remember them, rely on your on-the-spot performance</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第8章",
+      "chapter_id": 31
+    },
+    {
+      "question_id": 1685,
+      "content": "<p><span>李先生是一位财务顾问，受雇于XYZ法团，在提供意见时，因疏忽，而被其客户黄女士诉讼，理由是黄女士依赖他提供意见而蒙受损失，则李先生最有可能因以下哪个法例被提出诉讼？</span></p>",
+      "cht_content": "<p><span>李先生是一位財務顧問，受僱於XYZ法團，在提供意見時，因疏忽而被其客戶黃女士起訴，理由是黃女士依賴他提供的意見而蒙受損失，則李先生最有可能因以下哪個法例被提出訴訟？</span></p>",
+      "en_content": "<p><span>Mr. Lee is a financial advisor employed by XYZ Corporation. Due to negligence in providing advice, he was sued by his client, Ms. Wong, on the grounds that she relied on his advice and suffered losses. Under which of the following laws is Mr. Lee most likely to be sued?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "合约法"
+        },
+        {
+          "key": "B",
+          "value": "代理法"
+        },
+        {
+          "key": "C",
+          "value": "信托法"
+        },
+        {
+          "key": "D",
+          "value": "侵权法"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p style=\"text-align: left;\">[DFXM1807]侵权法####</p><p style=\"text-align: left;\">1.17在并无订立合约关系的双方之间，如一方因另一方的行为而蒙受损失或损害，则可能会产生过失或侵权，而根据民事法或会引致法律责任。侵权法有许多分支，其中以疏忽侵权与证券及期货业务最为直接相关。疏忽侵权指在具体情况下未有遵守根据法律预期应达到的审慎标准而引致的侵权。</p><p style=\"text-align: left;\">1.18例如：假若财务顾问在提供意见时有疏忽，而其他人由于倚赖其建议而蒙受损失，则该财务顾问可能会遭提出侵权诉讼。由于在上述情况下可能同时涉及合约及侵权关系，故较为复杂。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">[DFXM1807]侵權法####</p><p style=\"text-align: left;\">1.17 在並無訂立合約關係的雙方之間，如一方因另一方的行為而蒙受損失或損害，則可能會產生過失或侵權，而根據民事法或會引致法律責任。侵權法有許多分支，其中以疏忽侵權與證券及期貨業務最為直接相關。疏忽侵權指在具體情況下未有遵守根據法律預期應達到的審慎標準而引致的侵權。</p><p style=\"text-align: left;\">1.18 例如：假若財務顧問在提供意見時有疏忽，而其他人由於倚賴其建議而蒙受損失，則該財務顧問可能會遭提出侵權訴訟。由於在上述情況下可能同時涉及合約及侵權關係，故較為複雜。</p>",
+      "en_analysis": "[DFXM1807] Tort Law ####  \n1.17 In the absence of a contractual relationship between two parties, if one party suffers loss or damage due to the actions of the other, negligence or tort may arise, potentially leading to legal liability under civil law. Tort law encompasses various branches, with negligence tort being most directly relevant to securities and futures businesses. Negligence tort refers to a breach of the duty of care expected by law under specific circumstances, resulting in infringement.  \n\n1.18 For example: If a financial advisor acts negligently while providing advice, and others suffer losses as a result of relying on that advice, the financial advisor may face a tort lawsuit. Such cases can be complex, as they may involve both contractual and tortious relationships",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 25
+    },
+    {
+      "question_id": 1286,
+      "content": "<p>哪一类香港期货交易所参与者被允许为自己的账户、其他参与者的账户以及其他任何人的账户进行期货和/或期权交易？</p>",
+      "cht_content": "<p>哪一類香港期貨交易所參與者被允許為自己的賬戶、其他參與者的賬戶以及其他任何人的賬戶進行期貨及/或期權交易？</p>",
+      "en_content": "<p>Which category of Hong Kong Futures Exchange participants is permitted to conduct futures and/or options trading for their own accounts, accounts of other participants, and accounts of any other persons?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "交易员"
+        },
+        {
+          "key": "B",
+          "value": "经纪"
+        },
+        {
+          "key": "C",
+          "value": "商户交易商"
+        },
+        {
+          "key": "D",
+          "value": "期货交易商"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>在香港期货交易所（HKFE）的背景下，期货交易商（FCM）是拥有最广泛交易权限的实体。期货交易商可以为自己的账户、其他香港期货交易所参与者的账户以及其他任何人的账户进行交易。这与允许FCM作为衍生品市场的中介，为广泛的客户促进交易的监管框架一致。交易员和经纪通常在更有限的范围内运作，专注于特定类型的交易活动，而商户交易商更常与为自己的账户或以主要交易商的身份进行交易相关联。因此，正确答案是期货交易商，因为它是唯一具有问题中描述的广泛权限的实体。</p>",
+      "cht_analysis": "<p>在香港期貨交易所（HKFE）的背景之下，期貨交易商（FCM）是擁有最廣泛交易權限的實體。期貨交易商可以為自己的帳戶、其他香港期貨交易所參與者的帳戶，以及任何其他人的帳戶進行交易。這與允許期貨交易商作為衍生產品市場的中介、為廣泛客戶促進交易的監管框架一致。交易員和經紀通常於更有限的範圍內運作，專注於特定類型的交易活動，而商戶交易商則更常與為自己的帳戶或以主要交易商的身份進行交易相關聯。因此，正確答案是期貨交易商，因為它是唯一具有問題中描述的廣泛權限的實體。</p>",
+      "en_analysis": "<p>In the context of the Hong Kong Futures Exchange (HKFE), the Futures Commission Merchant (FCM) is the entity with the broadest trading authority. An FCM can trade for its own account, for the accounts of other HKFE participants, and for the accounts of any other persons. This aligns with the regulatory framework that permits FCMs to act as intermediaries in the derivatives market, facilitating transactions for a wide range of clients. Traders and brokers typically operate within more limited scopes, focusing on specific types of trading activities, while merchant dealers are more commonly associated with trading for their own accounts or acting as principal dealers. Therefore, the correct answer is the Futures Commission Merchant, as it is the only entity with the extensive permissions described in the question</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第7章",
+      "chapter_id": 30
+    },
+    {
+      "question_id": 253,
+      "content": "<p>根据新《公司条例》，在哪些情况下财政司司长会委任审查员调查公司的事务？</p><p>I. WL公司为香港一间持牌法团，接到投资者的大量举报后，法院宣布必须对该公司事务作出调查；</p><p>II. YZ公司为联交所主板上市公司，最近爆出严重的财务造假，符合指定数目的股东提出申请，请求财政司介入调查；</p><p>III. DF公司为香港一间认可财务机构，最近被金管局查出不满足财政资源要求，该公司已就财政司司长委任审查员一事通过特别决议，接受调查；</p><p>IV. XM公司为联交所上市法团，多名股东联名举报，指称XM公司损害小股东利益，财政司司长已合理怀疑该公司确有不公平对待某些成员的情况。</p>",
+      "cht_content": "<p>根據新《公司條例》，在哪些情況下財政司司長會委任審查員調查公司的事務？</p><p>I. WL公司為香港一間持牌法團，接到投資者的大量舉報後，法院宣布必須對該公司事務作出調查；</p><p>II. YZ公司為聯交所主板上市公司，最近爆出嚴重的財務造假，符合指定數目的股東提出申請，請求財政司介入調查；</p><p>III. DF公司為香港一間認可財務機構，最近被金管局查出不滿足財政資源要求，該公司已就財政司司長委任審查員一事通過特別決議，接受調查；</p><p>IV. XM公司為聯交所上市法團，多名股東聯名舉報，指稱XM公司損害小股東利益，財政司司長已合理懷疑該公司確有不公平對待某些成員的情況。</p>",
+      "en_content": "<p>Under the new Companies Ordinance, under what circumstances would the Financial Secretary appoint an inspector to investigate a company's affairs?</p><p>I. WL Company is a licensed corporation in Hong Kong. After receiving numerous complaints from investors, the court declared that an investigation into the company's affairs must be conducted;</p><p>II. YZ Company is a main board listed company on the Stock Exchange. Recently, serious financial fraud was exposed, and a specified number of shareholders submitted an application requesting the Financial Secretary to intervene in the investigation;</p><p>III. DF Company is an authorized financial institution in Hong Kong. Recently, the Hong Kong Monetary Authority found that it failed to meet financial resource requirements. The company has passed a special resolution regarding the Financial Secretary's appointment of an inspector and has agreed to the investigation;</p><p>IV. XM Company is a listed corporation on the Stock Exchange. Multiple shareholders jointly reported, alleging that XM Company has harmed the interests of minority shareholders. The Financial Secretary has reasonable grounds to suspect that the company has indeed treated certain members unfairly</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>选项I的理由：如法院宣布必须对公司事务作出调查，财政司司长须委任审查员进行调查，并作出报告（新《公司条例》第841条）。</p><p>财政司司长在以下情况亦可委任审查员：</p><p>(a)指明数目的成员提出申请（这里是选项II的理由）；</p><p>(b)公司通过要求委任审查员的特别决议（这里是选项III的理由）；</p><p>(c)财政司司长怀疑：</p><p>(i)公司的事务正以或曾以不公平地损害普遍成员或某名或某些成员的利益的方式处理（这里是选项IV的理由）；或</p><p>(ii)有人正在或曾经出于欺诈公司的债权人或任何其他人的债权人的意图，而处理该公司的事务；或</p><p>(d)财政司司长怀疑有关公司的组成或其事务的管理的人，在该公司的组成或管理方面，作出欺诈行为或其他不当行为（新《公司条例》第840至841条）。</p><p>这里的IV就遵照以上c中i的内容，股东/成员未获公平对待。</p><p>如财政司司长认为有必要确定在财政上拥有或能够控制某上市法团的人士的真正身份，则财政司司长可委任审查员调查该上市法团的拥有权或控制权。如申请由不少于指明数目的上市法团成员提出，而财政司司长又确信有合理理由委任审查员，则财政司司长可委任审查员。</p>",
+      "cht_analysis": "<p>選項I的理由：如法院宣布必須對公司事務作出調查，財政司司長須委任審查員進行調查，並作出報告（新《公司條例》第841條）。</p><p>財政司司長在以下情況亦可委任審查員：</p><p>(a) 指明數目的成員提出申請（此為選項II的理由）；</p><p>(b) 公司通過要求委任審查員的特別決議（此為選項III的理由）；</p><p>(c) 財政司司長懷疑：</p><p>(i) 公司的事務正以或曾以不公平地損害普遍成員或某名或某些成員的利益的方式處理（此為選項IV的理由）；或</p><p>(ii) 有人正在或曾經出於欺詐公司的債權人或任何其他人的債權人的意圖，而處理該公司的事務；或</p><p>(d) 財政司司長懷疑有關公司的組成或其事務的管理的人，在該公司的組成或管理方面，作出欺詐行為或其他不當行為（新《公司條例》第840至841條）。</p><p>此處的IV即遵循以上c中i的內容，股東/成員未獲公平對待。</p><p>如財政司司長認為有必要確定在財政上擁有或能夠控制某上市法團的人士的真正身份，則財政司司長可委任審查員調查該上市法團的擁有權或控制權。如申請由不少於指明數目的上市法團成員提出，而財政司司長又確信有合理理由委任審查員，則財政司司長可委任審查員。</p>",
+      "en_analysis": "<p>Reason for Option I: If the court declares that an investigation into the company's affairs must be conducted, the Financial Secretary shall appoint an inspector to carry out the investigation and produce a report (Section 841 of the new Companies Ordinance).</p><p>The Financial Secretary may also appoint an inspector under the following circumstances:</p><p>(a) Upon application by a specified number of members (this is the reason for Option II);</p><p>(b) If the company passes a special resolution requiring the appointment of an inspector (this is the reason for Option III);</p><p>(c) If the Financial Secretary suspects that:</p><p>(i) The company's affairs are being or have been conducted in a manner unfairly prejudicial to the interests of the members generally or of one or more specific members (this is the reason for Option IV); or</p><p>(ii) Someone is or has been conducting the company's affairs with the intent to defraud the company's creditors or the creditors of any other person; or</p><p>(d) If the Financial Secretary suspects that a person involved in the formation or management of the company has engaged in fraudulent or other misconduct in relation to the company's formation or management (Sections 840 to 841 of the new Companies Ordinance).</p><p>Here, Option IV follows the content in (c)(i) above, where shareholders/members are not being treated fairly.</p><p>If the Financial Secretary considers it necessary to ascertain the true identity of individuals who financially own or are capable of controlling a listed corporation, the Financial Secretary may appoint an inspector to investigate the ownership or control of the listed corporation. If an application is made by no fewer than the specified number of members of the listed corporation, and the Financial Secretary is satisfied that there are reasonable grounds to appoint an inspector, the Financial Secretary may proceed with the appointment</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 26
+    },
+    {
+      "question_id": 1234,
+      "content": "<p>以下哪些关于港交所的描述是正确的？</p><p>I. 港交所是联交所的上市公司 ；</p><p>II. 港交所为证监会根据《证券及期货条例》认可的交易所控制人；</p><p>III. 证监会监督香港联合交易所有限公司与上市事务有关的职能；</p><p>IV. 港交所负责对市场参与者进行前线的审慎及操守规管。</p>",
+      "cht_content": "<p>以下哪些關於港交所的描述是正確的？</p><p>I. 港交所是聯交所的上市公司；</p><p>II. 港交所為證監會根據《證券及期貨條例》認可的交易所控制人；</p><p>III. 證監會監督香港聯合交易所有限公司與上市事務有關的職能；</p><p>IV. 港交所負責對市場參與者進行前線的審慎及操守規管。</p>",
+      "en_content": "<p>Which of the following descriptions about the Hong Kong Exchanges and Clearing Limited (HKEX) are correct?</p><p>I. HKEX is a listed company on The Stock Exchange of Hong Kong Limited;</p><p>II. HKEX is an exchange controller recognized by the Securities and Futures Commission under the Securities and Futures Ordinance;</p><p>III. The Securities and Futures Commission oversees the functions of The Stock Exchange of Hong Kong Limited related to listing matters;</p><p>IV. HKEX is responsible for the frontline prudential and conduct regulation of market participants</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有I，III，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>IV中，前线的审慎和操守规管是证监会干的实情，不是交易所能做的。</p>",
+      "cht_analysis": "<p>IV中，前線的審慎和操守規管是證監會負責的事項，並非交易所能夠處理的。</p>",
+      "en_analysis": "<p>In Section IV, the prudential and conduct regulation of the frontline is carried out by the Securities and Futures Commission, not by the exchange</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第7章",
+      "chapter_id": 30
+    },
+    {
+      "question_id": 214,
+      "content": "<p>根据《证券及期货条例》，以下关于备存记录的规定，说法正确的是哪些？</p><p>I. 《备存纪录规则》只适用于香港注册的有联系实体，而不适用于海外注册的有联系实体；</p><p>II. 该条例并不适用于注册机构；</p><p>III. 中介人及其有联系实体须遵守《备存纪录规则》；</p><p>IV. 任何人士如意图诈骗而销毁任何记录或没有备存记录，即违法。</p>",
+      "cht_content": "<p>根據《證券及期貨條例》，以下關於備存記錄的規定，說法正確的是哪些？</p><p>I. 《備存紀錄規則》只適用於香港註冊的有聯繫實體，而不適用於海外註冊的有聯繫實體；</p><p>II. 該條例並不適用於註冊機構；</p><p>III. 中介人及其有聯繫實體須遵守《備存紀錄規則》；</p><p>IV. 任何人士如意圖詐騙而銷毀任何記錄或沒有備存記錄，即屬違法。</p>",
+      "en_content": "<p>According to the Securities and Futures Ordinance, which of the following statements regarding record-keeping requirements are correct?</p><p>I. The Record-Keeping Rules only apply to Hong Kong-registered associated entities and do not apply to overseas-registered associated entities;</p><p>II. The Ordinance does not apply to registered institutions;</p><p>III. Intermediaries and their associated entities must comply with the Record-Keeping Rules;</p><p>IV. Any person who, with intent to defraud, destroys any records or fails to keep records, commits an offense</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II， IV"
+        },
+        {
+          "key": "C",
+          "value": "I，II，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "只有III，IV"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>I项错误，只要是有联系实体，就要遵守备存纪录规则</p><p>II项错误，备存记录适用于注册机构（例如银行）,并非不适用。</p><p>证监会有权就由以下人士备存纪录订立规则： (a) 中介人（包括注册机构）；及 (b) 收取或持有中介人的客户资产的有联系实体。 证监会已根据《证券及期货条例》第151条制订《证券及期货（备存纪录）规则》。</p><p>注册机构不适用于：</p><p>《客户款项规则》（因为老子本身就是银行，数钱数了几百年了好吗？还要我听你证监会BB教我如何处理钱？）</p><p>《财政资源规则》（因为老子本身就是银行，金管局对我的资本充足率等有一系列的规定，很多来自巴塞尔协议，证监会那套就免了吧！）</p><p>《账目及审计规则》（因为以上两个规则都不遵守，你还能用同样的审计方式来审计我吗？臣妾做不到啊！！！）</p><p>OK，PASS，不管如何出题，相信你秒懂了。</p>",
+      "cht_analysis": "<p>I項錯誤，只要是有聯繫實體，就要遵守備存紀錄規則</p><p>II項錯誤，備存紀錄適用於註冊機構（例如銀行）,並非不適用。</p><p>證監會有權就由以下人士備存紀錄訂立規則： (a) 中介人（包括註冊機構）；及 (b) 收取或持有中介人的客戶資產的有聯繫實體。 證監會已根據《證券及期貨條例》第151條制訂《證券及期貨（備存紀錄）規則》。</p><p>註冊機構不適用於：</p><p>《客戶款項規則》（因為老子本身就是銀行，數錢數了幾百年了好嗎？還要我聽你證監會BB教我如何處理錢？）</p><p>《財政資源規則》（因為老子本身就是銀行，金管局對我的資本充足率等有一系列的规定，很多來自巴塞爾協議，證監會那套就免了吧！）</p><p>《賬目及審計規則》（因為以上兩個規則都不遵守，你還能用同樣的審計方式來審計我嗎？臣妾做不到啊！！！）</p><p>OK，PASS，不管如何出題，相信你秒懂了。</p>",
+      "en_analysis": "<p>I. is incorrect; as long as there is a connected entity, the record-keeping rules must be complied with.</p><p>II. is incorrect; record-keeping applies to registered institutions (e.g., banks) and is not inapplicable.</p><p>The Securities and Futures Commission has the authority to establish rules regarding record-keeping by: (a) intermediaries (including registered institutions); and (b) connected entities that receive or hold client assets of intermediaries. The Securities and Futures Commission has formulated the Securities and Futures (Keeping of Records) Rules under Section 151 of the Securities and Futures Ordinance.</p><p>Registered institutions are not subject to:</p><p>The Client Money Rules (because we are banks ourselves, having handled money for centuries—do we really need the SFC to lecture us on how to manage funds?).</p><p>The Financial Resources Rules (because we are banks ourselves; the Hong Kong Monetary Authority has a series of requirements for our capital adequacy, many of which stem from the Basel Accords—the SFC's rules can be skipped!).</p><p>The Accounts and Audit Rules (because if the above two rules are not complied with, how can the same auditing methods be applied to us? It's simply impossible!!!).</p><p>Alright, pass. No matter how the questions are framed, I trust you’ve grasped it instantly</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 26
+    },
+    {
+      "question_id": 1060,
+      "content": "<p>A公司拟以香港居民为对象，向他们发送期货的互联网广告，该广告是否需要核准，如需要，该由哪个机构核准？</p>",
+      "cht_content": "<p>A公司擬以香港居民為對象，向他們發送期貨的互聯網廣告，該廣告是否需要核准，如需要，該由哪個機構核准？</p>",
+      "en_content": "<p>Company A intends to target Hong Kong residents by sending them internet advertisements for futures. Does this advertisement require approval, and if so, which authority is responsible for approving it?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "要，互联网监督处"
+        },
+        {
+          "key": "B",
+          "value": "要，证监会"
+        },
+        {
+          "key": "C",
+          "value": "要，香港期货交易所"
+        },
+        {
+          "key": "D",
+          "value": "不需要。"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>山海老师提示，本题非常重要，注意理解加记忆，不懂随时微信群提问。送分题，证监会核准！</p>",
+      "cht_analysis": "<p>山海老師提示，本題非常重要，注意理解加記憶，不懂隨時微信群提問。送分題，證監會核准！</p>",
+      "en_analysis": "<p>Teacher Shanhai reminds, this question is extremely important. Pay attention to understanding and memorizing it. Feel free to ask in the WeChat group if you don’t understand. This is a giveaway question, approved by the Securities and Futures Commission!</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第6章",
+      "chapter_id": 29
+    },
+    {
+      "question_id": 1008,
+      "content": "<p>根据《操守准则》，“尽快及公平地进行分配”－代表客户执行的交易，应尽快和公平地分配入该等客户的账户内。</p><p>以上内容体现了哪一个选择？</p>",
+      "cht_content": "<p>根據《操守準則》，「盡快及公平地進行分配」－代表客戶執行的交易，應盡快和公平地分配入該等客戶的賬戶內。</p><p>以上內容體現了哪一個選擇？</p>",
+      "en_content": "<p>According to the Code of Conduct, 'allocate as soon as possible and fairly'—transactions executed on behalf of clients should be allocated into those clients' accounts as soon as possible and fairly.</p><p>Which option does the above content reflect?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "诚实及公平"
+        },
+        {
+          "key": "B",
+          "value": "勤勉尽责"
+        },
+        {
+          "key": "C",
+          "value": "遵守法规"
+        },
+        {
+          "key": "D",
+          "value": "利益冲突"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>一般原则2：勤勉尽责</p><p>持牌人或注册人应以“适当的技能，小心审慎和勤勉尽责的态度行事，以维护客户的最佳利益及确保市场廉洁稳健”。以下是一些具体的实际情况：</p><p>(a)“尽快执行交易指示”－持牌人或注册人应采取一切合理步骤，尽快地依照客户的指示执行客户的交易指示。不应因为持牌人或注册人或发出指示的客户以外的其他人的方便，而暂缓或撤销执行客户的交易指示；</p><p>(b)“以最佳条件执行交易指示”－持牌人或注册人应基于其所能取得的最佳条件，替客户执行交易指示；</p><p>(c)“尽快及公平地进行分配”－代表客户执行的交易，应尽快和公平地分配入该等客户的账户内；及</p><p>(d)以适当的技巧、小心谨慎和勤勉尽责的态度向客户提供建议，并确保其向客户提供的建议或推荐，都是经过透彻分析和考虑过其他可行途径，然后才作出的。</p>",
+      "cht_analysis": "<p>一般原則2：勤勉盡責</p><p>持牌人或註冊人應以「適當的技能，小心審慎和勤勉盡責的態度行事，以維護客戶的最佳利益及確保市場廉潔穩健」。以下是一些具體的實際情況：</p><p>(a)「盡快執行交易指示」－持牌人或註冊人應採取一切合理步驟，盡快地依照客戶的指示執行客戶的交易指示。不應因為持牌人或註冊人或發出指示的客戶以外的其他人的方便，而暫緩或撤銷執行客戶的交易指示；</p><p>(b)「以最佳條件執行交易指示」－持牌人或註冊人應基於其所能取得的最佳條件，替客戶執行交易指示；</p><p>(c)「盡快及公平地進行分配」－代表客戶執行的交易，應盡快和公平地分配入該等客戶的賬戶內；及</p><p>(d)以適當的技巧、小心謹慎和勤勉盡責的態度向客戶提供建議，並確保其向客戶提供的建議或推薦，都是經過透徹分析和考慮過其他可行途徑，然後才作出的。</p>",
+      "en_analysis": "<p>General Principle 2: Diligence and Due Care</p><p>Licensed persons or registered persons should act with appropriate skill, care, diligence, and prudence to safeguard the best interests of clients and ensure market integrity and stability. The following are specific practical examples:</p><p>(a) 'Execute client orders promptly' – Licensed persons or registered persons should take all reasonable steps to execute client orders in accordance with the client’s instructions as quickly as possible. Execution of client orders should not be delayed or withheld for the convenience of the licensed person, registered person, or any other party other than the client giving the instructions;</p><p>(b) 'Execute client orders on the best terms' – Licensed persons or registered persons should execute client orders based on the best terms available to them;</p><p>(c) 'Allocate transactions promptly and fairly' – Transactions executed on behalf of clients should be allocated to the respective client accounts as quickly and fairly as possible; and</p><p>(d) Provide advice to clients with appropriate skill, care, and diligence, ensuring that any recommendations or suggestions given to clients are the result of thorough analysis and consideration of alternative options before being made</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第6章",
+      "chapter_id": 29
+    },
+    {
+      "question_id": 1723,
+      "content": "<p><span>在《证券及期货条例》下，以下哪项陈述正确地区分了民事法律与刑事法律的特征？</span></p>",
+      "cht_content": "<p>根據《證券及期貨條例》，以下哪項陳述正確區分民事法律與刑事法律的特徵？</p>",
+      "en_content": "<p>Under the Securities and Futures Ordinance, which of the following statements accurately distinguishes the characteristics of civil law from criminal law?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "市场失当行为审裁处采用与刑事诉讼相同的证明标准。"
+        },
+        {
+          "key": "B",
+          "value": "民事法律的目标是对不法行为者进行制裁。"
+        },
+        {
+          "key": "C",
+          "value": "民事案件的证明标准是“无合理疑点”。"
+        },
+        {
+          "key": "D",
+          "value": "在个人被判有罪后，仍可能根据民事法律追究同一行为。"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p><span>在《证券及期货条例》的背景下，民事法律和刑事法律有不同的目的。</span><span><strong>民事法律主要关注的是补偿受害方，而不是惩罚不法行为者</strong></span><span>，这与刑事法律不同。民事案件的证明标准通常是基于“可能性的权衡”，而不是刑事案件中的“无合理疑点”。市场失当行为审裁处处理市场失当行为，其运作基于民事标准，并不等同于刑事诉讼。因此，选项D是正确的，因为它反映了即使某人被判有刑事罪，也可以根据民事法律追究同一行为的原则。这是因为刑事和民事的证明标准和责任不同，允许分别进行诉讼。</span></p>",
+      "cht_analysis": "<p><span>在《證券及期貨條例》的背景下，民事法律與刑事法律各有不同目的。</span><span><strong>民事法律主要著重於補償受害方，而非懲處不當行為者</strong></span><span>，此點與刑事法律有別。民事案件的舉證標準通常基於「可能性之權衡」，而非刑事案件所要求的「毫無合理疑點」。市場失當行為審裁處處理市場失當行為時，乃依據民事標準運作，並不等同刑事檢控。因此，選項D正確反映了即使某人已被判定刑事罪名成立，仍可根據民事法律就同一行為追究責任的原則。此乃因刑事與民事的舉證標準及法律責任各有不同，容許分別進行法律程序。</span></p>",
+      "en_analysis": "<p><span>Under the context of the Securities and Futures Ordinance, civil law and criminal law serve different purposes.</span><span><strong>Civil law primarily focuses on compensating the aggrieved party rather than punishing the wrongdoer</strong></span><span>, which distinguishes it from criminal law. The standard of proof in civil cases is typically based on the \"balance of probabilities\", as opposed to \"beyond reasonable doubt\" in criminal cases. The Market Misconduct Tribunal deals with market misconduct and operates based on civil standards, which is not equivalent to criminal proceedings. Therefore, Option D is correct as it reflects the principle that even if an individual is acquitted of a criminal offence, the same conduct may still be pursued under civil law. This is due to the differing standards of proof and liabilities in civil and criminal matters, allowing for separate legal actions.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 25
+    },
+    {
+      "question_id": 934,
+      "content": "<p>YZDFXMWLKJ公司是香港的一家持牌法团，山本先生是该公司的持牌代表，他1年前刚从香港大学毕业，性格阳光，意气风发，喜欢行山及跑步。</p><p>最近，无意中他发现公司可能在两位客户之间出现利益冲突。他已经就此情况向公司汇报。</p><p>根据《证券及期货条例》以及《操守准则》，你认为YZDFXMWLKJ公司以下哪个行为是合适的？</p>",
+      "cht_content": "<p>YZDFXMWLKJ公司是香港的一家持牌法團，山本先生是該公司的持牌代表，他1年前剛從香港大學畢業，性格陽光，意氣風發，喜歡行山及跑步。</p><p>最近，無意中他發現公司可能在兩位客戶之間出現利益衝突。他已經就此情況向公司匯報。</p><p>根據《證券及期貨條例》以及《操守準則》，你認為YZDFXMWLKJ公司以下哪個行為是合適的？</p>",
+      "en_content": "<p>YZDFXMWLKJ Company is a licensed corporation in Hong Kong. Mr. Yamamoto, a licensed representative of the company, graduated from the University of Hong Kong just one year ago. He has a sunny disposition, is full of ambition, and enjoys hiking and running.</p><p>Recently, he unintentionally discovered that the company might have a conflict of interest between two clients. He has already reported this situation to the company.</p><p>According to the Securities and Futures Ordinance and the Code of Conduct, which of the following actions by YZDFXMWLKJ Company do you consider appropriate?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "YZDFXMWLKJ公司向那两位客户披露相关利益冲突"
+        },
+        {
+          "key": "B",
+          "value": "YZDFXMWLKJ公司立即明确优先处理哪个客户，并书面记录原因。"
+        },
+        {
+          "key": "C",
+          "value": "YZDFXMWLKJ公司致力游说其中一位客户采取另一个立场，以便尽量减少或消除相关冲突。"
+        },
+        {
+          "key": "D",
+          "value": "在潜在冲突未变成真正的冲突之前，YZDFXMWLKJ公司不需要采取任何行动。"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>送分题，遇到利益冲突，一般先进行披露再说。</p><p>当无法避免冲突时，《操守准则》规定，除非持牌人或注册人已向客户披露有关利益冲突，并已采取一切合理步骤确保客户获得公平对待，否则中介人不应就交易提供建议或进行有关交易。（PS：山/海·老/师提示务必关注及时披露利益冲突问题）。</p>",
+      "cht_analysis": "<p>送分題，遇到利益衝突，一般先進行披露再說。</p><p>當無法避免衝突時，《操守準則》規定，除非持牌人或註冊人已向客戶披露有關利益衝突，並已採取一切合理步驟確保客戶獲得公平對待，否則中介人不應就交易提供建議或進行有關交易。（PS：山/海·老/師提示務必關注及時披露利益衝突問題）。</p>",
+      "en_analysis": "<p>A giveaway question. When encountering a conflict of interest, the general approach is to disclose it first.</p><p>When conflicts cannot be avoided, the Code of Conduct stipulates that unless the licensed person or registered person has disclosed the relevant conflict of interest to the client and has taken all reasonable steps to ensure the client is treated fairly, the intermediary should not provide advice on the transaction or proceed with the relevant transaction. (PS: Teacher Shan/Hai reminds everyone to pay close attention to timely disclosure of conflicts of interest)</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第5章",
+      "chapter_id": 28
+    },
+    {
+      "question_id": 1692,
+      "content": "<p><span>在香港的法律制度下，刑事法要求案件的举证遵循哪个选择？</span></p>",
+      "cht_content": "<p>在香港的法律制度下，刑事法要求案件的舉證遵循哪個選擇？</p>",
+      "en_content": "<p>Under Hong Kong's legal system, which option does criminal law require for the burden of proof in a case?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "无可疑疑点"
+        },
+        {
+          "key": "B",
+          "value": "无合理疑点"
+        },
+        {
+          "key": "C",
+          "value": "基于可能性的权衡"
+        },
+        {
+          "key": "D",
+          "value": "相对可能性"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>刑事法界定针对社会的罪行及如何对疑犯进行调查、起诉、审讯及处罚。这种处罚（可能包括监禁）的权力不能交给或者授予任何个人或机构。案件由律政司等政府委任机构针对违法者提出诉讼。由于涉及处罚，因此在裁定某人触犯刑事罪行前须具有强而有力的证据。案件必须经证明为“无合理疑点”，而举证的责任由控方承担。</p>",
+      "cht_analysis": "<p>刑事法界定針對社會的罪行及如何對疑犯進行調查、起訴、審訊及處罰。這種處罰（可能包括監禁）的權力不能交給或者授予任何個人或機構。案件由律政司等政府委任機構針對違法者提出訴訟。由於涉及處罰，因此在裁定某人觸犯刑事罪行前須具有強而有力的證據。案件必須經證明為「無合理疑點」，而舉證的責任由控方承擔。</p>",
+      "en_analysis": "<p>Criminal law defines offences against society and how suspects are investigated, prosecuted, tried, and punished. The power to impose such punishment (which may include imprisonment) cannot be given or delegated to any individual or institution. Cases are brought against offenders by government-appointed bodies such as the Department of Justice. As penalties are involved, strong evidence is required before a person can be adjudged to have committed a criminal offence. The case must be proven \"beyond reasonable doubt,\" and the burden of proof lies with the prosecution.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 25
+    },
+    {
+      "question_id": 1618,
+      "content": "<p><span>金融服务业也有适用的衡平法补救，以下那一项不是衡平法的补救措施？</span></p>",
+      "cht_content": "<p><span>金融服務業亦有適用的衡平法補救措施，以下哪一項不屬於衡平法的補救措施？</span></p>",
+      "en_content": "<p><span>The financial services industry also has applicable equitable remedies. Which of the following is not an equitable remedy?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "禁制令"
+        },
+        {
+          "key": "B",
+          "value": "强制履行令"
+        },
+        {
+          "key": "C",
+          "value": "罚款"
+        },
+        {
+          "key": "D",
+          "value": "合约撤销及更正"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p style=\"text-align: left;\">罚款不是。衡平法的补救包含：禁止令，强制履行令，衡平法上的撤销，更正。</p><p style=\"text-align: justify;\">金融服务业也有适用的衡平法补救，包括：禁制令、强制履行令、衡平法上的合约撤销及更正，有关定义如下﹕</p><p style=\"text-align: left;\">(a)禁制令指禁止某人作某事的法令。</p><p style=\"text-align: left;\">(b)强制履行令指某人必须履行其合约责任的法令。</p><p style=\"text-align: left;\">(c)衡平法上的撤销指法院提供的补救措施，旨在使合约双方恢复至合约订立前各自的本来状况。</p><p style=\"text-align: left;\">(d)更正指当合约未正确载列合约双方的意图时，法院为澄清合约而采取的行动。</p>",
+      "cht_analysis": "<p style=\"text-align: left;\">罰款並非衡平法的補救措施。衡平法的補救包含：禁制令、強制履行令、衡平法上的撤銷、更正。</p><p style=\"text-align: justify;\">金融服務業亦有適用的衡平法補救，包括：禁制令、強制履行令、衡平法上的合約撤銷及更正，有關定義如下：</p><p style=\"text-align: left;\">(a) 禁制令指禁止某人作某事的法令。</p><p style=\"text-align: left;\">(b) 強制履行令指某人必須履行其合約責任的法令。</p><p style=\"text-align: left;\">(c) 衡平法上的撤銷指法院提供的補救措施，旨在使合約雙方恢復至合約訂立前各自的原本狀況。</p><p style=\"text-align: left;\">(d) 更正指當合約未正確載列合約雙方的意圖時，法院為釐清合約而採取的行動。</p>",
+      "en_analysis": "<p style=\"text-align: left;\">Fines are not. Equitable remedies include: injunctions, specific performance, rescission in equity, and rectification.</p><p style=\"text-align: justify;\">The financial services industry also has applicable equitable remedies, including: injunctions, specific performance, rescission of contracts in equity, and rectification. The definitions are as follows:</p><p style=\"text-align: left;\">(a) An injunction refers to a court order prohibiting someone from doing something.</p><p style=\"text-align: left;\">(b) Specific performance refers to a court order requiring someone to fulfill their contractual obligations.</p><p style=\"text-align: left;\">(c) Rescission in equity refers to a remedy provided by the court, aimed at restoring the contracting parties to their original positions before the contract was made.</p><p style=\"text-align: left;\">(d) Rectification refers to the action taken by the court to clarify a contract when it does not correctly reflect the intentions of the contracting parties.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 25
+    },
+    {
+      "question_id": 1547,
+      "content": "<p>根据《证券及期货条例》及其附属法例，以下哪个例子属于未获邀的造访？</p>",
+      "cht_content": "<p>根據《證券及期貨條例》及其附屬法例，以下哪個例子屬於未獲邀的造訪？</p>",
+      "en_content": "<p>According to the Securities and Futures Ordinance and its subsidiary legislation, which of the following examples constitutes an unsolicited call?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "请客户参与投资讲座及后与客户交谈"
+        },
+        {
+          "key": "B",
+          "value": "致电客户邀请参与投资讲座"
+        },
+        {
+          "key": "C",
+          "value": "透过邮政通函派发投资产品的传单"
+        },
+        {
+          "key": "D",
+          "value": "透过亲身造访某人（非客户）邀请其开立证券保证金账户"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>“透过亲身造访某人（非客户）邀请其开立证券保证金账户”，这个造访的太明显了，必须选它。</p><p>根据（证券及期货条例），亲身探访不是获准许的通讯。</p><p>有关条文旨在保障投资者，以免他们：</p><p>(a)罔顾后果地向陌生人提供个人资料及款项；</p><p>(b)在没有査该要约人身份或背景的情况下，相信表面上能提供专业分析报告及公司简介，及提供可观投资机遇的人士；</p><p>(c) 在未有查明发行人背景的情况下买入证券：及</p><p>(d) 在没有采取妥善的防范措施的情况下开立账户.。</p>",
+      "cht_analysis": "<p>「透過親身造訪某人（非客戶）邀請其開立證券保證金賬戶」，這個造訪的意圖太明顯了，必須選擇此項。</p><p>根據《證券及期貨條例》，親身探訪並非獲准許的通訊方式。</p><p>相關條文旨在保障投資者，以免他們：</p><p>(a) 罔顧後果地向陌生人提供個人資料及款項；</p><p>(b) 在未查核要約人身份或背景的情況下，輕信表面上能提供專業分析報告及公司簡介，並提供可觀投資機遇的人士；</p><p>(c) 在未查明發行人背景的情況下購入證券；及</p><p>(d) 在未採取妥善防範措施的情況下開立賬戶。</p>",
+      "en_analysis": "<p>The act of 'personally visiting someone (non-client) to invite them to open a securities margin account' is too obvious and must be selected.</p><p>Under the Securities and Futures Ordinance, personal visits are not considered permitted communication.</p><p>The relevant provisions aim to protect investors from:</p><p>(a) Recklessly providing personal information and funds to strangers;</p><p>(b) Trusting individuals who appear to offer professional analysis reports, company profiles, and substantial investment opportunities without verifying their identity or background;</p><p>(c) Purchasing securities without investigating the issuer's background; and</p><p>(d) Opening accounts without taking proper precautionary measures</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第9章",
+      "chapter_id": 32
+    },
+    {
+      "question_id": 1638,
+      "content": "<p><span>在香港，为防止洗钱及恐怖分子资金筹集，制定了以下哪条法例？</span></p>",
+      "cht_content": "<p>在香港，為防止洗錢及恐怖分子資金籌集，制定了以下哪條法例？</p>",
+      "en_content": "<p><span>In Hong Kong, which of the following legislations has been enacted to prevent money laundering and terrorist financing?</span></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "《防止贪污条例》"
+        },
+        {
+          "key": "B",
+          "value": "《贩毒（追讨得益）条例》"
+        },
+        {
+          "key": "C",
+          "value": "《打击洗钱及恐怖分子资金筹集指引》"
+        },
+        {
+          "key": "D",
+          "value": "《证券及期货条例》"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p><span>注意，问的是条例，问的是法，不是“指引”，指引通常没有法律效力。在香港，与洗钱有关的4项主要法例为《打击洗钱条例》、《贩毒（追讨得益）条例》、《有组织及严重罪行条例》及《聯合国反恐条例》。</span></p>",
+      "cht_analysis": "<p>請注意，問題詢問的是條例，是法律，而非「指引」，指引通常不具法律效力。在香港，與洗錢相關的4項主要法例為《打擊洗錢條例》、《販毒（追討得益）條例》、《有組織及嚴重罪行條例》及《聯合國反恐條例》。</p>",
+      "en_analysis": "<p><span>Note that the question refers to ordinances and laws, not \"guidelines\", as guidelines typically do not carry legal force. In Hong Kong, the four main pieces of legislation related to money laundering are the Anti-Money Laundering and Counter-Terrorist Financing Ordinance, the Drug Trafficking (Recovery of Proceeds) Ordinance, the Organized and Serious Crimes Ordinance, and the United Nations (Anti-Terrorism Measures) Ordinance.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 25
+    },
+    {
+      "question_id": 770,
+      "content": "<p>DF公司为香港一间资产管理公司，获得证监会授权开展第9类受规管业务。</p><p>根据《基金经理操守准则》，DF公司以下哪些行为损害了“诚实及公平”的原则？</p><p>I. DF公司发出的广告全部经由证监会认可；</p><p>II. DF公司可在未向客户作出披露的情况下，收取初次认购的费用；</p><p>III. DF公司发出的基金表现材料均属实，但与部分市场推广数据不一致；</p><p>IV. 当DF公司作为主事人身份行事时，将收费价格标高。</p>",
+      "cht_content": "<p>DF公司為香港一間資產管理公司，獲證監會授權開展第9類受規管業務。</p><p>根據《基金經理操守準則》，DF公司以下哪些行為損害了「誠實及公平」的原則？</p><p>I. DF公司發出的廣告全部經由證監會認可；</p><p>II. DF公司可在未向客戶作出披露的情況下，收取初次認購的費用；</p><p>III. DF公司發出的基金表現材料均屬實，但與部分市場推廣數據不一致；</p><p>IV. 當DF公司作為主事人身份行事時，將收費價格標高。</p>",
+      "en_content": "<p>DF Company is a Hong Kong-based asset management company authorised by the Securities and Futures Commission to carry out Type 9 regulated activities.</p><p>According to the Code of Conduct for Persons Licensed by or Registered with the Securities and Futures Commission, which of the following actions by DF Company undermine the principle of 'honesty and fairness'?</p><p>I. All advertisements issued by DF Company have been approved by the Securities and Futures Commission;</p><p>II. DF Company may charge initial subscription fees without disclosing this to clients;</p><p>III. The fund performance materials issued by DF Company are accurate but inconsistent with some promotional data;</p><p>IV. When DF Company acts as a principal, it marks up the fee prices</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有II，III， IV"
+        },
+        {
+          "key": "C",
+          "value": "只有II，III"
+        },
+        {
+          "key": "D",
+          "value": "只有I，III，IV"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>II显然有损诚实及公平，收费必须明确；</p><p>III不对，内容必须一致！</p><p>IV是允许的，不妨碍诚信及公平。</p><p>凡基金经理或其雇员对基金或任何基金投资者所作出的陈述或提供的数据须为正确及没有误导成份。所有广告及市场推广数据须按证监会规定获得认可，且应属：</p><p>(a)并无虚假、偏颇、具误导或欺骗成分；</p><p>(b)清晰、公正及以持平的观点呈述基金，并附有充分的风险披露；</p><p>(c)载有适时及与基金销售文件一致的内容；</p><p>(d)所载关于基金表现的声称均可证明属实。</p><p>所有会影响基金及基金投资者的费用、收费及将价格标高的做法应属公平和合理，并且是在具诚信的情况下厘定的。当基金经理是以代理人身份行事时，将价格标高的做法应予以禁止。然而，当基金经理是以主事人身份行事时，将价格标高的做法应予以允许，并应向基金披露可将价格标高的情况（如基金经理负责基金的整体运作，亦应向基金投资者披露），而有关交易亦应在定期报表或交易通知单中予以汇报。</p>",
+      "cht_analysis": "<p>II顯然有損誠實及公平，收費必須明確；</p><p>III不對，內容必須一致！</p><p>IV是允許的，不妨礙誠信及公平。</p><p>凡基金經理或其僱員對基金或任何基金投資者所作出的陳述或提供的數據須為正確及沒有誤導成份。所有廣告及市場推廣數據須按證監會規定獲得認可，且應屬：</p><p>(a)並無虛假、偏頗、具誤導或欺騙成分；</p><p>(b)清晰、公正及以持平的觀點呈述基金，並附有充分的風險披露；</p><p>(c)載有適時及與基金銷售文件一致的內容；</p><p>(d)所載關於基金表現的聲稱均可證明屬實。</p><p>所有會影響基金及基金投資者的費用、收費及將價格標高的做法應屬公平和合理，並且是在具誠信的情況下釐定的。當基金經理是以代理人身份行事時，將價格標高的做法應予以禁止。然而，當基金經理是以主事人身份行事時，將價格標高的做法應予以允許，並應向基金披露可將價格標高的情況（如基金經理負責基金的整體運作，亦應向基金投資者披露），而有關交易亦應在定期報表或交易通知單中予以匯報。</p>",
+      "en_analysis": "<p>II clearly impairs honesty and fairness; fees must be clearly stated;</p><p>III is incorrect; the content must be consistent!</p><p>IV is permissible and does not hinder integrity and fairness.</p><p>Any statements or data provided by the fund manager or their employees regarding the fund or any fund investors must be accurate and non-misleading. All advertisements and marketing materials must be approved in accordance with the requirements of the Securities and Futures Commission and should:</p><p>(a) contain no false, biased, misleading, or deceptive elements;</p><p>(b) be clear, fair, and present the fund from a balanced perspective, accompanied by adequate risk disclosures;</p><p>(c) include timely content consistent with the fund’s offering documents;</p><p>(d) ensure that any claims regarding the fund’s performance can be substantiated.</p><p>All fees, charges, and price mark-ups that may affect the fund and its investors should be fair and reasonable, determined in good faith. When the fund manager acts as an agent, price mark-ups should be prohibited. However, when the fund manager acts as a principal, price mark-ups should be permitted, and the circumstances under which price mark-ups may occur should be disclosed to the fund (if the fund manager is responsible for the overall operation of the fund, such disclosures should also be made to fund investors). Such transactions should be reported in periodic statements or trade confirmations</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第5章",
+      "chapter_id": 28
+    },
+    {
+      "question_id": 1466,
+      "content": "<p>据你所知，联交所及证监会制定《香港联合交易所有限公司证券上市规则》的主要目标是什么？</p><p>I.保证证券发行和销售的公平有序。</p><p>II.确保发行人适时提供与投资者及公众人士有关且对上市证券价格有影响的充分及重要资料。</p><p>III.确保董事主要为公众投资者的利益行事。</p><p>IV.公平及平等地对待所有股东。</p>",
+      "cht_content": "<p>據你所知，聯交所及證監會制定《香港聯合交易所有限公司證券上市規則》的主要目標是什麼？</p><p>I. 保證證券發行和銷售的公平有序。</p><p>II. 確保發行人適時提供與投資者及公眾人士有關且對上市證券價格有影響的充分及重要資料。</p><p>III. 確保董事主要為公眾投資者的利益行事。</p><p>IV. 公平及平等地對待所有股東。</p>",
+      "en_content": "<p>As far as you know, what are the primary objectives of the Hong Kong Exchanges and Clearing Limited and the Securities and Futures Commission in formulating the Rules Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited?</p><p>I. To ensure the fairness and orderliness of securities issuance and sales.</p><p>II. To ensure that issuers provide timely, adequate, and material information relevant to investors and the public that may affect the price of listed securities.</p><p>III. To ensure that directors primarily act in the interests of public investors.</p><p>IV. To treat all shareholders fairly and equally</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "I，II，III，IV"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有II，IV"
+        },
+        {
+          "key": "D",
+          "value": "只有I，III"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>做这样的题目，主要把正确的大话、套话选上就行了，格局要大、立意要高。就此而言， 选项3明显是错的，董事要为所有股东的利益做事，怎么可能是为投资公众的利益行事？{山.海*老:师REF}</p><p>《上市规则》旨在确保：</p><p>（1）申请人适合上市；</p><p>（2）公平及有序地发行及销售证券；</p><p>（3）发行人适时提供与投资者及公众人士有关且对上市证券价格有影响的充分及重要资料；</p><p>（4）公平及平等地对待所有股东；</p><p>（5）董事本着股东的整体利益行事，并妥为顾及少数股东的权利；及</p><p>（6）除非现有股东另有决定，否则所有新发行的股份，均首先以供股形式（普遍以一般或特别授权形式）售予现有股东。</p><p>《上市规则》的更改或补充以及个别上市情况均须按联交所认为适合的条件进行。</p>",
+      "cht_analysis": "<p>做這樣的題目，主要把正確的大話、套話選上就行了，格局要大、立意要高。就此而言，選項3明顯是錯的，董事要為所有股東的利益做事，怎麼可能是為投資公眾的利益行事？{山.海*老:師REF}</p><p>《上市規則》旨在確保：</p><p>（1）申請人適合上市；</p><p>（2）公平及有序地發行及銷售證券；</p><p>（3）發行人適時提供與投資者及公眾人士有關且對上市證券價格有影響的充分及重要資料；</p><p>（4）公平及平等地對待所有股東；</p><p>（5）董事本着股東的整體利益行事，並妥為顧及少數股東的權利；及</p><p>（6）除非現有股東另有決定，否則所有新發行的股份，均首先以供股形式（普遍以一般或特別授權形式）售予現有股東。</p><p>《上市規則》的更改或補充以及個別上市情況均須按聯交所認為適合的條件進行。</p>",
+      "en_analysis": "<p>For such questions, simply select the correct, formal, and appropriate statements, ensuring the perspective is broad and the立意 is elevated. In this regard, Option 3 is clearly incorrect. Directors must act in the interests of all shareholders—how could they possibly act for the benefit of the investing public? {Shan.Hai*Lao:Shi REF}</p><p>The Listing Rules aim to ensure:</p><p>(1) The applicant is suitable for listing;</p><p>(2) Securities are issued and sold fairly and in an orderly manner;</p><p>(3) The issuer provides timely, adequate, and material information relevant to investors and the public that may affect the price of the listed securities;</p><p>(4) All shareholders are treated fairly and equally;</p><p>(5) Directors act in the overall interests of shareholders and duly consider the rights of minority shareholders; and</p><p>(6) Unless existing shareholders decide otherwise, all new share issues are first offered to existing shareholders through rights issues (generally under general or special mandates).</p><p>Amendments or supplements to the Listing Rules, as well as individual listing circumstances, must be conducted under conditions deemed appropriate by the Exchange</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第8章",
+      "chapter_id": 31
+    },
+    {
+      "question_id": 1020,
+      "content": "<p>ABC银行是香港一间大型银行，其近年来业绩下滑颇多，正在考虑拓展新的客户群。</p><p>该公司最近要求全资附属公司XYZ证券(持有1、2、4、6号牌照的持牌法团)提供证券业务的客户清单以及联络方法，推销住房按揭贷款服务，则XYZ证券是否应该为ABC银行提供客户清单以及联络方法？</p>",
+      "cht_content": "<p>ABC銀行是香港一間大型銀行，近年來業績下滑頗多，正在考慮拓展新的客戶群。</p><p>該公司最近要求全資附屬公司XYZ證券（持有1、2、4、6號牌照的持牌法團）提供證券業務的客戶清單以及聯絡方法，推銷住房按揭貸款服務，則XYZ證券是否應該為ABC銀行提供客戶清單以及聯絡方法？</p>",
+      "en_content": "<p>ABC Bank is a major bank in Hong Kong, which has experienced a significant decline in performance in recent years and is considering expanding into new customer segments.</p><p>The company recently requested its wholly-owned subsidiary, XYZ Securities (a licensed corporation holding licenses 1, 2, 4, and 6), to provide a customer list and contact details for its securities business to promote mortgage loan services. Should XYZ Securities provide ABC Bank with the customer list and contact methods?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "应该，因为ABC银行是XYZ证券的联系实体"
+        },
+        {
+          "key": "B",
+          "value": "应该，因为推销住房按揭业务并不是《证券期货条例》的规管范围"
+        },
+        {
+          "key": "C",
+          "value": "不应该，因为未得客户同意不可把客户的个人资料转交其他人或作其他用途，这将干犯《私隐条例》"
+        },
+        {
+          "key": "D",
+          "value": "不应该，因为这是违反了《证券及期货条例》"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>在向数据当事人收集数据时，当事入应在订明的时限内获告知该等资料将会用于甚么目的、该等资料可能转移予甚么类别 的人士及他要求査阅该等资料及要求改正该等资料的权利。另外，未经资料当事人的同意，个人资料不应用于新的目的。</p>",
+      "cht_analysis": "<p>在向資料當事人收集數據時，當事人應在訂明的時限內獲告知該等資料將會用於甚麼目的、該等資料可能轉移予甚麼類別的人士，以及他要求查閱該等資料及要求改正該等資料的權利。另外，未經資料當事人的同意，個人資料不應用於新的目的。</p>",
+      "en_analysis": "<p>When collecting data from data subjects, the subjects should be informed within the prescribed time limit of the purposes for which the data will be used, the categories of persons to whom the data may be transferred, and their rights to request access to and correction of the data. Additionally, personal data should not be used for new purposes without the consent of the data subjects</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第6章",
+      "chapter_id": 29
+    },
+    {
+      "question_id": 1166,
+      "content": "<p>峰语公司接获其机构客户山海投资公司就云潮公司股份的一笔大额买入指令。 &nbsp;</p><p>该行判断上述买盘可能对股价带来正面影响。 &nbsp;</p><p>以下哪项做法是正确的? </p>",
+      "cht_content": "<p>峰語公司接獲其機構客戶山海投資公司就雲潮公司股份的一筆大額買入指令。</p><p>該行判斷上述買盤可能對股價帶來正面影響。</p><p>以下哪項做法是正確的？</p>",
+      "en_content": "<p>Fengyu Company received a large buy order from its institutional client, Shanhai Investment Company, for shares of Yunchao Company.</p><p>The firm assessed that the aforementioned buy order might have a positive impact on the stock price.</p><p>Which of the following approaches is correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "峰语公司的自营账户可以优先于客户指令先行买入，但其代表的个人账户不得优先。"
+        },
+        {
+          "key": "B",
+          "value": "由于该信息并非《证券及期货条例》所称的内幕消息，因此并无限制。"
+        },
+        {
+          "key": "C",
+          "value": "峰语公司可进行自营或其代表的买入交易，但必须在完成山海投资公司的买入指令后方可执行。"
+        },
+        {
+          "key": "D",
+          "value": "为避免利益冲突，峰语公司的自营交易或其代表买入该股，当日一律不可进行。"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>选项A：不正确。山海老师提示，客户指令优先（Client Order Precedence）是基本原则。无论是自营账户（house/proprietary）还是员工个人账户（personal account），均不得“前置交易”（front running）或抢先于客户指令成交。依据证监会（SFC，Securities and Futures Commission）《持牌人或注册人操守准则》（SFC Code of Conduct）有关客户订单处理、避免利益冲突及保密条文，自营优先同样构成不当。 &nbsp;</p><p>选项B：不正确。即便不构成SFO意义下的“内幕消息”，利用客户大额指令这一“非公开的客户机密信息”进行自营或个人抢先交易，仍属严重不当，违反客户利益优先、信息保密及公平对待客户的原则。山海认为这里需要注意：是否为“内幕消息”与是否允许前置交易是两个维度，后者在操守层面被明确禁止。 &nbsp;</p><p>选项C：正确。本题应选。完成客户指令后，机构可在不损害客户利益、遵守内部监控（如员工账户申报、黑名单/观察名单、审批及冷静期）及公平分配的前提下，方可进行自营或员工账户交易。关键是先完成客户交易，避免前置与利益冲突，并做好记录与监控。 &nbsp;</p><p>选项D：不正确。监管并无“一律当日禁止”这一硬性时间规则。是否设定当日禁买等更严的内部限制，属机构内部政策层面；SFC操守要求的核心是客户优先、避免前置、适当的信息隔离与冲突管理。因此将当日一律禁止视为监管硬要求并不准确。 &nbsp;</p>",
+      "cht_analysis": "<p>選項A：不正確。山海老師提示，客戶指令優先（Client Order Precedence）是基本原則。無論是自營賬戶（house/proprietary）還是員工個人賬戶（personal account），均不得「前置交易」（front running）或搶先於客戶指令成交。依據證監會（SFC，Securities and Futures Commission）《持牌人或註冊人操守準則》（SFC Code of Conduct）有關客戶訂單處理、避免利益衝突及保密條文，自營優先同樣構成不當。</p><p>選項B：不正確。即便不構成SFO意義下的「內幕消息」，利用客戶大額指令這一「非公開的客戶機密信息」進行自營或個人搶先交易，仍屬嚴重不當，違反客戶利益優先、信息保密及公平對待客戶的原則。山海認為這裡需要注意：是否為「內幕消息」與是否允許前置交易是兩個維度，後者在操守層面被明確禁止。</p><p>選項C：正確。本題應選。完成客戶指令後，機構可在不損害客戶利益、遵守內部監控（如員工賬戶申報、黑名單/觀察名單、審批及冷靜期）及公平分配的前提下，方可進行自營或員工賬戶交易。關鍵是先完成客戶交易，避免前置與利益衝突，並做好記錄與監控。</p><p>選項D：不正確。監管並無「一律當日禁止」這一硬性時間規則。是否設定當日禁買等更嚴的內部限制，屬機構內部政策層面；SFC操守要求的核心是客戶優先、避免前置、適當的信息隔離與衝突管理。因此將當日一律禁止視為監管硬要求並不準確。 &nbsp;</p>",
+      "en_analysis": "<p>Option A: Incorrect. Teacher Shan Hai reminds that Client Order Precedence is a fundamental principle. Whether it is a house/proprietary account or a personal account, \"front running\" or executing trades ahead of client orders is strictly prohibited. According to the Securities and Futures Commission (SFC) Code of Conduct regarding client order handling, avoidance of conflicts of interest, and confidentiality provisions, prioritizing proprietary trades similarly constitutes misconduct.</p><p>Option B: Incorrect. Even if it does not constitute \"inside information\" under the meaning of the SFO, using \"non-public client confidential information,\" such as a client's large order, for proprietary or personal front-running trades remains a serious misconduct. This violates the principles of prioritizing client interests, maintaining information confidentiality, and treating clients fairly. Teacher Shan Hai notes that it is important to distinguish between whether the information qualifies as \"inside information\" and whether front-running is permitted; the latter is explicitly prohibited on conduct grounds.</p><p>Option C: Correct. This is the correct option for this question. After completing client orders, an institution may proceed with proprietary or staff account trades, provided that client interests are not compromised, and internal controls (such as staff account declarations, blacklists/watchlists, approval procedures, and cooling-off periods) are adhered to, along with the principle of fair allocation. The key is to complete client trades first, avoid front-running and conflicts of interest, and maintain proper records and monitoring.</p><p>Option D: Incorrect. There is no regulatory \"hard rule\" imposing a blanket prohibition on same-day trading. Whether to implement stricter internal restrictions, such as a same-day trading ban, falls under the institution's internal policy. The core requirements of the SFC Code of Conduct are client priority, avoidance of front-running, appropriate information barriers, and conflict management. Therefore, viewing a blanket same-day prohibition as a mandatory regulatory requirement is inaccurate.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第5章",
+      "chapter_id": 28
+    },
+    {
+      "question_id": 1531,
+      "content": "<p>根据联交所主板《上市规则》，以下哪些情况下，联交所将指令上市法团短暂停牌或停牌？</p><p>I. 联交所认为该法团的公众持股量不足；</p><p>II. 联交所认为该法团没有足够的业务运作或相当价值的资产，以保证其证券可继续上市；</p><p>III. 该上市法团连续三年录得经营亏损；</p><p>IV. 联交所认为该上市法团已不再适合上市。</p>",
+      "cht_content": "<p>根據聯交所主板《上市規則》，以下哪些情況下，聯交所將指令上市法團短暫停牌或停牌？</p><p>I. 聯交所認為該法團的公眾持股量不足；</p><p>II. 聯交所認為該法團沒有足夠的業務運作或相當價值的資產，以保證其證券可繼續上市；</p><p>III. 該上市法團連續三年錄得經營虧損；</p><p>IV. 聯交所認為該上市法團已不再適合上市。</p>",
+      "en_content": "<p>According to the Main Board Listing Rules of the Stock Exchange, under which of the following circumstances will the Stock Exchange direct a listed corporation to undergo a short suspension or a suspension of trading?</p><p>I. The Stock Exchange considers that the public float of the corporation is insufficient;</p><p>II. The Stock Exchange considers that the corporation does not have sufficient business operations or assets of substantial value to ensure the continued listing of its securities;</p><p>III. The listed corporation has recorded operating losses for three consecutive years;</p><p>IV. The Stock Exchange considers that the listed corporation is no longer suitable for listing</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "C",
+          "value": "只有II，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>III不对，联交所并未规定亏损三年就必须停牌。</p><p>联交所可在下列情况下指令短暂停牌或停牌：</p><p>(a)联交所认为公众人士所持有的证券数量不足；</p><p>(b)联交所认为发行人没有足够的业务运作或相当价值的资产，以保证其证券可继续上市；</p><p>(c)联交所认为发行人不再适合上市。</p>",
+      "cht_analysis": "<p>III不對，聯交所並未規定虧損三年就必須停牌。</p><p>聯交所在下列情況下可指令短暫停牌或停牌：</p><p>(a) 聯交所認為公眾人士所持有的證券數量不足；</p><p>(b) 聯交所認為發行人沒有足夠的業務運作或相當價值的資產，以保證其證券可繼續上市；</p><p>(c) 聯交所認為發行人不再適合上市。</p>",
+      "en_analysis": "<p>III is incorrect. The Stock Exchange has not stipulated that a company must be suspended from trading after three years of losses.</p><p>The Stock Exchange may order a short-term suspension or delisting under the following circumstances:</p><p>(a) If the Stock Exchange considers that the number of securities held by the public is insufficient;</p><p>(b) If the Stock Exchange considers that the issuer does not have sufficient business operations or assets of adequate value to ensure the continued listing of its securities;</p><p>(c) If the Stock Exchange considers that the issuer is no longer suitable for listing</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第9章",
+      "chapter_id": 32
+    },
+    {
+      "question_id": 271,
+      "content": "<p>XM公司为香港一间大型商业银行，获得证监会授权开展第1类受规管业务。</p><p>DF公司为香港一间期货公司，获得证监会授权开展第2类受规管业务。</p><p>根据《证券及期货条例》，以下说法不正确的是哪一项？</p>",
+      "cht_content": "<p>XM公司為香港一間大型商業銀行，獲證監會授權開展第1類受規管業務。</p><p>DF公司為香港一間期貨公司，獲證監會授權開展第2類受規管業務。</p><p>根據《證券及期貨條例》，以下說法不正確的是哪一項？</p>",
+      "en_content": "<p>XM Company is a large commercial bank in Hong Kong, authorised by the Securities and Futures Commission to carry out Type 1 regulated activities.</p><p>DF Company is a futures company in Hong Kong, authorised by the Securities and Futures Commission to carry out Type 2 regulated activities.</p><p>According to the Securities and Futures Ordinance, which of the following statements is incorrect?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "XM公司开展第1类受规管活动的前线监管金管局负责"
+        },
+        {
+          "key": "B",
+          "value": "DF公司的前线监管为证监会负责"
+        },
+        {
+          "key": "C",
+          "value": "DF公司毋须遵守证监会发布的《财政资源规则》"
+        },
+        {
+          "key": "D",
+          "value": "XM公司毋须遵守证监会发布的《客户款项规则》"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>DF公司必须遵守证监会发布的所有规定。</p><p>注册机构不适用于：</p><p>客户款项规则</p><p>财政资源规则</p><p>账目及审计规则</p>",
+      "cht_analysis": "<p>DF公司必須遵守證監會發布的所有規定。</p><p>註冊機構不適用於：</p><p>客戶款項規則</p><p>財政資源規則</p><p>賬目及審計規則。</p>",
+      "en_analysis": "<p>DF Company must comply with all regulations issued by the Securities and Futures Commission.</p><p>The following rules do not apply to registered institutions:  </p><p>Client Money Rules  </p><p>Financial Resources Rules  </p><p>Accounts and Audit Rules</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 26
+    },
+    {
+      "question_id": 1572,
+      "content": "<p>香港某持牌法团X投资公司，最近透过虚假交易海外市场证券，以影响香港联交所上市公司Z公司的股票价格走势。</p><p>X公司是否干犯市场失当行为？</p>",
+      "cht_content": "<p>香港某持牌法團X投資公司，最近透過虛假交易海外市場證券，以影響香港聯交所上市公司Z公司的股票價格走勢。</p><p>X公司是否干犯市場失當行為？</p>",
+      "en_content": "<p>Recently, a licensed corporation X in Hong Kong engaged in false trading of overseas market securities to influence the stock price trend of Company Z, a listed company on the Hong Kong Stock Exchange.</p><p>Has Company X committed market misconduct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "否，除非该相关证券的发行方在为在香港注册成立的法团"
+        },
+        {
+          "key": "B",
+          "value": "是"
+        },
+        {
+          "key": "C",
+          "value": "否，除非该受影响证券的发行方为在港交所双重上市"
+        },
+        {
+          "key": "D",
+          "value": "无法判断"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>山海老师YZDFXMWLKJ提醒考生关注下这个题目和考点。</p><p>注意，这里涉及到的是操纵价格或者操纵市场的行为，你玩外面的证券，反过来影响香港的市场，也是要受到处罚的！</p><p>---操控价格-----如在下列地方进行所述交易，即可能干犯操控价格的行为：</p><p>(a)在香港或其他地方进行（就在认可证券市场或透过认可自动化交易系统买卖的金融工具而言）；或</p><p>(b)在香港进行（就在境外市场买卖的金融工具而言）。</p><p>附注：操控价格仅适用于在交易所或透过认可自动化交易服务进行的交易。</p><p>--操纵证券市场-----如在下列地方进行所述交易，即可能干犯操纵证券市场的行为：</p><p>(a)在香港或其他地方进行（就在认可证券市场或透过认可自动化交易服务买卖的证券而言）；或</p><p>(b)在香港进行（就在境外市场买卖的证券而言）。</p>",
+      "cht_analysis": "<p>山海老師YZDFXMWLKJ提醒考生關注這個題目和考點。</p><p>注意，這裡涉及的是操縱價格或者操縱市場的行為，你玩外面的證券，反過來影響香港的市場，也是要受到處罰的！</p><p>---操控價格-----如在下列地方進行所述交易，即可能干犯操控價格的行為：</p><p>(a)在香港或其他地方進行（就在認可證券市場或透過認可自動化交易系統買賣的金融工具而言）；或</p><p>(b)在香港進行（就在境外市場買賣的金融工具而言）。</p><p>附註：操控價格僅適用於在交易所或透過認可自動化交易服務進行的交易。</p><p>--操縱證券市場-----如在下列地方進行所述交易，即可能干犯操縱證券市場的行為：</p><p>(a)在香港或其他地方進行（就在認可證券市場或透過認可自動化交易服務買賣的證券而言）；或</p><p>(b)在香港進行（就在境外市場買賣的證券而言）。</p>",
+      "en_analysis": "<p>Teacher Shan Hai YZDFXMWLKJ reminds candidates to pay attention to this question and key point.</p><p>Note, this involves price manipulation or market manipulation activities. If you trade securities outside, which in turn affects the Hong Kong market, you may also be subject to penalties!</p><p>---Price Manipulation----- Engaging in the following transactions may constitute price manipulation:</p><p>(a) Conducted in Hong Kong or elsewhere (in relation to financial instruments traded on a recognized securities market or through a recognized automated trading system); or</p><p>(b) Conducted in Hong Kong (in relation to financial instruments traded on an overseas market).</p><p>Note: Price manipulation only applies to transactions conducted on an exchange or through recognized automated trading services.</p><p>--Securities Market Manipulation----- Engaging in the following transactions may constitute securities market manipulation:</p><p>(a) Conducted in Hong Kong or elsewhere (in relation to securities traded on a recognized securities market or through recognized automated trading services); or</p><p>(b) Conducted in Hong Kong (in relation to securities traded on an overseas market)</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第9章",
+      "chapter_id": 32
+    },
+    {
+      "question_id": 1358,
+      "content": "<p>HJ公司计划通过一项自愿性全面收购要约收购XM公司的全部股份。关于这项要约，下列哪些陈述是正确的？</p><p>I. 在提出要约之前的一段时间内，HJ公司并未通过任何股份交易取得或巩固对XM公司的控制权。</p><p>II. 要约价格不得低于HJ公司在要约期间或要约期间开始前六个月内支付的最高价格。</p><p>III. 要约通常不需要提供现金替代方案。</p><p>IV. HJ公司必须确保其拥有足够的资源来履行其在要约下的义务。</p>",
+      "cht_content": "<p>HJ公司計劃透過一項自願性全面收購要約收購XM公司的全部股份。關於這項要約，下列哪些陳述是正確的？</p><p>I. 在提出要約之前的一段時間內，HJ公司並未透過任何股份交易取得或鞏固對XM公司的控制權。</p><p>II. 要約價格不得低於HJ公司在要約期間或要約期間開始前六個月內支付的最高價格。</p><p>III. 要約通常不需要提供現金替代方案。</p><p>IV. HJ公司必須確保其擁有足夠的資源來履行其在要約下的義務。</p>",
+      "en_content": "<p>HJ Company plans to acquire all shares of XM Company through a voluntary general offer. Regarding this offer, which of the following statements are correct?</p><p>I. During a period prior to the submission of the offer, HJ Company did not acquire or consolidate control over XM Company through any share transactions.</p><p>II. The offer price must not be lower than the highest price paid by HJ Company during the offer period or within six months before the commencement of the offer period.</p><p>III. The offer generally does not require the provision of a cash alternative.</p><p>IV. HJ Company must ensure that it possesses sufficient resources to fulfill its obligations under the offer</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I和III  "
+        },
+        {
+          "key": "B",
+          "value": "只有II和IV  "
+        },
+        {
+          "key": "C",
+          "value": "I、II、III和IV"
+        },
+        {
+          "key": "D",
+          "value": "只有I、III和IV  "
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>山'.老师提示，本题蛮重要的。让我们分析每个陈述：</p><p>I. 根据香港《收购守则》，该陈述通常是正确的。自愿性全面收购要约要求要约人证明，在提出要约之前，他们没有通过其他股份交易取得或巩固对目标公司（此处为XM公司）的控制权。这可以防止规避规则并确保所有股东的公平性。</p><p>II. 该陈述不正确的。根据教材，自愿要约的价格不得低于要约人或任何与要约人一致行动的人士在要约期内或要约期开始前3个月内已支付的最高价格。但山海老师对教材这一表述不敢苟同，但考试而言，就按照书上的数字来回答吧。</p><p>III. 该陈述通常是正确的。虽然现金是常见的要约对价，但《收购守则》并未强制规定。根据具体情况，要约可以包含其他形式的对价。</p><p>IV. 这至关重要且正确。证监会和《收购守则》都强调要约人有责任确保其有能力履行要约的条款和条件。这可以防止在没有足够资源完成收购的情况下提出要约的情况。</p>",
+      "cht_analysis": "<p>\".山'老師提示，本題蠻重要的。讓我們分析每個陳述：</p><p>I. 根據香港《收購守則》，該陳述通常是正確的。自願性全面收購要約要求要約人證明，在提出要約之前，他們沒有通過其他股份交易取得或鞏固對目標公司（此處為XM公司）的控制權。這可以防止規避規則並確保所有股東的公平性。</p><p>II. 該陳述不正確。根據教材，自願要約的價格不得低於要約人或任何與要約人一致行動的人士在要約期內或要約期開始前3個月內已支付的最高價格。但山海老師對教材這一表述不敢苟同，但考試而言，就按照書上的數字來回答吧。</p><p>III. 該陳述通常是正確的。雖然現金是常見的要約對價，但《收購守則》並未強制規定。根據具體情況，要約可以包含其他形式的對價。</p><p>IV. 這至關重要且正確。證監會和《收購守則》都強調要約人有責任確保其有能力履行要約的條款和條件。這可以防止在沒有足夠資源完成收購的情況下提出要約的情況。  .\"</p>",
+      "en_analysis": "<p>Teacher 'Shan' reminds that this question is quite important. Let's analyse each statement:</p><p>I. According to the Hong Kong Takeovers Code, this statement is generally correct. A voluntary general offer requires the offeror to demonstrate that they have not acquired or consolidated control over the target company (here, XM Company) through other share transactions before making the offer. This prevents circumvention of the rules and ensures fairness for all shareholders.</p><p>II. This statement is incorrect. According to the textbook, the price of a voluntary offer must not be lower than the highest price paid by the offeror or any person acting in concert with the offeror during the offer period or within three months before the start of the offer period. However, Teacher Shan Hai does not fully agree with this textbook statement, but for examination purposes, follow the number given in the book.</p><p>III. This statement is generally correct. Although cash is a common form of consideration for offers, the Takeovers Code does not mandate it. Depending on the circumstances, an offer may include other forms of consideration.</p><p>IV. This is crucial and correct. Both the Securities and Futures Commission and the Takeovers Code emphasise the offeror's responsibility to ensure they have the capability to fulfil the terms and conditions of the offer. This prevents situations where offers are made without sufficient resources to complete the acquisition</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第8章",
+      "chapter_id": 31
+    },
+    {
+      "question_id": 1029,
+      "content": "<p>DF公司为香港一间证券公司，获得证监会授权开展第1类受规管业务。</p><p>李先生为该公司的合规主任，正在审阅、修改、完善该公司的尽职调查政策。</p><p>他应重点关注哪些因素，以识别较高风险类别的客户、业务关系或交易？</p><p>I. 服务本身提供较多机会以匿名行事；</p><p>II. 采用非面对面方式的开户方法；</p><p>III. 客户来自洗钱高风险的国家及地区；</p><p>IV. 现金密集型业务。</p>",
+      "cht_content": "<p>DF公司為香港一間證券公司，獲證監會授權開展第1類受規管業務。</p><p>李先生為該公司的合規主任，正在審閱、修改、完善該公司的盡職調查政策。</p><p>他應重點關注哪些因素，以識別較高風險類別的客戶、業務關係或交易？</p><p>I. 服務本身提供較多機會以匿名行事；</p><p>II. 採用非面對面方式的開戶方法；</p><p>III. 客戶來自洗錢高風險的國家及地區；</p><p>IV. 現金密集型業務。</p>",
+      "en_content": "<p>DF Company is a securities firm in Hong Kong, authorized by the Securities and Futures Commission to carry out Type 1 regulated activities.</p><p>Mr. Lee, the compliance officer of the company, is currently reviewing, revising, and enhancing the company's due diligence policy.</p><p>Which factors should he focus on to identify higher-risk categories of clients, business relationships, or transactions?</p><p>I. The service itself provides more opportunities for anonymity;</p><p>II. The use of non-face-to-face account opening methods;</p><p>III. Clients from countries and regions with high money laundering risks;</p><p>IV. Cash-intensive businesses</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>全部都要重点关注。</p><p>在厘定客户的风险概况时，应考虑以下因素：</p><p>(a)产品／服务的风险</p><p>服务本身提供较多机会以匿名行事。</p><p>(b)交付╱分销渠道的风险</p><p>经网上、邮寄及电话销售渠道销售，包括采用非面对面方式的开户方法。</p><p>(c)客户风险</p><p>(i) 客户的背景或状况（例如政治人物）；</p><p>(ii)拥有权结构在无合理理由的情况下不恰当地复杂；</p><p>(iii)产生资金╱资产的客户业务的性质、范畴及地点（考虑敏感或高风险活动）；及</p><p>(iv)付款方式及种类（例如现金密集型业务）。</p><p>(d)国家风险</p><p>客户的国籍、公民身份及居民身份（如属公司客户，则注册成立地）及其业务的成立地点，例如被财务行动特别组织识别为打击洗钱制度严重不足的不合作国家及地区。</p>",
+      "cht_analysis": "<p>全部都要重點關注。</p><p>在釐定客戶的風險概況時，應考慮以下因素：</p><p>(a)產品／服務的風險</p><p>服務本身提供較多機會以匿名行事。</p><p>(b)交付╱分銷渠道的風險</p><p>經網上、郵寄及電話銷售渠道銷售，包括採用非面對面方式的開戶方法。</p><p>(c)客戶風險</p><p>(i) 客戶的背景或狀況（例如政治人物）；</p><p>(ii)擁有權結構在無合理理由的情況下不恰當地複雜；</p><p>(iii)產生資金╱資產的客戶業務的性質、範疇及地點（考慮敏感或高風險活動）；及</p><p>(iv)付款方式及種類（例如現金密集型業務）。</p><p>(d)國家風險</p><p>客戶的國籍、公民身份及居民身份（如屬公司客戶，則註冊成立地）及其業務的成立地點，例如被財務行動特別組織識別為打擊洗錢制度嚴重不足的不合作國家及地區。</p>",
+      "en_analysis": "<p>All require focused attention.</p><p>When determining a customer's risk profile, the following factors should be considered:</p><p>(a) Risk of the product/service  </p><p>The service itself provides more opportunities for anonymous actions.</p><p>(b) Risk of delivery/distribution channels  </p><p>Sales through online, postal, and telephone channels, including account opening methods that adopt non-face-to-face approaches.</p><p>(c) Customer risk  </p><p>(i) The background or status of the customer (e.g., politically exposed persons);  </p><p>(ii) Inappropriately complex ownership structures without reasonable justification;  </p><p>(iii) The nature, scope, and location of the customer's business generating funds/assets (considering sensitive or high-risk activities); and  </p><p>(iv) Payment methods and types (e.g., cash-intensive businesses).</p><p>(d) Country risk  </p><p>The customer's nationality, citizenship, and residency (for corporate customers, the place of incorporation) and the location of their business establishment, such as jurisdictions identified by the Financial Action Task Force as non-cooperative countries and territories with significant deficiencies in their anti-money laundering systems</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第6章",
+      "chapter_id": 29
+    },
+    {
+      "question_id": 1364,
+      "content": "<p>WL公司为一间大型航运公司，该公司计划于联交所主板上市。</p><p>根据《上市规则》，该公司计划采用“盈利测试”核实其上市的合适性。</p><p>以下关于该项测试的表述，哪一个是正确的？</p>",
+      "cht_content": "<p>WL公司為一間大型航運公司，該公司計劃於聯交所主板上市。</p><p>根據《上市規則》，該公司計劃採用「盈利測試」核實其上市的合適性。</p><p>以下關於該項測試的表述，哪一個是正確的？</p>",
+      "en_content": "<p>WL Company is a large shipping company planning to list on the Main Board of the Stock Exchange.</p><p>According to the Listing Rules, the company intends to adopt the 'Profit Test' to verify its suitability for listing.</p><p>Which of the following statements regarding this test is correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "上市后公众持股比例不得少于已发行股份的50%"
+        },
+        {
+          "key": "B",
+          "value": "新发行人必须具备至少2个会计年度的营业记录"
+        },
+        {
+          "key": "C",
+          "value": "新发行人最近1年的股东应占盈利不变的少于3,500万元，及其前两年累计的股东应占盈利合计亦不得低于4,500万港元。"
+        },
+        {
+          "key": "D",
+          "value": "新发行上市时须至少有100名股东"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>对于A，上市后公众持股比例至少是已发行股份的25%，特别大型企业是大于15%； B： 应该具备3个会计年度的营业记录； D： 新发上市至少要有300名股东。</p><p>主板盈利测试—最近一年的股东应占盈利不得低于3,500万港元，及其前两年累计的股东应占盈利合计亦不得低于4,500万港元。</p>",
+      "cht_analysis": "<p>對於A，上市後公眾持股比例至少是已發行股份的25%，特別大型企業是大於15%； B： 應該具備3個會計年度的營業記錄； D： 新發上市至少要有300名股東。</p><p>主板盈利測試—最近一年的股東應佔盈利不得低於3,500萬港元，及其前兩年累計的股東應佔盈利合計亦不得低於4,500萬港元。</p>",
+      "en_analysis": "<p>For A, the minimum public float post-listing must be at least 25% of the issued shares, with a requirement of over 15% for exceptionally large enterprises; B: A trading record of three financial years should be maintained; D: There must be at least 300 shareholders for a new listing.</p><p>Main Board Profit Test—The profit attributable to shareholders in the most recent year must not be less than HK$35 million, and the aggregate profit attributable to shareholders for the preceding two years must also not be less than HK$45 million</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第8章",
+      "chapter_id": 31
+    },
+    {
+      "question_id": 876,
+      "content": "<p>根据《证券及期货（专业投资者）规则》，下列哪一类实体不属于专业投资者（PI）的分类？</p>",
+      "cht_content": "<p>根據《證券及期貨（專業投資者）規則》，以下哪一類實體不屬於專業投資者（PI）的分類？</p>",
+      "en_content": "<p>According to the Securities and Futures (Professional Investors) Rules, which of the following types of entities is not classified as a Professional Investor (PI)?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "机构专业投资者  "
+        },
+        {
+          "key": "B",
+          "value": "法团专业投资者"
+        },
+        {
+          "key": "C",
+          "value": "个人专业投资者"
+        },
+        {
+          "key": "D",
+          "value": "信托专业投资者"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>山海老师解释：《证券及期货（专业投资者）规则》定义了专业投资者的几类。我们来分析一下每个选项：</p><p>A. 机构专业投资者：这包括共同基金、对冲基金和其他大型金融机构。由于它们拥有精湛的金融知识和大量的管理资产，因此它们显然符合专业投资者的标准。这是规则下的正确分类。</p><p>B. 公司专业投资者：符合特定财务门槛，并展现出精湛的投资知识和经验的公司，有资格被归类为专业投资者。这也是一个有效的类别。</p><p>C. 个人专业投资者：符合规定的资产和经验标准的高净值个人也被视为专业投资者。规则概述了个人获得资格的具体要求。</p><p>D. 信托专业投资者：虽然信托可以是复杂的投资者，但根据规则，它们并非自动被归类为专业投资者。信托作为专业投资者的地位取决于信托本身或代表其行事的受托人是否符合规章中规定的具体标准。信托本身并非天生就是专业投资者；其资格完全取决于是否符合证监会设定的具体要求。因此，这是正确的答案。它们并非规则下指定的专业投资者类别。</p>",
+      "cht_analysis": "<p>山海老師解釋：《證券及期貨（專業投資者）規則》定義了幾類專業投資者。我們來分析一下每個選項：</p><p>A. 機構專業投資者：這包括共同基金、對沖基金及其他大型金融機構。由於它們擁有精湛的金融知識及龐大的管理資產，因此顯然符合專業投資者的標準。這是規則下的正確分類。</p><p>B. 公司專業投資者：符合特定財務門檻，並展現出精湛的投資知識和經驗的公司，有資格被歸類為專業投資者。這也是一個有效的類別。</p><p>C. 個人專業投資者：符合規定的資產和經驗標準的高淨值個人亦被視為專業投資者。規則概述了個人獲得資格的具體要求。</p><p>D. 信託專業投資者：雖然信託可以是複雜的投資者，但根據規則，它們並非自動被歸類為專業投資者。信託作為專業投資者的地位取決於信託本身或代表其行事的受託人是否符合規章中規定的具體標準。信託本身並非天生就是專業投資者；其資格完全取決於是否符合證監會設定的具體要求。因此，這是正確的答案。它們並非規則下指定的專業投資者類別。</p>",
+      "en_analysis": "<p>Teacher Shanhai explains: The Securities and Futures (Professional Investors) Rules define several categories of professional investors. Let’s analyze each option:</p><p>A. Institutional Professional Investors: These include mutual funds, hedge funds, and other large financial institutions. Given their sophisticated financial knowledge and substantial assets under management, they clearly meet the criteria for professional investors. This is a correct classification under the rules.</p><p>B. Corporate Professional Investors: Companies that meet specific financial thresholds and demonstrate advanced investment knowledge and experience are eligible to be classified as professional investors. This is also a valid category.</p><p>C. Individual Professional Investors: High-net-worth individuals who meet the prescribed asset and experience criteria are also considered professional investors. The rules outline specific requirements for individuals to qualify.</p><p>D. Trust Professional Investors: Although trusts can be complex investors, under the rules, they are not automatically classified as professional investors. The status of a trust as a professional investor depends on whether the trust itself or the trustee acting on its behalf meets the specific criteria set out in the regulations. Trusts are not inherently professional investors; their eligibility entirely depends on compliance with the specific requirements set by the Securities and Futures Commission. Therefore, this is the correct answer. They are not a designated category of professional investors under the rules</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第5章",
+      "chapter_id": 28
+    },
+    {
+      "question_id": 383,
+      "content": "<p>根据证监会的相关要求，申请成为持牌代表的条件包括以下哪些？</p><p>I. 有关人士的学历或其他资历或经验须满足条件；</p><p>II. 通过胜任能力测试；</p><p>III. 年满21岁；</p><p>IV. 有关人士的信誉、品格、可靠程度及在财政方面的稳健性。</p>",
+      "cht_content": "<p>根據證監會的相關要求，申請成為持牌代表的條件包括以下哪些？</p><p>I. 有關人士的學歷或其他資歷或經驗須符合條件；</p><p>II. 通過勝任能力測試；</p><p>III. 年滿21歲；</p><p>IV. 有關人士的信譽、品格、可靠程度及在財政方面的穩健性。</p>",
+      "en_content": "<p>According to the relevant requirements of the Securities and Futures Commission, which of the following conditions must be met to apply for becoming a licensed representative?</p><p>I. The person's academic qualifications, other qualifications, or experience must meet the requirements;</p><p>II. Passing the competency assessment;</p><p>III. Being at least 21 years old;</p><p>IV. The person's reputation, character, reliability, and financial stability</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "B",
+          "value": "只有I，III，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>III明显是不对的，应该是18岁。对于I，SFC网站上看到相关的解释基本上要求中学合格即可，所以这里的说法欠妥，作为选择题，还是选A。</p><p>申请发牌或注册的公司（包括其高级人员，例如董事、经理等）及个人申请人须符合《适当人选的指引》内列明的适当人选要求。该等要求涉及以下各方面：</p><p>(a)有关人士的财政状况或偿付能力；</p><p>(b)有关人士的学历或其他资历或经验，而在这方面的考虑会顾及该人将会执行的职能的性质；</p><p>(c)有关人士是否有能力称职地、诚实地且公正地进行有关受规管活动；及</p><p>(d)有关人士的信誉、品格、可靠程度及在财政方面的稳健性。</p><p>这些要求持续适用于各申请人、持牌及注册人士。金管局将监察认可财务机构及其主管人员及雇员是否符合这些要求，证监会则监察其他人士是否符合这些要求。</p>",
+      "cht_analysis": "<p>III明顯是不對的，應該是18歲。對於I，證監會網站上看到的相關解釋基本上要求中學合格即可，所以這裡的說法欠妥，作為選擇題，還是選A。</p><p>申請發牌或註冊的公司（包括其高級人員，例如董事、經理等）及個人申請人須符合《適當人選的指引》內列明的適當人選要求。該等要求涉及以下各方面：</p><p>(a)有關人士的財政狀況或償付能力；</p><p>(b)有關人士的學歷或其他資歷或經驗，而在這方面的考慮會顧及該人將會執行的職能的性質；</p><p>(c)有關人士是否有能力稱職地、誠實地且公正地進行有關受規管活動；及</p><p>(d)有關人士的信譽、品格、可靠程度及在財政方面的穩健性。</p><p>這些要求持續適用於各申請人、持牌及註冊人士。金管局將監察認可財務機構及其主管人員及僱員是否符合這些要求，證監會則監察其他人士是否符合這些要求。</p>",
+      "en_analysis": "<p>III is clearly incorrect; it should be 18 years old. For I, the relevant explanation on the SFC website generally requires secondary school qualification as sufficient, so the statement here is somewhat inappropriate. As a multiple-choice question, the answer should still be A.</p><p>Companies applying for licensing or registration (including their senior personnel, such as directors, managers, etc.) and individual applicants must meet the fit and proper requirements as set out in the 'Guideline on Fit and Proper Criteria'. These requirements cover the following aspects:</p><p>(a) the financial status or solvency of the person concerned;</p><p>(b) the educational background, other qualifications, or experience of the person concerned, taking into account the nature of the functions the person will perform;</p><p>(c) the person’s ability to competently, honestly, and fairly carry out the relevant regulated activities; and</p><p>(d) the reputation, character, reliability, and financial soundness of the person concerned.</p><p>These requirements continue to apply to all applicants, licensed and registered persons. The HKMA will monitor whether authorized financial institutions and their senior personnel and employees comply with these requirements, while the SFC will monitor compliance for other individuals</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 27
+    },
+    {
+      "question_id": 1724,
+      "content": "<p>王先生和马女士因为他们的合同中的条款过于模糊，没有明确双方的权利、责任和意图，导致在执行过程中出现了合同争议。这一问题应该如何得到妥善解决？</p>",
+      "cht_content": "<p>王先生和馬女士因為他們的合同中的條款過於模糊，沒有明確雙方的權利、責任和意圖，導致在執行過程中出現了合同爭議。這一問題應該如何得到妥善解決？</p>",
+      "en_content": "<p>Mr. Wong and Ms. Ma encountered a contractual dispute during the execution of their agreement due to the overly vague terms in their contract, which failed to clearly define the rights, responsibilities, and intentions of both parties. How should this issue be properly resolved?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "争议应该由法院法官根据普通法的原则来解决。"
+        },
+        {
+          "key": "B",
+          "value": "模糊性应该由法院法官通过衡平法的调整来纠正。"
+        },
+        {
+          "key": "C",
+          "value": "争议必须由法院法官依据成文法来裁决。"
+        },
+        {
+          "key": "D",
+          "value": "此事应通过仲裁程序来解决。"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p><span>在合同法的背景下，当合同的条款含糊并导致争议时，法院可以使用衡平法的原则来解决问题。衡平法提供了补救措施，即在严格适用法律会导致不公正结果的地方。在这个案例中，法院法官可能会澄清合同的条款，纠正任何模糊之处，以确保双方的公平和正义。仲裁是解决争议的有效方法，但并不是唯一的方法，并且在本场景中并不特别指明为正确的方法。因此，最合适的行动将是法院介入并通过衡平法的调整来纠正模糊之处。</span></p>",
+      "cht_analysis": "<p><span>在合約法的背景下，當合約條款含糊並導致爭議時，法院可運用衡平原則解決問題。衡平法提供補救措施，即在嚴格適用法律會導致不公正結果的情況下。在此案例中，法院法官或會釐清合約條款，修正任何模糊之處，以確保雙方的公平與正義。仲裁雖是解決爭議的有效方式，但並非唯一方法，且在此情境中並未特別指明為正確選項。因此，最適切的做法將是法院介入，並透過衡平法的調整來修正模糊之處。</span></p>",
+      "en_analysis": "<p><span>In the context of contract law, when the terms of a contract are ambiguous and lead to a dispute, the court may apply equitable principles to resolve the issue. Equity provides remedies where the strict application of the law would result in an unjust outcome. In this case, the court judge may clarify the contract terms and rectify any ambiguities to ensure fairness and justice for both parties. Arbitration is an effective method for dispute resolution, but it is not the only approach and is not specifically indicated as the correct method in this scenario. Therefore, the most appropriate course of action would be for the court to intervene and rectify the ambiguities through equitable adjustments.</span></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 25
+    },
+    {
+      "question_id": 498,
+      "content": "<p>李先生是某持牌法团的大客户，净资产超逾6亿港币。</p><p>他看好YZ法团的前景，YZ法团为联交所一间上市公司，主营为流感疫苗的研发及销售。</p><p>他最近3个月内，逐步的增持了YZ法团的股份。</p><p>根据《证券及期货条例》，李先生的持股量超过YZ公司已发行股份多少比例时，必须披露其股份权益？</p>",
+      "cht_content": "<p>李先生是某持牌法團的大客戶，淨資產超過6億港幣。</p><p>他看好YZ法團的前景，YZ法團為聯交所一間上市公司，主營業務為流感疫苗的研發及銷售。</p><p>他最近3個月內，逐步增持了YZ法團的股份。</p><p>根據《證券及期貨條例》，李先生的持股量超過YZ公司已發行股份多少比例時，必須披露其股份權益？</p>",
+      "en_content": "<p>Mr. Lee is a major client of a licensed corporation, with a net worth exceeding HKD 600 million.</p><p>He is optimistic about the prospects of YZ Corporation, which is a listed company on the Stock Exchange of Hong Kong, primarily engaged in the research, development, and sales of influenza vaccines.</p><p>Over the past three months, he has gradually increased his holdings in YZ Corporation.</p><p>According to the Securities and Futures Ordinance, at what percentage of YZ Corporation's issued shares must Mr. Lee disclose his shareholding interest?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "50%"
+        },
+        {
+          "key": "B",
+          "value": "30%"
+        },
+        {
+          "key": "C",
+          "value": "10%"
+        },
+        {
+          "key": "D",
+          "value": "5%"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>披露上市公司的有关股本权益时，须遵守两项基本规则︰</p><p>(a)董事及最高行政人员须披露所有权益；</p><p>(b)其他人士亦须履行披露责任，一旦其持有该公司有关股本的权益达5%时，便须作出披露。</p>",
+      "cht_analysis": "<p>披露上市公司的有關股本權益時，須遵守兩項基本規則︰</p><p>(a)董事及最高行政人員須披露所有權益；</p><p>(b)其他人士亦須履行披露責任，一旦其持有該公司有關股本的權益達5%時，便須作出披露。</p>",
+      "en_analysis": "<p>There are two fundamental rules to be observed when disclosing interests in the share capital of a listed company:</p><p>(a) Directors and the highest-ranking executives must disclose all interests;</p><p>(b) Other individuals are also required to fulfill disclosure obligations once their interests in the relevant share capital of the company reach 5%</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 27
+    },
+    {
+      "question_id": 930,
+      "content": "<p>根据《企业融资顾问操守准则》，企业融资顾问为客户行事时须：</p><p>I.合理地尽一切努力确保客户明白相关的规例；</p><p>Ⅱ.确保向客户充分披露所有相关及重要的资料；</p><p>Ⅲ.在接获要求时，就其向客户履行的职责作出全面及中肯的交待；</p><p>Ⅳ.向客户提供全面的资料，使客户可以有根据地作出决定。</p>",
+      "cht_content": "<p>根據《企業融資顧問操守準則》，企業融資顧問為客戶行事時須：</p><p>I. 合理地盡一切努力確保客戶明白相關的規例；</p><p>II. 確保向客戶充分披露所有相關及重要的資料；</p><p>III. 在接獲要求時，就其向客戶履行的職責作出全面及中肯的交待；</p><p>IV. 向客戶提供全面的資料，使客戶可以有根據地作出決定。</p>",
+      "en_content": "<p>According to the Code of Conduct for Corporate Finance Advisors, when acting for clients, corporate finance advisors must:</p><p>I. Make reasonable efforts to ensure that clients understand the relevant regulations;</p><p>II. Ensure full disclosure of all relevant and material information to clients;</p><p>III. Provide a comprehensive and impartial account of the duties performed for clients upon request;</p><p>IV. Furnish clients with complete information to enable them to make informed decisions</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有Ⅰ、Ⅱ及Ⅳ"
+        },
+        {
+          "key": "B",
+          "value": "只有Ⅲ及Ⅳ"
+        },
+        {
+          "key": "C",
+          "value": "I、Ⅱ、Ⅲ及Ⅳ"
+        },
+        {
+          "key": "D",
+          "value": "只有Ⅰ及Ⅱ"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>对客户的责任</p><p>企业融资顾问于任何时间应以客户的最佳利益为依归而行事，并应了解客户的业务，尤其应取得有关客户的相关资料。</p><p>企业融资顾问应合理地尽一切努力，确保其客户明白相关的监管规定，并要求客户向监管机构报告任何不合规的事项。如客户在缺乏确实理由的情况下拒绝这样做，则企业融资顾问应考虑是否需要请辞。企业融资顾问若被监管机构问及是否有人可能已违反有关的规例时，应与监管机构合作。[山*海.老.师!]</p><p>企业融资顾问在为客户行事时，应：</p><p>(a) 确保所有对客户作出的陈述及提供予客户的数据是准确及没有误导成份；</p><p>(b) 全面和及时地向客户提供数据（包括就三大守则提供意见），使客户可以作出有根据的决定；</p><p>(c) 在接获要求时，就其向客户履行的职责作出全面及中肯的交待；</p><p>(d) 就一切有关及重要的资料向客户作出充分披露；及</p><p>(e) 确保客户数据获得保密，包括合理地尽一切努力，确保其他从企业融资顾问收取机密数据的人士将会避免意外地将有关数据外泄。</p>",
+      "cht_analysis": "<p>對客戶的責任</p><p>企業融資顧問於任何時間應以客戶的最佳利益為依歸而行事，並應了解客戶的業務，尤其應取得有關客戶的相關資料。</p><p>企業融資顧問應合理地盡一切努力，確保其客戶明白相關的監管規定，並要求客戶向監管機構報告任何不合規的事項。如客戶在缺乏確實理由的情況下拒絕這樣做，則企業融資顧問應考慮是否需要請辭。企業融資顧問若被監管機構問及是否有人可能已違反有關的規例時，應與監管機構合作。[山*海.老.師!]</p><p>企業融資顧問在為客戶行事時，應：</p><p>(a) 確保所有對客戶作出的陳述及提供予客戶的資料是準確及沒有誤導成份；</p><p>(b) 全面和及時地向客戶提供資料（包括就三大守則提供意見），使客戶可以作出有根據的決定；</p><p>(c) 在接獲要求時，就其向客戶履行的職責作出全面及中肯的交待；</p><p>(d) 就一切有關及重要的資料向客戶作出充分披露；及</p><p>(e) 確保客戶資料獲得保密，包括合理地盡一切努力，確保其他從企業融資顧問收取機密資料的人士將會避免意外地將有關資料外洩。</p>",
+      "en_analysis": "<p>Duties to Clients</p><p>Corporate finance advisers should at all times act in the best interests of their clients and should understand the clients' businesses, in particular by obtaining relevant information about the clients.</p><p>Corporate finance advisers should reasonably make every effort to ensure that their clients understand the relevant regulatory requirements and should request clients to report any non-compliant matters to the regulatory authorities. If a client refuses to do so without valid justification, the corporate finance adviser should consider whether resignation is necessary. Corporate finance advisers should cooperate with regulatory authorities when asked whether any person may have breached the relevant regulations. [Shan*Hai.Lao.Shi!]</p><p>When acting for clients, corporate finance advisers should:</p><p>(a) Ensure that all statements made to clients and information provided to clients are accurate and not misleading;</p><p>(b) Provide information to clients comprehensively and in a timely manner (including advice on the three major codes) to enable clients to make informed decisions;</p><p>(c) Provide a comprehensive and impartial account of the duties performed for clients upon request;</p><p>(d) Make full disclosure to clients on all relevant and important information; and</p><p>(e) Ensure the confidentiality of client information, including reasonably making every effort to ensure that other parties who receive confidential information from the corporate finance adviser will avoid accidental leakage of such information</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第5章",
+      "chapter_id": 28
+    },
+    {
+      "question_id": 999,
+      "content": "<p>DF公司为香港一间资产管理公司，获得证监会授权开展第9类受规管业务。</p><p>李先生为DF公司的持牌代表，他发现某名客户很可能涉嫌洗钱。</p><p>根据香港现行的反洗钱相关法例，李先生应如何处理？</p>",
+      "cht_content": "<p>DF公司為香港一間資產管理公司，獲證監會授權開展第9類受規管業務。</p><p>李先生為DF公司的持牌代表，他發現某名客戶很可能涉嫌洗錢。</p><p>根據香港現行的反洗錢相關法例，李先生應如何處理？</p>",
+      "en_content": "<p>DF Company is a Hong Kong-based asset management firm authorised by the Securities and Futures Commission to conduct Type 9 regulated activities.</p><p>Mr. Lee is a licensed representative of DF Company, and he has discovered that a certain client is highly likely to be involved in money laundering.</p><p>According to the current anti-money laundering laws and regulations in Hong Kong, how should Mr. Lee proceed?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有在确定属实，才可向DF公司获授权人士举报"
+        },
+        {
+          "key": "B",
+          "value": "向DF公司管理层汇报，然后通过洗钱报告主任向联合财富情报组举报"
+        },
+        {
+          "key": "C",
+          "value": "应实时要求该名客户结清户口"
+        },
+        {
+          "key": "D",
+          "value": "应实时冻结涉嫌洗钱的账户"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>怀疑洗钱，则要做好汇报工作，如果属实才可采取冻结户口等行动。</p>",
+      "cht_analysis": "<p>懷疑洗錢，則要做好匯報工作，如果屬實才可採取凍結戶口等行動。</p>",
+      "en_analysis": "<p>If money laundering is suspected, it is necessary to carry out reporting procedures. Only if the suspicion is confirmed can actions such as freezing the account be taken</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第6章",
+      "chapter_id": 29
+    },
+    {
+      "question_id": 1483,
+      "content": "<p>在下列哪些情况下，将会触发强制性全面收购要约？</p><p>I. 一位个人股东所持有的表决权比例从61%增加到64%。</p><p>II. 被认定为“一致行动人”的一组人士共同持有的表决权比例从29.3%增加到31.5%。</p><p>III. 在过去六个月内，一位个人股东所持有的表决权比例从34.6%增加到37.5%。</p><p>IV. 在过去12个月内，被认定为“一致行动人”的一组人士共同持有的表决权比例从51.5%增加到52.3%。</p>",
+      "cht_content": "<p>在下列哪些情況下，將會觸發強制性全面收購要約？</p><p>I. 一位個人股東所持有的表決權比例從61%增加到64%。</p><p>II. 被認定為「一致行動人」的一組人士共同持有的表決權比例從29.3%增加到31.5%。</p><p>III. 在過去六個月內，一位個人股東所持有的表決權比例從34.6%增加到37.5%。</p><p>IV. 在過去12個月內，被認定為「一致行動人」的一組人士共同持有的表決權比例從51.5%增加到52.3%。</p>",
+      "en_content": "<p>In which of the following situations will a mandatory general offer be triggered?</p><p>I. An individual shareholder's voting rights increase from 61% to 64%.</p><p>II. A group of persons deemed as 'persons acting in concert' collectively increase their voting rights from 29.3% to 31.5%.</p><p>III. An individual shareholder's voting rights increase from 34.6% to 37.5% within the past six months.</p><p>IV. A group of persons deemed as 'persons acting in concert' collectively increase their voting rights from 51.5% to 52.3% within the past 12 months</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "仅I和III"
+        },
+        {
+          "key": "B",
+          "value": "仅II和III"
+        },
+        {
+          "key": "C",
+          "value": "仅I、II和III"
+        },
+        {
+          "key": "D",
+          "value": "仅II、III和IV"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>根据《收购守则》，在下列情况下，须作出强制要约：</p><p>1. 任何人不论是否透过在一段期间内的一系列交易而取得一间公司30%或以上的投票权时（见下文附注）；</p><p>2. 两个或以上一致行动而持有一间公司的投票权合共不足30%的人之中，任何一个或以上的人取得投票权，结果令他们合共持有该公司投票权的百分比增至30%或以上时；</p><p>3. 任何持有一间公司不少于30%，但不多于50%投票权的人取得额外的投票权，结果令该人所持该公司的投票权百分比，以截至及包括取得上述投票权当日之前的12个月期间所持投票权的最低百分比计算，增加超过2%时；或</p><p>4. 两个或以上一致行动而合共持有一间公司不少于30%、但不多于50%投票权的人之中，任何一个或以上的人取得额外投票权，结果令他们在该公司合共持有的投票权百分比，以截至及包括取得上述投票权当日之前的12个月期间该等人所持的投票权的最低百分比计算，增加超过2%时；</p><p>附注︰《收购守则》着眼于投票权的控制权，即某人士在并无实际拥有股份或并非登记股东的情况下，是否足以对投票权行使控制权。</p><p>选项I，并没有触发强制性要约，因为已经超过了50%，控制权已经不会变成其他股东，因此，不会要求该人士再去做强制要约。</p><p>选项II，是会触发强制要约的，从29.3%增加到31.5%，符合上述触发条件。</p><p>选项III，是会触发强制要约的，符合在指定区间，12个月期间内，增持超过2%的情况。</p><p>选项IV，不会触发强制要约，50%以上的股权已经取得，后面再增持，股东的控股地位不会丢掉，因此不会要求该股东发出强制要约。</p><p>因此，正确的是选项II和III，正确答案是B。</p>",
+      "cht_analysis": "<p>根據《收購守則》，在下列情況下，須作出強制要約：</p><p>1. 任何人不論是否透過在一段期間內的一系列交易而取得一間公司30%或以上的投票權時（見下文附註）；</p><p>2. 兩個或以上一致行動而持有一間公司的投票權合共不足30%的人之中，任何一個或以上的人取得投票權，結果令他們合共持有該公司投票權的百分比增至30%或以上時；</p><p>3. 任何持有一間公司不少於30%，但不多於50%投票權的人取得額外的投票權，結果令該人所持該公司的投票權百分比，以截至及包括取得上述投票權當日之前的12個月期間所持投票權的最低百分比計算，增加超過2%時；或</p><p>4. 兩個或以上一致行動而合共持有一間公司不少於30%、但不多於50%投票權的人之中，任何一個或以上的人取得額外投票權，結果令他們在該公司合共持有的投票權百分比，以截至及包括取得上述投票權當日之前的12個月期間該等人所持的投票權的最低百分比計算，增加超過2%時；</p><p>附註︰《收購守則》著眼於投票權的控制權，即某人士在並無實際擁有股份或並非登記股東的情況下，是否足以對投票權行使控制權。</p><p>選項I，並無觸發強制性要約，因為已經超過50%，控制權已經不會轉至其他股東，因此，不會要求該人士再去做強制要約。</p><p>選項II，是會觸發強制要約的，從29.3%增加到31.5%，符合上述觸發條件。</p><p>選項III，是會觸發強制要約的，符合在指定區間，12個月期間內，增持超過2%的情況。</p><p>選項IV，不會觸發強制要約，50%以上的股權已經取得，後面再增持，股東的控股地位不會丟掉，因此不會要求該股東發出強制要約。</p><p>因此，正確的是選項II和III，正確答案是B。</p>",
+      "en_analysis": "<p>According to the Takeovers Code, a mandatory offer must be made under the following circumstances:</p><p>1. When a person, whether through a series of transactions over a period of time or otherwise, acquires 30% or more of the voting rights of a company (see note below);</p><p>2. When two or more persons acting in concert, who collectively hold less than 30% of the voting rights of a company, acquire additional voting rights, resulting in their collective holding reaching 30% or more;</p><p>3. When a person holding not less than 30% but not more than 50% of the voting rights of a company acquires additional voting rights, resulting in an increase of more than 2% in their percentage of voting rights, calculated based on the lowest percentage held during the 12-month period up to and including the date of acquisition; or</p><p>4. When two or more persons acting in concert, who collectively hold not less than 30% but not more than 50% of the voting rights of a company, acquire additional voting rights, resulting in an increase of more than 2% in their collective percentage of voting rights, calculated based on the lowest percentage held by them during the 12-month period up to and including the date of acquisition.</p><p>Note: The Takeovers Code focuses on the control of voting rights, i.e., whether a person is able to exercise control over voting rights without actually owning the shares or being the registered shareholder.</p><p>Option I does not trigger a mandatory offer because the holding already exceeds 50%, and control will not shift to other shareholders. Therefore, the person is not required to make a mandatory offer.</p><p>Option II triggers a mandatory offer, as the increase from 29.3% to 31.5% meets the above triggering condition.</p><p>Option III triggers a mandatory offer, as it satisfies the condition of increasing the holding by more than 2% within the specified 12-month period.</p><p>Option IV does not trigger a mandatory offer, as the shareholder already holds more than 50% of the equity. Further acquisitions will not result in the loss of the shareholder's controlling position, so the shareholder is not required to issue a mandatory offer.</p><p>Therefore, the correct options are II and III, and the correct answer is B</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第8章",
+      "chapter_id": 31
+    },
+    {
+      "question_id": 328,
+      "content": "<p>ABC法团是香港一家大型证券公司，最近正在接受证监会委任的调查员的调查，李先生是涉事人之一，他是持有1号牌照的代表，请问就调查员的调查，他须如何配合方显恰当？</p><p>I. 须交出文件及作出解释；</p><p>II. 以一切合理方式协助调查员；</p><p>III. 用法定声明支持其证据；</p><p>IV. 如不能交出证据，则以法定声明核实不能提供证据的理由。</p>",
+      "cht_content": "<p>ABC法團是香港一家大型證券公司，最近正在接受證監會委任的調查員的調查，李先生是涉事人之一，他是持有1號牌照的代表，請問就調查員的調查，他須如何配合方顯恰當？</p><p>I. 須交出文件及作出解釋；</p><p>II. 以一切合理方式協助調查員；</p><p>III. 用法定聲明支持其證據；</p><p>IV. 如不能交出證據，則以法定聲明核實不能提供證據的理由。</p>",
+      "en_content": "<p>ABC Corporation is a large securities company in Hong Kong and is currently under investigation by an inspector appointed by the Securities and Futures Commission. Mr. Lee is one of the individuals involved in the matter and holds a Type 1 license. In relation to the inspector's investigation, how should he appropriately cooperate?</p><p>I. He must produce documents and provide explanations;</p><p>II. He must assist the inspector by all reasonable means;</p><p>III. He must support his evidence with a statutory declaration;</p><p>IV. If he is unable to produce evidence, he must verify the reasons for being unable to provide it with a statutory declaration</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>证监会可授权某雇员（或获财政司司长同意的其他人）进行调查。该获授权人可对任何人士进行调查。受调查人须：</p><p>(a)提供文件及解释；</p><p>(b)面见该调查员并回答问题；</p><p>(c)向该调查员提供一切合理的协助；</p><p>(d)藉法定声明支持其证据；及</p><p>(e)如不能提供证据，则就他因所陈述的理由而不能提供证据作出法定声明。</p>",
+      "cht_analysis": "<p>證監會可授權某僱員（或獲財政司司長同意的其他人）進行調查。該獲授權人可對任何人士進行調查。受調查人須：</p><p>(a) 提供文件及解釋；</p><p>(b) 面見該調查員並回答問題；</p><p>(c) 向該調查員提供一切合理的協助；</p><p>(d) 藉法定聲明支持其證據；及</p><p>(e) 如不能提供證據，則就他因所陳述的理由而不能提供證據作出法定聲明。</p>",
+      "en_analysis": "<p>The Securities and Futures Commission may authorize an employee (or another person with the consent of the Financial Secretary) to conduct an investigation. The authorized person may investigate any individual. The person under investigation must:</p><p>(a) Provide documents and explanations;</p><p>(b) Meet with the investigator and answer questions;</p><p>(c) Provide all reasonable assistance to the investigator;</p><p>(d) Support their evidence by a statutory declaration; and</p><p>(e) If unable to provide evidence, make a statutory declaration stating the reasons for their inability to do so</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 26
+    },
+    {
+      "question_id": 613,
+      "content": "<p>林太太是ABC中介人的持牌代表，主要做证券经纪业务，因工作疏忽导致其牌照过期，不是适当人选，亦能及时参加培训和年费，请问她可能面临证监会哪些处罚（如果有)?</p><p>I. 罚款；</p><p>II. 谴责；</p><p>III. 吊销牌照；</p><p>IV. 暂时挂着她，继续开展工作。</p>",
+      "cht_content": "<p>林太太是ABC中介人的持牌代表，主要從事證券經紀業務，因工作疏忽導致其牌照過期，不屬適當人選，亦未能及時參加培訓和繳納年費，請問她可能面臨證監會哪些處罰（如果有的話）？</p><p>I. 罰款；</p><p>II. 譴責；</p><p>III. 吊銷牌照；</p><p>IV. 暫時吊銷牌照，繼續開展工作。</p>",
+      "en_content": "<p>Mrs. Lam is a licensed representative of ABC Intermediary, primarily engaged in securities brokerage business. Due to negligence in her work, her license has expired, and she is no longer considered a fit and proper person. Additionally, she failed to attend training and pay annual fees in a timely manner. What penalties might she face from the Securities and Futures Commission (if any)?</p><p>I. A fine;</p><p>II. A reprimand;</p><p>III. Revocation of license;</p><p>IV. Temporary suspension, allowing her to continue working</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有IV"
+        },
+        {
+          "key": "B",
+          "value": "只有I，III"
+        },
+        {
+          "key": "C",
+          "value": "只有II，III"
+        },
+        {
+          "key": "D",
+          "value": "只有I，II，III"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>[DFXM]你开车没有有效的驾照，你觉得还能继续开吗？</p><p>肯定要接受处罚！</p><p>可能是：</p><p>- 撤销或暂时吊销所有或部分牌照；</p><p>- 撤销或暂时吊销负责人员所获成为负责人员的核准；</p><p>- 公开或非公开的谴责；</p><p>- 禁止其申请牌照/注册/获核准成为负责人员或主管人员；</p><p>- 罚款，最高1000万HKD； 或任何由于行为失当所得到利润或避免损失的3倍（以较高者为准）。</p>",
+      "cht_analysis": "<p>[DFXM]你開車沒有有效的駕駛執照，你覺得還能繼續開嗎？</p><p>肯定要接受處罰！</p><p>可能是：</p><p>- 撤銷或暫時吊銷所有或部分牌照；</p><p>- 撤銷或暫時吊銷負責人員所獲成為負責人員的核准；</p><p>- 公開或非公開的譴責；</p><p>- 禁止其申請牌照/註冊/獲核准成為負責人員或主管人員；</p><p>- 罰款，最高1000萬港幣；或任何由於行為失當所得到利潤或避免損失的3倍（以較高者為準）。</p>",
+      "en_analysis": "<p>[DFXM] You are driving without a valid driver's license. Do you think you can continue driving?</p><p>You will definitely face penalties!</p><p>Possible consequences may include:</p><p>- Revocation or temporary suspension of all or part of the license;</p><p>- Revocation or temporary suspension of the approval for a responsible officer to become a responsible officer;</p><p>- Public or private reprimand;</p><p>- Prohibition from applying for a license/registration/approval to become a responsible officer or executive officer;</p><p>- A fine, up to a maximum of HKD 10 million; or three times the profit gained or loss avoided due to misconduct (whichever is higher)</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 27
+    },
+    {
+      "question_id": 217,
+      "content": "<p>联交所上市法团WL公司为一间大型持牌法团。</p><p>该法团董事李先生被查出参与内幕交易及收受巨额贿赂。</p><p>证监会及联交所联合调查，已经就上述犯罪事项的罪证进行了取证，其罪行令监管机构震惊。</p><p>根据香港现行的监管制度，除去法院之外，证监会可将该等个案提交到哪个机构，方便进一步采取行动？</p><p>I. 香港警务处的商业罪案科；</p><p>II. 廉政公署；</p><p>III. 公司注册处；</p><p>IV. 市场失当行为审裁处。</p>",
+      "cht_content": "<p>聯交所上市法團WL公司為一間大型持牌法團。</p><p>該法團董事李先生被查出參與內幕交易及收受巨額賄賂。</p><p>證監會及聯交所聯合調查，已經就上述犯罪事項的罪證進行了取證，其罪行令監管機構震驚。</p><p>根據香港現行的監管制度，除去法院之外，證監會可將該等個案提交到哪個機構，方便進一步採取行動？</p><p>I. 香港警務處的商業罪案科；</p><p>II. 廉政公署；</p><p>III. 公司註冊處；</p><p>IV. 市場失當行為審裁處。</p>",
+      "en_content": "<p>The listed entity on the Stock Exchange, WL Company, is a large licensed corporation.</p><p>Mr. Lee, a director of the corporation, was found to have participated in insider trading and accepted substantial bribes.</p><p>The Securities and Futures Commission and the Stock Exchange conducted a joint investigation and have already gathered evidence for the aforementioned criminal activities. The severity of the offenses has shocked the regulatory authorities.</p><p>Under Hong Kong's current regulatory framework, aside from the courts, to which body can the Securities and Futures Commission refer such cases for further action?</p><p>I. The Commercial Crime Bureau of the Hong Kong Police Force;</p><p>II. The Independent Commission Against Corruption;</p><p>III. The Companies Registry;</p><p>IV. The Market Misconduct Tribunal</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "C",
+          "value": "I，II，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "只有I，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>已经是令人震惊的罪行了，市场失当行为审裁处肯定是hold不住了！</p><p>公司注册处显然不管这个事情，人家就是注册登记、看你有没有按时提交财报而已。</p><p>证监会可将涉嫌刑事及贿赂罪行的个案提交香港警务处的商业罪案调查科或廉政公署以采取行动。</p>",
+      "cht_analysis": "<p>已經是令人震驚的罪行，市場失當行為審裁處肯定是無法處理了！</p><p>公司註冊處顯然不管這個事情，他們只負責註冊登記、查看你有沒有按時提交財務報告而已。</p><p>證監會可將涉嫌刑事及賄賂罪行的個案提交香港警務處的商業罪案調查科或廉政公署以採取行動。</p>",
+      "en_analysis": "<p>It is already an astonishing crime, and the Market Misconduct Tribunal is definitely unable to handle it!</p><p>The Companies Registry clearly does not oversee this matter; they are only responsible for registration and checking whether financial reports are submitted on time.</p><p>The Securities and Futures Commission may refer cases involving suspected criminal and bribery offences to the Commercial Crime Bureau of the Hong Kong Police Force or the Independent Commission Against Corruption for action</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 24
+    },
+    {
+      "question_id": 846,
+      "content": "<p>以下各项为开展保证金融资的持牌法团X经营业务的操守规定，合适的有哪些？</p><p>I. 审阅客户的信用，订立保证金贷款上限、贷款比率及保证金追收的政策及程序；</p><p>II. 以证券保证金融资客户抵押品作押而向银行借贷的上限的管理；</p><p>III. 在户口结单中披露向客户提供的所有财务融通详情；</p><p>IV. 分开处理保证金客户及现金客户的户口。</p>",
+      "cht_content": "<p>以下各項為開展保證金融資的持牌法團X經營業務的操守規定，合適的有哪些？</p><p>I. 審閱客戶的信用，訂立保證金貸款上限、貸款比率及保證金追收的政策及程序；</p><p>II. 以證券保證金融資客戶抵押品作押而向銀行借貸的上限的管理；</p><p>III. 在戶口結單中披露向客戶提供的所有財務融通詳情；</p><p>IV. 分開處理保證金客戶及現金客戶的戶口。</p>",
+      "en_content": "<p>Which of the following are appropriate conduct requirements for licensed corporation X engaging in margin financing business?</p><p>I. Reviewing clients' creditworthiness, establishing policies and procedures for margin loan limits, loan-to-value ratios, and margin calls;</p><p>II. Managing the borrowing limits from banks using clients' collateral for securities margin financing;</p><p>III. Disclosing all financial accommodation details provided to clients in account statements;</p><p>IV. Separating the accounts of margin clients and cash clients</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>山海老师提示，本题非常重要，注意理解加记忆，不懂随时微信群提问。</p><p>这些行为都是值得提倡的。</p>",
+      "cht_analysis": "<p>山海老師提示，本題非常重要，注意理解加記憶，不懂隨時微信群提問。</p><p>這些行為都是值得提倡的。</p>",
+      "en_analysis": "<p>Teacher Shanhai reminds that this question is very important; pay attention to understanding and memorizing it. Feel free to ask questions in the WeChat group anytime.</p><p>These behaviors are all worth promoting</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第5章",
+      "chapter_id": 28
+    },
+    {
+      "question_id": 506,
+      "content": "<p>XM公司、DF公司为香港两家开展杠杆式外汇交易的有限公司。</p><p>最近，两间公司签订了杠杆式外汇交易的协议，随后两间公司对协议的履行发生了争议。</p><p>预计上述两间公司将会把该等争议提交给以下哪一个机构进行聆讯？</p>",
+      "cht_content": "<p>XM公司、DF公司為香港兩家開展槓桿式外匯交易的有限公司。</p><p>最近，兩間公司簽訂了槓桿式外匯交易的協議，隨後兩間公司對協議的履行發生了爭議。</p><p>預計上述兩間公司將會把該等爭議提交給以下哪一個機構進行聆訊？</p>",
+      "en_content": "<p>XM Company and DF Company are two limited companies in Hong Kong engaged in leveraged foreign exchange trading.</p><p>Recently, the two companies entered into an agreement for leveraged foreign exchange trading, and subsequently, disputes arose regarding the performance of the agreement.</p><p>It is anticipated that the two companies will submit these disputes to which of the following institutions for a hearing?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "杠杆式外汇交易仲裁委员会"
+        },
+        {
+          "key": "B",
+          "value": "证券及期货事务上诉审裁处"
+        },
+        {
+          "key": "C",
+          "value": "程序覆检委员会"
+        },
+        {
+          "key": "D",
+          "value": "市场失当行为审裁处"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>杠杆式外汇交易仲裁委员会－根据证监会按照《证券及期货条例》第118条的规定制定的规则成立。杠杆式外汇交易仲裁委员会将委任仲裁人按照《证券及期货（杠杆式外汇交易）（仲裁）规则》对争议进行聆讯。</p>",
+      "cht_analysis": "<p>槓桿式外匯交易仲裁委員會－根據證監會按照《證券及期貨條例》第118條的規定制定的規則成立。槓桿式外匯交易仲裁委員會將委任仲裁人按照《證券及期貨（槓桿式外匯交易）（仲裁）規則》對爭議進行聆訊。</p>",
+      "en_analysis": "<p>The Leveraged Foreign Exchange Trading Arbitration Committee – established in accordance with the rules formulated by the Securities and Futures Commission under Section 118 of the Securities and Futures Ordinance. The Leveraged Foreign Exchange Trading Arbitration Committee will appoint arbitrators to hear disputes in accordance with the Securities and Futures (Leveraged Foreign Exchange Trading) (Arbitration) Rules</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 24
+    },
+    {
+      "question_id": 276,
+      "content": "<p>DF公司为香港一间基金公司，获得证监会授权开展第9类受规管业务。</p><p>近日，证监会接到DF公司的核数师特别报告，声称DF公司的速动资金不足。</p><p>根据《证券及期货条例》，证监会向DF公司发送干预通知，可能的干预措施包括哪些？</p><p>I. 限制DF公司的业务活动；</p><p>II. 禁止DF公司的业务活动；</p><p>III. 禁止DF公司处置或处理该公司的客户资产，或其本身的财产；</p><p>IV. 要求DF公司在香港或其他地方保存由证监会指明价值或种类的财产。</p>",
+      "cht_content": "<p>DF公司為香港一間基金公司，獲得證監會授權開展第9類受規管業務。</p><p>近日，證監會接到DF公司的核數師特別報告，聲稱DF公司的速動資金不足。</p><p>根據《證券及期貨條例》，證監會向DF公司發送干預通知，可能的干預措施包括哪些？</p><p>I. 限制DF公司的業務活動；</p><p>II. 禁止DF公司的業務活動；</p><p>III. 禁止DF公司處置或處理該公司的客戶資產，或其本身的財產；</p><p>IV. 要求DF公司在香港或其他地方保存由證監會指明價值或種類的財產。</p>",
+      "en_content": "<p>DF Company is a fund company in Hong Kong, authorised by the Securities and Futures Commission to carry on Type 9 regulated activities.</p><p>Recently, the Securities and Futures Commission received a special report from DF Company's auditor, stating that DF Company has insufficient liquid capital.</p><p>Under the Securities and Futures Ordinance, the Securities and Futures Commission has issued an intervention notice to DF Company. What are the possible intervention measures?</p><p>I. Restrict the business activities of DF Company;</p><p>II. Prohibit the business activities of DF Company;</p><p>III. Prohibit DF Company from disposing of or dealing with its client assets, or its own property;</p><p>IV. Require DF Company to preserve property of a value or kind specified by the Securities and Futures Commission, in Hong Kong or elsewhere.</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "B",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "C",
+          "value": "I，II，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "只有I，II，III"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>第X部授予证监会权力，可干预持牌法团经营业务的方式。这些权力：</p><p>(a)可保障持牌法团的投资者及上市法团的少数股东的利益，并保障与该等法团有业务往来的人士及其他债权人的利益；</p><p>(b)在符合投资大众或公众利益时可运用；及</p><p>(c)在持牌法团出现下列情况时运用：</p><p>(i)\\t显示其不符合适当人选标准（山海老师提示：这里不是“持牌代表失去适当人选资格，是持牌法团没有符合适当人选！”）；</p><p>(ii)违反指明的《证券及期货条例》条文；或</p><p>(iii)其牌照已被暂时吊销或撤销。</p><p>证监会可藉发出通知进行以下干预：</p><p>(a)限制持牌法团的业务活动或禁止持牌法团进行指明活动（《证券及期货条例》第204条）；</p><p>(b)禁止持牌法团处置或处理由该法团或其他人士代其客户持有的财产，或其本身的财产（《证券及期货条例》第205条）；或</p><p>(c)要求持牌法团在香港或其他地方保存由证监会指明价值或种类的财产，确保持牌法团能应付债务，而保存该财产的方式能让该法团随时随意转移或处置该财产。</p>",
+      "cht_analysis": "<p>第X部授予證監會權力，可干預持牌法團經營業務的方式。這些權力：</p><p>(a)可保障持牌法團的投資者及上市法團的少數股東的利益，並保障與該等法團有業務往來的人士及其他債權人的利益；</p><p>(b)在符合投資大眾或公眾利益時可運用；及</p><p>(c)在持牌法團出現下列情況時運用：</p><p>(i)顯示其不符合適當人選標準（山海老師提示：這裏不是「持牌代表失去適當人選資格，是持牌法團沒有符合適當人選！」）；</p><p>(ii)違反指明的《證券及期貨條例》條文；或</p><p>(iii)其牌照已被暫時吊銷或撤銷。</p><p>證監會可藉發出通知進行以下干預：</p><p>(a)限制持牌法團的業務活動或禁止持牌法團進行指明活動（《證券及期貨條例》第204條）；</p><p>(b)禁止持牌法團處置或處理由該法團或其他人士代其客戶持有的財產，或其本身的財產（《證券及期貨條例》第205條）；或</p><p>(c)要求持牌法團在香港或其他地方保存由證監會指明價值或種類的財產，確保持牌法團能應付債務，而保存該財產的方式能讓該法團隨時隨意轉移或處置該財產。</p>",
+      "en_analysis": "<p>Part X empowers the Securities and Futures Commission (SFC) to intervene in the manner in which a licensed corporation conducts its business. These powers:</p><p>(a) may be exercised to protect the interests of investors of the licensed corporation and minority shareholders of a listed corporation, and to protect the interests of persons having dealings with such corporations and other creditors;</p><p>(b) may be exercised where it is in the interest of the investing public or the public interest; and</p><p>(c) may be exercised where the licensed corporation:</p><p>(i) is shown to be not a fit and proper person (Note: This refers to the licensed corporation not meeting the fit and proper criteria, not a licensed representative losing their fit and proper status!);</p><p>(ii) has contravened a specified provision of the Securities and Futures Ordinance; or</p><p>(iii) has had its licence suspended or revoked.</p><p>The SFC may intervene by issuing a notice to:</p><p>(a) restrict the business activities of the licensed corporation or prohibit the licensed corporation from carrying on specified activities (Section 204 of the Securities and Futures Ordinance);</p><p>(b) prohibit the licensed corporation from disposing of or dealing with property held by it or another person on behalf of its clients, or its own property (Section 205 of the Securities and Futures Ordinance); or</p><p>(c) require the licensed corporation to maintain in Hong Kong or elsewhere property of a value or kind specified by the SFC to ensure that the licensed corporation is able to meet its liabilities, and to maintain that property in such a manner that it is freely transferable or realisable by the corporation at any time.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 26
+    },
+    {
+      "question_id": 88,
+      "content": "<p>根据香港证监会目前的职能架构，企业融资部负责：</p><p>I. 监管公众公司的收购与合并，以及股份回购事宜；</p><p>II. 监察持牌法团维持最低的资金水平；</p><p>III. 监察香港交易及结算所有限公司与上市事务有关的活动；</p><p>IV. 确保上市公司的财务结构保持适当的水平。</p>",
+      "cht_content": "<p>根據香港證監會目前的職能架構，企業融資部負責：</p><p>I. 監管公眾公司的收購與合併，以及股份回購事宜；</p><p>II. 監察持牌法團維持最低的資金水平；</p><p>III. 監察香港交易及結算所有限公司與上市事務有關的活動；</p><p>IV. 確保上市公司的財務結構保持適當的水平。</p>",
+      "en_content": "<p>According to the current functional structure of the Hong Kong Securities and Futures Commission, the Corporate Finance Department is responsible for:</p><p>I. Regulating the acquisitions and mergers of public companies, as well as share repurchase matters;</p><p>II. Monitoring licensed corporations to maintain the minimum capital levels;</p><p>III. Overseeing the activities of Hong Kong Exchanges and Clearing Limited related to listing matters;</p><p>IV. Ensuring that the financial structures of listed companies remain at an appropriate level</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，IV"
+        },
+        {
+          "key": "B",
+          "value": "只有II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，III"
+        },
+        {
+          "key": "D",
+          "value": "只有II，III，IV"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>II，IV：没有这个内容</p><p>企业融资部主要做：</p><p>1 执行《公司收购/合并及股份回购守则》</p><p>2 监督香港联合交易所有限公司与上市有关活动</p><p>3. 检讨《上市规则》及提出修订建议</p><p>4.审核与认可非上市股份或债权证的招股章程及推广材料</p><p>5. 执行《证券及期货条例》的双重存档制度，从而提升上市申请人及上市公司信息披露的素质。</p><p>6、与香港联合交易所有限公司（“联交所”）一起审批上市申请。</p>",
+      "cht_analysis": "<p>II，IV：沒有這個內容</p><p>企業融資部主要負責：</p><p>1 執行《公司收購/合併及股份回購守則》</p><p>2 監督香港聯合交易所有限公司與上市有關的活動</p><p>3. 檢討《上市規則》及提出修訂建議</p><p>4. 審核與認可非上市股份或債權證的招股章程及推廣材料</p><p>5. 執行《證券及期貨條例》的雙重存檔制度，從而提升上市申請人及上市公司信息披露的質素。</p><p>6、與香港聯合交易所有限公司（「聯交所」）一起審批上市申請。</p>",
+      "en_analysis": "<p>II, IV: No such content</p><p>The Corporate Finance Department primarily handles:</p><p>1. Implementing the Codes on Takeovers and Mergers and Share Repurchases</p><p>2. Monitoring the listing-related activities of The Stock Exchange of Hong Kong Limited</p><p>3. Reviewing the Listing Rules and proposing amendments</p><p>4. Vetting and recognizing prospectuses and promotional materials for unlisted shares or debentures</p><p>5. Enforcing the dual filing system under the Securities and Futures Ordinance to enhance the quality of information disclosure by listing applicants and listed companies</p><p>6. Approving listing applications together with The Stock Exchange of Hong Kong Limited ('SEHK')</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 24
+    },
+    {
+      "question_id": 1665,
+      "content": "<p><p style=\"text-align: left;\">WL公司为香港注册的一间公众公司。</p><p style=\"text-align: left;\">最近，该公司发行了可赎回股份，承诺将在1年后，从股本中拨款赎回。</p><p style=\"text-align: left;\">根据新《公司条例》，以下说法正确的是哪一项？</p></p>",
+      "cht_content": "<p><p style=\"text-align: left;\">WL公司為香港註冊的一間公眾公司。</p><p style=\"text-align: left;\">最近，該公司發行了可贖回股份，承諾將在1年後，從股本中撥款贖回。</p><p style=\"text-align: left;\">根據新《公司條例》，以下說法正確的是哪一項？</p></p>",
+      "en_content": "<p><p style=\"text-align: left;\">WL Company is a public company registered in Hong Kong.</p><p style=\"text-align: left;\">Recently, the company issued redeemable shares, undertaking to redeem them from the capital after one year.</p><p style=\"text-align: left;\">According to the new Companies Ordinance, which of the following statements is correct?</p></p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "该等可赎回股份赎回之后，将作为普通股继续存在"
+        },
+        {
+          "key": "B",
+          "value": "该等可赎回股份赎回之后，将作为公司的红股发放给其他股东"
+        },
+        {
+          "key": "C",
+          "value": "发行该等股份，毋须由WL公司的组织章程细则许可"
+        },
+        {
+          "key": "D",
+          "value": "该等股份被赎回之后，WL公司将减少其股本的款额"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p><p style=\"text-align: left;\">可赎回股份一经赎回，<strong>即被视为已经取消</strong>，而：</p><p style=\"text-align: left;\">(a<strong>)从股本中拨款赎回的，则公司将减少其股本的款额（本案例的考点）；</strong></p><p style=\"text-align: left;\">(b)从利润中拨款赎回的，则公司将减少其可分派利润的款额；或</p><p style=\"text-align: left;\">(c)从资本及利润两者中拨款赎回的，则公司将按比例减少其股本及利润的款额，减幅相等于该公司缴付的该等股份的价格的总额。</p></p>",
+      "cht_analysis": "<p><p style=\"text-align: left;\">可贖回股份一經贖回，<strong>即被視為已經註銷</strong>，而：</p><p style=\"text-align: left;\">(a<strong>)從股本中撥款贖回的，則公司將減少其股本的金額（本案例的考點）；</strong></p><p style=\"text-align: left;\">(b)從利潤中撥款贖回的，則公司將減少其可分派利潤的金額；或</p><p style=\"text-align: left;\">(c)從資本及利潤兩者中撥款贖回的，則公司將按比例減少其股本及利潤的金額，減幅相等於該公司繳付的該等股份的價格的總額。</p></p>",
+      "en_analysis": "<p><p style=\"text-align: left;\">Once redeemable shares are redeemed, <strong>they are deemed to have been cancelled</strong>, and:</p><p style=\"text-align: left;\">(a<strong>) If the redemption is funded from share capital, the company shall reduce the amount of its share capital (the key point in this case);</strong></p><p style=\"text-align: left;\">(b) If the redemption is funded from profits, the company shall reduce the amount of its distributable profits; or</p><p style=\"text-align: left;\">(c) If the redemption is funded from both capital and profits, the company shall proportionally reduce the amount of its share capital and profits, with the reduction equivalent to the total price paid by the company for such shares.</p></p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第2章",
+      "chapter_id": 25
+    },
+    {
+      "question_id": 1019,
+      "content": "<p>保障资料原则载于《私隐条例》附表1，不包括哪一项？</p>",
+      "cht_content": "<p>保障資料原則載於《私隱條例》附表1，不包括哪一項？</p>",
+      "en_content": "<p>Which of the following is not included in the Data Protection Principles set out in Schedule 1 of the Privacy Ordinance?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "收集个人资料的目的及方式"
+        },
+        {
+          "key": "B",
+          "value": "个人资料的保安"
+        },
+        {
+          "key": "C",
+          "value": "收集个人资料的技巧"
+        },
+        {
+          "key": "D",
+          "value": "个人资料的准确性及保留期间"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>保障资料原则载于《私隐条例》附表1，可概述如下：</p><p>(a)第1原则－收集个人资料的目的及方式</p><p>(i)除非个人资料是为了直接与数据使用者的职能或活动有关的合法目的而收集，而资料的收集对该目的是必需的或直接与该目的有关的，以及就该目的而言，所收集的资料并不超乎适度，否则不得收集资料。资料应以合法及公平的方式收集。</p><p>(ii)在向资料当事人收集资料时，当事人应在订明的时限内获告知该等数据将会用于甚么目的、该等数据可能转移予甚么类别的人士及他要求查阅该等资料及要求改正该等资料的权利。</p><p>(b)第2原则－个人资料的准确性及保留期间</p><p>个人资料应准确及最近期。须采取所有切实可行的步骤，以确保个人资料的保留时间不得超过使用该等数据所需的时间，而当知悉个人资料是不准确时，应加以更正。亦须采取合约规范方法或其他方法，以防止转移予该资料处理者的个人资料的保存时间超过所需的时间。</p><p>(c)第3原则－个人资料的使用</p><p>未经数据当事人的同意，个人数据不应用于新的目的。</p><p>(d)第4原则－个人资料的保安</p><p>须采取所有切实可行的步骤，以确保个人资料受保障，而不会在未获准许或意外的情况下被查阅、处理、删除、丧失或作其他用途。</p><p>(e)第5原则－在一般情况下可获提供的数据</p><p>须采取所有切实可行的步骤，以确保任何人能确定数据用户在个人资料方面的政策及实务，并且获告知数据用户所持有的个人数据的种类，以及使用该等数据的主要目的。</p><p>(f) 第6原则－查阅个人资料</p><p>数据当事人有权确定数据用户是否持有他属其数据当事人的个人资料；要求在合理时间内，在支付合理费用下，查阅采用清楚易明的形式记录的个人资料；以及要求改正该等资料，并在上述要求被拒绝时获提供理由及就此向个人资料私隠专员提出反对。</p>",
+      "cht_analysis": "<p>(a) 第1原則－收集個人資料的目的及方式</p><p>(i) 除非個人資料是為了直接與資料使用者的職能或活動有關的合法目的而收集，而資料的收集對該目的是必需的或直接與該目的有關的，以及就該目的而言，所收集的資料並不超乎適度，否則不得收集資料。資料應以合法及公平的方式收集。</p><p>(ii) 在向資料當事人收集資料時，當事人應在訂明的時限內獲告知該等資料將會用於甚麼目的、該等資料可能轉移予甚麼類別的人士及他要求查閱該等資料及要求改正該等資料的權利。</p><p>(b) 第2原則－個人資料的準確性及保留期間</p><p>個人資料應準確及最近期。須採取所有切實可行的步驟，以確保個人資料的保留時間不得超過使用該等資料所需的時間，而當知悉個人資料是不準確時，應加以更正。亦須採取合約規範方法或其他方法，以防止轉移予該資料處理者的個人資料的保存時間超過所需的時間。</p><p>(c) 第3原則－個人資料的使用</p><p>未經資料當事人的同意，個人資料不應用於新的目的。</p><p>(d) 第4原則－個人資料的保安</p><p>須採取所有切實可行的步驟，以確保個人資料受保障，而不會在未獲准許或意外的情況下被查閱、處理、刪除、喪失或作其他用途。</p><p>(e) 第5原則－在一般情況下可獲提供的資料</p><p>須採取所有切實可行的步驟，以確保任何人能確定資料使用者在個人資料方面的政策及實務，並且獲告知資料使用者所持有的個人資料的種類，以及使用該等資料的主要目的。</p><p>(f) 第6原則－查閱個人資料</p><p>資料當事人有權確定資料使用者是否持有他屬其資料當事人的個人資料；要求在合理時間內，在支付合理費用下，查閱採用清楚易明的形式記錄的個人資料；以及要求改正該等資料，並在上述要求被拒絕時獲提供理由及就此向個人資料私隱專員提出反對。</p>",
+      "en_analysis": "<p>The Data Protection Principles are set out in Schedule 1 of the Privacy Ordinance and can be summarized as follows:</p><p>(a) Principle 1 – Purpose and Manner of Collection of Personal Data  </p><p>(i) Personal data should not be collected unless it is for a lawful purpose directly related to a function or activity of the data user, and the collection is necessary or directly related to that purpose. The data collected should not be excessive for that purpose. Data should be collected in a lawful and fair manner.  </p><p>(ii) When collecting data from the data subject, the subject should be informed within the prescribed time limit of the purposes for which the data will be used, the categories of persons to whom the data may be transferred, and their rights to request access to and correction of the data.</p><p>(b) Principle 2 – Accuracy and Retention Period of Personal Data  </p><p>Personal data should be accurate and up-to-date. All practicable steps must be taken to ensure that personal data is not retained longer than necessary for the purpose for which it is used. When it is known that personal data is inaccurate, it should be corrected. Contractual or other methods should also be adopted to prevent personal data transferred to data processors from being retained longer than necessary.</p><p>(c) Principle 3 – Use of Personal Data  </p><p>Personal data should not be used for new purposes without the consent of the data subject.</p><p>(d) Principle 4 – Security of Personal Data  </p><p>All practicable steps must be taken to ensure that personal data is protected against unauthorized or accidental access, processing, deletion, loss, or use for other purposes.</p><p>(e) Principle 5 – Information Generally Available  </p><p>All practicable steps must be taken to ensure that anyone can ascertain the policies and practices of the data user regarding personal data, and be informed of the types of personal data held by the data user and the main purposes for which the data is used.</p><p>(f) Principle 6 – Access to Personal Data  </p><p>The data subject has the right to ascertain whether the data user holds personal data of which they are the data subject, to request access to personal data recorded in a clear and understandable form within a reasonable time and at a reasonable cost, and to request correction of the data. If such requests are refused, the data subject is entitled to be provided with reasons and to object to the Privacy Commissioner for Personal Data</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第6章",
+      "chapter_id": 29
+    },
+    {
+      "question_id": 220,
+      "content": "<p>以下关于财政司司长的权限和责任说法正确的包括：</p><p>I. 财政司司长对证监会均具有全部有效权力；</p><p>II. 财政司司长可要求证监会提供有关证监会为实践其目标及履行其职能而采用的原则、实务及政策方面的资料；</p><p>III. 就公司而言，如发生事故，财政司司长可于必要时委任审查员及调查员加以处理；</p><p>IV. 委任证监会的行政总裁。</p>",
+      "cht_content": "<p>以下關於財政司司長的權限和責任說法正確的包括：</p><p>I. 財政司司長對證監會均具有全部有效權力；</p><p>II. 財政司司長可要求證監會提供有關證監會為實踐其目標及履行其職能而採用的原則、實務及政策方面的資料；</p><p>III. 就公司而言，如發生事故，財政司司長可於必要時委任審查員及調查員加以處理；</p><p>IV. 委任證監會的行政總裁。</p>",
+      "en_content": "<p>The following statements regarding the authority and responsibilities of the Financial Secretary are correct:</p><p>I. The Financial Secretary holds full and effective authority over the Securities and Futures Commission;</p><p>II. The Financial Secretary may request the Securities and Futures Commission to provide information on the principles, practices, and policies adopted by the Commission to achieve its objectives and perform its functions;</p><p>III. In the case of companies, if an incident occurs, the Financial Secretary may, when necessary, appoint inspectors and investigators to handle the matter;</p><p>IV. Appoint the Chief Executive Officer of the Securities and Futures Commission</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "A",
+      "analysis": "<p>IV 委任证监会认证总裁是特首的权限</p><p>财政司司长对证监会均具有全部有效权力。[]财政司司长可要求证监会提供有关证监会为实践其目标及履行其职能而采用的原则、实务及政策方面的资料。《证券及期货条例》规定，证监会可就证券及期货业事务向财政司司长提出意见及提供资料。证监会编制年报及财务报表，并呈交予财政司司长，而财政司司长再将年报及财务报表提交立法会。就公司而言，如发生事故，财政司司长可于必要时委任审查员及调查员加以处理。</p><p>##</p><p>证监会主席、副主席（非常设职位）、行政总裁及董事（执行及非执行董事）均由香港特区行政长官委任。行政长官可罢免该会任何董事，亦可厘定董事任职的条款及条件（《证券及期货条例》附表2）。香港特区行政长官可就证监会应如何寻求达致其目标及如何履行其职能向证监会发出书面指示（《证券及期货条例》第11条）。此外，证监会须向行政长官提交下一财政年度的收支预算，供香港特区行政长官审批，而财政司司长会将预算提交香港特别行政区立法会（“立法会”）。</p>",
+      "cht_analysis": "<p>IV 委任證監會認證總裁是特首的權限</p><p>財政司司長對證監會均具有全部有效權力。[]財政司司長可要求證監會提供有關證監會為實踐其目標及履行其職能而採用的原則、實務及政策方面的資料。《證券及期貨條例》規定，證監會可就證券及期貨業事務向財政司司長提出意見及提供資料。證監會編製年報及財務報表，並呈交予財政司司長，而財政司司長再將年報及財務報表提交立法會。就公司而言，如發生事故，財政司司長可於必要時委任審查員及調查員加以處理。</p><p>##</p><p>證監會主席、副主席（非常設職位）、行政總裁及董事（執行及非執行董事）均由香港特區行政長官委任。行政長官可罷免該會任何董事，亦可釐定董事任職的條款及條件（《證券及期貨條例》附表2）。香港特區行政長官可就證監會應如何尋求達致其目標及如何履行其職能向證監會發出書面指示（《證券及期貨條例》第11條）。此外，證監會須向行政長官提交下一財政年度的收支預算，供香港特區行政長官審批，而財政司司長會將預算提交香港特別行政區立法會（「立法會」）。</p>",
+      "en_analysis": "<p>IV. The appointment of an SFC-certified Chief Executive is within the authority of the Chief Executive.</p><p>The Financial Secretary holds full effective powers over the SFC. [] The Financial Secretary may require the SFC to provide information regarding the principles, practices, and policies adopted by the SFC to achieve its objectives and perform its functions. Under the Securities and Futures Ordinance, the SFC may provide advice and information to the Financial Secretary on matters related to the securities and futures industry. The SFC prepares an annual report and financial statements, which are submitted to the Financial Secretary, who then presents them to the Legislative Council. In the case of companies, if an incident occurs, the Financial Secretary may, when necessary, appoint inspectors and investigators to address the matter.</p><p>##</p><p>The Chairman, Vice Chairman (a non-permanent position), Chief Executive Officer, and Directors (both executive and non-executive) of the SFC are all appointed by the Chief Executive of the Hong Kong Special Administrative Region. The Chief Executive may remove any Director of the SFC and may also determine the terms and conditions of the Directors' appointments (Schedule 2 of the Securities and Futures Ordinance). The Chief Executive of the Hong Kong Special Administrative Region may issue written directives to the SFC on how it should seek to achieve its objectives and perform its functions (Section 11 of the Securities and Futures Ordinance). Additionally, the SFC must submit its revenue and expenditure budget for the next financial year to the Chief Executive for approval, and the Financial Secretary will present the budget to the Legislative Council of the Hong Kong Special Administrative Region ('Legislative Council')</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 24
+    },
+    {
+      "question_id": 157,
+      "content": "<p>根据香港现行的金融监管体系，以下哪项论述是不正确的？</p>",
+      "cht_content": "<p>根據香港現行的金融監管體系，以下哪項論述是不正確的？</p>",
+      "en_content": "<p>According to the current financial regulatory system in Hong Kong, which of the following statements is incorrect?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "证监会负责监察交易所及结算所的活动"
+        },
+        {
+          "key": "B",
+          "value": "香港交易所负责确保证券及期货合约在有秩序及公平的市场交易"
+        },
+        {
+          "key": "C",
+          "value": "港交所的附属公司均为香港交易所与香港特区政府合资拥有"
+        },
+        {
+          "key": "D",
+          "value": "港交所为香港联交所的上市公司"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>政府不会与交易所合股建立这些附属公司。</p>",
+      "cht_analysis": "<p>政府不會與交易所合股建立這些附屬公司。</p>",
+      "en_analysis": "<p>The government will not form joint ventures with exchanges to establish these subsidiary companies</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第1章",
+      "chapter_id": 24
+    },
+    {
+      "question_id": 965,
+      "content": "<p>以下哪一项是《适用于证监会的注册人和持牌人的管理、监督及内部监控指引》的8个重要领域之一？</p>",
+      "cht_content": "<p>以下哪一項是《適用於證監會的註冊人和持牌人的管理、監督及內部監控指引》的8個重要領域之一？</p>",
+      "en_content": "<p>Which of the following is one of the eight key areas outlined in the 'Guidelines on Management, Supervision and Internal Control for SFC Registered Persons and Licensed Persons'?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "前线经营"
+        },
+        {
+          "key": "B",
+          "value": "管理及监督"
+        },
+        {
+          "key": "C",
+          "value": "外部审计"
+        },
+        {
+          "key": "D",
+          "value": "后勤审计"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>管理及监督是重要领域之一。</p><p>《内部监控指引》涵盖八大范围，包括管理及监督、责任及职能的区分、人事及培训、资料管理、监察事宜、审计事宜、运作监控和风险管理</p>",
+      "cht_analysis": "<p>管理及監督是重要領域之一。</p><p>《內部監控指引》涵蓋八大範圍，包括管理及監督、責任及職能的區分、人事及培訓、資料管理、監察事宜、審計事宜、運作監控和風險管理。</p>",
+      "en_analysis": "<p>Management and supervision is one of the key areas.</p><p>The Internal Control Guidelines cover eight major areas, including management and supervision, segregation of duties and functions, personnel and training, information management, monitoring matters, audit matters, operational controls, and risk management</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第5章",
+      "chapter_id": 28
+    },
+    {
+      "question_id": 369,
+      "content": "<p>证券及期货事务监察委员会(“证监会”）在以下哪些情况下可披露其掌握的机密信息？</p><p>I. 披露机密信息符合公众利益。</p><p>II. 证监会认为披露机密资料符合涉及的上市公司股东的利益。</p><p>III. 中介人要求获取与客户信用评级有关的资料。</p><p>IV. 另一境外监管机构，已和证监会签订谅解备忘录。</p>",
+      "cht_content": "<p>證券及期貨事務監察委員會（「證監會」）在以下哪些情況下可披露其掌握的機密資料？</p><p>I. 披露機密資料符合公眾利益。</p><p>II. 證監會認為披露機密資料符合涉及的上市公司股東的利益。</p><p>III. 中介人要求獲取與客戶信用評級有關的資料。</p><p>IV. 另一境外監管機構，已和證監會簽訂諒解備忘錄。</p>",
+      "en_content": "<p>In which of the following circumstances may the Securities and Futures Commission ('SFC') disclose confidential information in its possession?</p><p>I. Disclosure of the confidential information is in the public interest.</p><p>II. The SFC considers that disclosing the confidential information is in the interests of the shareholders of the listed company involved.</p><p>III. An intermediary requests access to information related to a client's credit rating.</p><p>IV. Another overseas regulatory authority has signed a memorandum of understanding with the SFC</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "B",
+          "value": "只有I，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有I，II"
+        },
+        {
+          "key": "D",
+          "value": "只有I，II，IV"
+        }
+      ],
+      "answer": "B",
+      "analysis": "<p>信息披露要符合公众利益，而不是某部分小团体的利益。</p><p>中介人你自己找客户要他们的信用评级报告，或者你自己内部风控给客户做风险评级，还好意思麻烦监管，你脸怎么这么大呢？{山.海*老！师refer}证监会可披露机密资料，惟有关披露须符合公众利益或投资公众的利益，并可帮助接受资料者履行其职能。接受数据者只限于某些群体，包括：某些政府官员及部门、法定及监管机构，以及境外监管当局及金融监管机构。{山！海*老:师}证监会已与多个本港、内地及境外监管机构订立谅解备忘录，藉此互相提供支持及推动跨机关及跨境监管。</p>",
+      "cht_analysis": "<p>資訊披露要符合公眾利益，而不是某部分小團體的利益。</p><p>中介人你自己找客戶要他們的信用評級報告，或者你自己內部風控給客戶做風險評級，還好意思麻煩監管，你臉怎麼這麼大呢？{山.海*老！師refer}證監會可披露機密資料，惟有關披露須符合公眾利益或投資公眾的利益，並可幫助接受資料者履行其職能。接受數據者只限於某些群體，包括：某些政府官員及部門、法定及監管機構，以及境外監管當局及金融監管機構。{山！海*老:師}證監會已與多個本港、內地及境外監管機構訂立諒解備忘錄，藉此互相提供支持及推動跨機關及跨境監管。</p>",
+      "en_analysis": "<p>Information disclosure should serve the public interest, not the interests of a small group.</p><p>As an intermediary, you go to clients to obtain their credit rating reports, or your internal risk control department conducts risk assessments for clients—yet you have the nerve to trouble the regulators? How shameless is that? {Shan.Hai*Tea!cher refer} The Securities and Futures Commission may disclose confidential information, provided that such disclosure aligns with the public interest or the interest of the investing public and assists the recipient in performing their functions. Recipients of such information are limited to specific groups, including certain government officials and departments, statutory and regulatory bodies, as well as overseas regulatory authorities and financial regulatory agencies. {Shan!Hai*Tea:cher} The Securities and Futures Commission has entered into memoranda of understanding with numerous local, Mainland, and overseas regulatory bodies to provide mutual support and facilitate cross-agency and cross-border regulation</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第3章",
+      "chapter_id": 26
+    },
+    {
+      "question_id": 18002,
+      "content": "<p>根据《香港联合交易所有限公司证券上市规则》，就识别上市申请人的控股股东而言，下列哪一项有关其定义及尽职审查的描述是正确的？</p>",
+      "cht_content": "<p>根據《香港聯合交易所有限公司證券上市規則》，就識別上市申請人的控股股東而言，下列哪一項有關其定義及盡職審查的描述是正確的？</p>",
+      "en_content": "<p>According to the <span>Hong Kong Exchanges and Clearing Limited Securities Listing Rules</span>, which of the following statements regarding the definition and due diligence of identifying a listing applicant's controlling shareholder is correct?</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "控股股东是指任何单独持有上市申请人已发行股份数目超过50%的人士。"
+        },
+        {
+          "key": "B",
+          "value": "仅审阅上市申请人的股东名册，便足以让保荐人识别所有控股股东。"
+        },
+        {
+          "key": "C",
+          "value": "一名或一组有权控制上市申请人董事会大部分成员的人士，可被视为控股股东。"
+        },
+        {
+          "key": "D",
+          "value": "若控股股东为一间特殊目的投资公司，则无需向上追溯其背后的实益拥有人。"
+        }
+      ],
+      "answer": "C",
+      "analysis": "<p>选项A：不正确。《上市规则》对控股股东的定义门槛是持有30%或以上的投票权，而非50%。</p><p>选项B：不正确。保荐人的尽职审查工作远不止于此。香港交易所明确指出，仅检视股东名册并不足够。保荐人必须进行更深入的调查，以识别任何透过协议、安排或一致行动而共同行使控制权的人士。</p><p>选项C：正确。除了持有30%或以上投票权外，能够控制上市申请人董事会大部分成员的组成，是构成“控股股东”定义的另一个独立条件。</p><p>选项D：不正确。香港交易所已表明，若控股股东是为特定目的而设的投资机构（特殊目的投资公司），则保荐人应假定该特殊目的投资公司的控股股东的紧密联系人，以及该特殊目的投资公司的所有股东，均可能被视为控股股东。上市申请人可尝试反驳此假定，但绝不能直接忽略。</p><p>山海老师提示：此题考察对“控股股东”定义的深度理解及相关的保荐人尽职审查责任。考生须掌握构成控制的两个独立条件（投票权与董事会控制权），并了解针对法人股东（特别是特殊目的投资公司）的“穿透”审查原则。这是上市监管中防止规避披露和责任的核心环节。</p>",
+      "cht_analysis": "<p>選項A：不正確。《上市規則》對控股股東的定義門檻是持有30%或以上的投票權，而非50%。</p><p>選項B：不正確。保薦人的盡職審查工作遠不止於此。香港交易所明確指出，僅檢視股東名冊並不足夠。保薦人必須進行更深入的調查，以識別任何透過協議、安排或一致行動而共同行使控制權的人士。</p><p>選項C：正確。除了持有30%或以上投票權外，能夠控制上市申請人董事會大部分成員的組成，是構成「控股股東」定義的另一個獨立條件。</p><p>選項D：不正確。香港交易所已表明，若控股股東是為特定目的而設的投資機構（特殊目的投資公司），則保薦人應假定該特殊目的投資公司的控股股東的緊密聯繫人，以及該特殊目的投資公司的所有股東，均可能被視為控股股東。上市申請人可嘗試反駁此假定，但絕不能直接忽略。</p><p>山海老師提示：此題考察對「控股股東」定義的深度理解及相關的保薦人盡職審查責任。考生須掌握構成控制的兩個獨立條件（投票權與董事會控制權），並了解針對法人股東（特別是特殊目的投資公司）的「穿透」審查原則。這是上市監管中防止規避披露和責任的核心環節。</p>",
+      "en_analysis": "<p>Option A: Incorrect. The threshold for the definition of a controlling shareholder under the Listing Rules is holding 30% or more of the voting rights, not 50%.</p><p>Option B: Incorrect. The sponsor's due diligence work extends far beyond this. The Hong Kong Exchanges and Clearing Limited has explicitly stated that merely reviewing the register of members is insufficient. The sponsor must conduct more in-depth investigations to identify any persons who jointly exercise control through agreements, arrangements, or concerted actions.</p><p>Option C: Correct. In addition to holding 30% or more of the voting rights, the ability to control the composition of a majority of the board of directors of the listing applicant constitutes another independent criterion for the definition of a \"controlling shareholder\".</p><p>Option D: Incorrect. The Hong Kong Exchanges and Clearing Limited has indicated that if the controlling shareholder is an investment vehicle established for a specific purpose (a special purpose investment company), the sponsor should assume that the close associates of the controlling shareholder of that special purpose investment company, as well as all shareholders of that special purpose investment company, may be regarded as controlling shareholders. The listing applicant may attempt to rebut this assumption but must not simply disregard it.</p><p>Teacher Shanhai's Note: This question examines the in-depth understanding of the definition of \"controlling shareholder\" and the related sponsor due diligence responsibilities. Candidates must grasp the two independent criteria for constituting control (voting rights and board control) and understand the \"look-through\" review principle applicable to corporate shareholders, especially special purpose investment companies. This is a core aspect of listing regulation aimed at preventing the circumvention of disclosure and responsibility.</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第8章",
+      "chapter_id": 31
+    },
+    {
+      "question_id": 475,
+      "content": "<p>根据《证券及期货条例》附表五中对证券交易的定义，“证券交易”不包括在以下哪些情况下进行的证券交易？</p><p>I. 该人士为认可交易所、结算所及获认可自动化交易服务；</p><p>II. 该人士透过持牌证券交易商或注册机构从事上文所界定的证券交易；</p><p>III. 根据《受托人条例》注册，为某集体投资计划行事的信托公司；</p><p>IV. 开放式基金型公司就其股份发出任何广告或邀请。</p>",
+      "cht_content": "<p>根據《證券及期貨條例》附表五中對證券交易的定義，「證券交易」不包括在以下哪些情況下進行的證券交易？</p><p>I. 該人士為認可交易所、結算所及獲認可自動化交易服務；</p><p>II. 該人士透過持牌證券交易商或註冊機構從事上文所界定的證券交易；</p><p>III. 根據《受託人條例》註冊，為某集體投資計劃行事的信託公司；</p><p>IV. 開放式基金型公司就其股份發出任何廣告或邀請。</p>",
+      "en_content": "<p>According to the definition of 'securities trading' in Schedule 5 of the Securities and Futures Ordinance, which of the following situations are excluded from 'securities trading'?</p><p>I. The person is a recognized exchange, clearing house, or recognized automated trading service;</p><p>II. The person engages in securities trading as defined above through a licensed securities dealer or registered institution;</p><p>III. A trust company registered under the Trustee Ordinance acting for a collective investment scheme;</p><p>IV. An open-ended fund company issuing any advertisement or invitation for its shares</p>",
+      "options": [
+        {
+          "key": "A",
+          "value": "只有I，II，III"
+        },
+        {
+          "key": "B",
+          "value": "只有I，II，IV"
+        },
+        {
+          "key": "C",
+          "value": "只有II，III，IV"
+        },
+        {
+          "key": "D",
+          "value": "I，II，III，IV"
+        }
+      ],
+      "answer": "D",
+      "analysis": "<p>这个比较难记，记不住就算了。</p><p>证券交易的定义不包括在以下情况下进行的证券交易：</p><p>(a)该人士为认可交易所、结算所及获认可自动化交易服务；</p><p>(b)该人士透过持牌证券交易商或注册机构从事上文所界定的证券交易（见下文附注，该附注仅适用于此类人士）；</p><p>(c)该人士以主事人身份与某些类别的专业投资者进行交易或取得、处置、认购或包销证券；</p><p>(d)发出招股章程及连同招股章程发出股份的申请表格；</p><p>(e)发出已获证监会认可的广告或邀请；</p><p>(f)\\t开放式基金型公司就其股份发出任何广告或邀请；</p><p>(g)根据《受托人条例》注册，为某集体投资计划行事的信托公司；及</p><p>(h)第4类、第6类及第9类受规管活动中的若干行为。</p><p>附注︰然而，如上述人士是为赚取报酬而进行以下事项，则被视为进行证券交易：</p><p>(i)\\t将上述协议或要约从第三者传达予证券交易商；</p><p>(ii)代第三者与证券交易商订立上述协议或要约；</p><p>(iii)为证券交易商接受第三者提出的要约；或</p><p>(iv)使证券交易商与第三者互相介绍。</p><p>这里“证券交易”是在《证券及期货条例》里面定义的，他的定义就是牌照业务，所以他要认定，哪些人做这个业务，需要持有牌照。</p><p>实际上，这个定义是失败的，他完全可以不这么狗尾续貂，但目前法律既然以这个逻辑去写了，也没有办法。 所以，他需要把不需要持有牌照进行的证券交易，都排除在“证券交易”之外，因为他的上下文，就决定了他谈的是牌照业务。</p>",
+      "cht_analysis": "<p>這個比較難記，記不住就算了。</p><p>證券交易的定義不包括在以下情況下進行的證券交易：</p><p>(a)該人士為認可交易所、結算所及獲認可自動化交易服務；</p><p>(b)該人士透過持牌證券交易商或註冊機構從事上文所界定的證券交易（見下文附註，該附註僅適用於此類人士）；</p><p>(c)該人士以主事人身份與某些類別的專業投資者進行交易或取得、處置、認購或包銷證券；</p><p>(d)發出招股章程及連同招股章程發出股份的申請表格；</p><p>(e)發出已獲證監會認可的廣告或邀請；</p><p>(f)\\t開放式基金型公司就其股份發出任何廣告或邀請；</p><p>(g)根據《受託人條例》註冊，為某集體投資計劃行事的信託公司；及</p><p>(h)第4類、第6類及第9類受規管活動中的若干行為。</p><p>附註︰然而，如上述人士是為賺取報酬而進行以下事項，則被視為進行證券交易：</p><p>(i)\\t將上述協議或要約從第三者傳達予證券交易商；</p><p>(ii)代第三者與證券交易商訂立上述協議或要約；</p><p>(iii)為證券交易商接受第三者提出的要約；或</p><p>(iv)使證券交易商與第三者互相介紹。</p><p>這裡「證券交易」是在《證券及期貨條例》裡面定義的，他的定義就是牌照業務，所以他要認定，哪些人做這個業務，需要持有牌照。</p><p>實際上，這個定義是失敗的，他完全可以不這麼狗尾續貂，但目前法律既然以這個邏輯去寫了，也沒有辦法。 所以，他需要把不需要持有牌照進行的證券交易，都排除在「證券交易」之外，因為他的上下文，就決定了他談的是牌照業務。</p>",
+      "en_analysis": "<p>This is quite difficult to remember; if you can't remember it, it's fine.</p><p>The definition of securities trading does not include securities transactions conducted under the following circumstances:</p><p>(a) The person is a recognized exchange, clearing house, or recognized automated trading service;</p><p>(b) The person engages in securities trading as defined above through a licensed securities dealer or registered institution (see the note below, which applies only to such persons);</p><p>(c) The person acts as a principal in transactions with certain categories of professional investors or acquires, disposes of, subscribes to, or underwrites securities;</p><p>(d) The issuance of a prospectus and the application forms for shares issued together with the prospectus;</p><p>(e) The issuance of advertisements or invitations that have been recognized by the Securities and Futures Commission;</p><p>(f) An open-ended fund company issuing any advertisement or invitation regarding its shares;</p><p>(g) A trust company registered under the Trustee Ordinance acting for a collective investment scheme; and</p><p>(h) Certain activities under Type 4, Type 6, and Type 9 regulated activities.</p><p>Note: However, if the above persons engage in the following activities for the purpose of earning remuneration, they are considered to be conducting securities trading:</p><p>(i) Conveying the above agreements or offers from a third party to a securities dealer;</p><p>(ii) Entering into the above agreements or offers with a securities dealer on behalf of a third party;</p><p>(iii) Accepting offers made by a third party on behalf of a securities dealer; or</p><p>(iv) Facilitating introductions between a securities dealer and a third party.</p><p>Here, 'securities trading' is defined in the Securities and Futures Ordinance. Its definition pertains to licensing businesses, so it is necessary to determine which individuals engaging in such activities require a license.</p><p>In reality, this definition is flawed. It could have been written more concisely, but since the law has been drafted with this logic, there is no alternative. Therefore, it is necessary to exclude securities transactions that do not require a license from the definition of 'securities trading,' as the context dictates that it refers to licensing businesses</p>",
+      "question_type": "1",
+      "score": 0,
+      "chapter_name": "第4章",
+      "chapter_id": 27
+    }
+  ]
+}
